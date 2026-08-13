@@ -1,0 +1,4519 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Problems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Travelling Salesman Problem"
+    },
+    {
+      "description": "Beta feature: benchmark charts are generated from . The results, sourced directly from original papers using common benchmarks, are presented to directly illustrate the evolution of performance. Runtime is normalized to 1000 instances by instance count only; hardware is not normalized. Gap charts show main-experiment points within benchmark-specific gap bounds (3.5% for TSP-500, 5% otherwise); within each baseline, slower points are shown only when they improve gap.",
+      "items": [],
+      "title": "Benchmark Results (Beta)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uniform TSP-500"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:59:14Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem Arxiv, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-02-10T00:15:42Z",
+            "owner": "chaitjo",
+            "repo": "graph-convnet-tsp",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T05:13:34Z",
+            "owner": "ai4co",
+            "repo": "reevo",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning. NeurIPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-02T06:23:26Z",
+            "owner": "yd-kwon",
+            "repo": "POMO",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-10T05:36:11Z",
+            "owner": "Edward-Sun",
+            "repo": "DIFUSCO",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning TSP Requires Rethinking Generalization CP, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-26T07:49:32Z",
+            "owner": "chaitjo",
+            "repo": "learning-tsp",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T13:25:54Z",
+            "owner": "henry-yeh",
+            "repo": "DeepACO",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLOP: Learning Global Partition and Local Construction for Solving Large-Scale Routing Problems in Real-Time AAAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T06:04:42Z",
+            "owner": "henry-yeh",
+            "repo": "GLOP",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T02:47:16Z",
+            "owner": "CIAM-Group",
+            "repo": "NCO_code",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T02:47:16Z",
+            "owner": "CIAM-Group",
+            "repo": "NCO_code",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐LinSATNet: The Positive Linear Satisfiability Neural Networks ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T22:14:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "LinSATNet",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:36:27Z",
+            "owner": "Summer142857",
+            "repo": "LLMCoSolver",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T11:39:51Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "T2TCO",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-30T01:46:50Z",
+            "owner": "jieyibi",
+            "repo": "AMDKD",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T02:36:14Z",
+            "owner": "RoyalSkye",
+            "repo": "Omni-VRP",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning 2-opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement Learning ACML, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-20T18:38:25Z",
+            "owner": "paulorocosta",
+            "repo": "learning-2opt-drl",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H-tsp: Hierarchically solving the large-scale traveling salesman problem AAAI, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-21T14:13:53Z",
+            "owner": "Learning4Optimization-HUST",
+            "repo": "H-TSP",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T18:48:16Z",
+            "owner": "ai4co",
+            "repo": "parco",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-24T13:08:54Z",
+            "owner": "yining043",
+            "repo": "NeuOpt",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-20T07:30:42Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4TSPBench",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T08:54:25Z",
+            "owner": "naver",
+            "repo": "bq-nco",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simulation-guided Beam Search for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-02T06:16:33Z",
+            "owner": "yd-kwon",
+            "repo": "SGBS",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling Salesman Problem Arxiv, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-16T11:33:58Z",
+            "owner": "Pointerformer",
+            "repo": "Pointerformer",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Position: Rethinking Post-Hoc Search-Based Neural Approaches for Solving Large-Scale Traveling Salesman Problems ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-06T01:18:55Z",
+            "owner": "xyfffff",
+            "repo": "rethink_mcts_for_tsp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T08:26:41Z",
+            "owner": "alstn12088",
+            "repo": "Sym-NCO",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem AAAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-26T03:32:04Z",
+            "owner": "JHL-HUST",
+            "repo": "VSR-LKH-V2",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reinforced Lin–Kernighan–Helsgaun Algorithms for the Traveling Salesman Problems Knowledge-Based Systems, 2023. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-26T03:32:04Z",
+            "owner": "JHL-HUST",
+            "repo": "VSR-LKH-V2",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T17:10:13Z",
+            "owner": "MingjunPan",
+            "repo": "PO4COPs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T10:32:46Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH-S",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:18:27Z",
+            "owner": "ZBoyn",
+            "repo": "G-LNS",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems Arxiv, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T12:09:31Z",
+            "owner": "paulorocosta",
+            "repo": "ai-for-tsp-competition",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed AAAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T11:08:41Z",
+            "owner": "xybFight",
+            "repo": "GNARKD",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:41:12Z",
+            "owner": "Bill-CJB",
+            "repo": "EMNH",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:42:32Z",
+            "owner": "Bill-CJB",
+            "repo": "NHDE",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T11:40:45Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "Fast-T2T",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaboration! Towards Robust Neural Methods for Routing Problems NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-16T15:02:10Z",
+            "owner": "RoyalSkye",
+            "repo": "Routing-CNF",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-23T03:54:09Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ROCO",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Generative Flow Network for Solving Vehicle Routing Problems ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T09:15:58Z",
+            "owner": "ZHANG-NI",
+            "repo": "AGFN",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T06:18:11Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "UniCO",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-01T05:54:37Z",
+            "owner": "L-Z-7",
+            "repo": "BOPO",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T02:45:56Z",
+            "owner": "jieyibi",
+            "repo": "CaR-constraint",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T12:43:47Z",
+            "owner": "yiding-s",
+            "repo": "MoH",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:43:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "GenSCO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T21:10:03Z",
+            "owner": "sunnweiwei",
+            "repo": "FrontierCO",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-08T08:31:18Z",
+            "owner": "TheLeprechaun25",
+            "repo": "MARCO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T02:48:48Z",
+            "owner": "CIAM-Group",
+            "repo": "L2C_Insert",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:43:15Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "MaskCO",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Improvement Heuristics for Graph Combinatorial Optimization Problems TNNLS, 2023. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T11:56:45Z",
+            "owner": "TheLeprechaun25",
+            "repo": "neural-improvement-heuristics",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T13:47:33Z",
+            "owner": "CIAM-Group",
+            "repo": "TTPL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:38:57Z",
+            "owner": "terranovafr",
+            "repo": "LaGCO-RL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T10:47:59Z",
+            "owner": "yuuuuwang",
+            "repo": "StruDiCO",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation AAAI, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T13:29:59Z",
+            "owner": "HenryZhu1029",
+            "repo": "EvoReal",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T09:31:30Z",
+            "owner": "filiprydin",
+            "repo": "GMS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Heuristics for the TSP by Policy Gradient CPAIOR, 2018. paper",
+          "description": ", code",
+          "children": []
+        }
+      ],
+      "title": "Uniform TSP-1000"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning. NeurIPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-31T06:18:26Z",
+            "owner": "zcaicaros",
+            "repo": "L2D",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T13:25:54Z",
+            "owner": "henry-yeh",
+            "repo": "DeepACO",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:36:27Z",
+            "owner": "Summer142857",
+            "repo": "LLMCoSolver",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReSched: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T03:48:01Z",
+            "owner": "XiangjieXiao",
+            "repo": "ReSched",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-01T05:54:37Z",
+            "owner": "L-Z-7",
+            "repo": "BOPO",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Action Self-Improvement for Neural Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T12:39:56Z",
+            "owner": "LTluttmann",
+            "repo": "macsim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Applicability of Neural Combinatorial Optimization: A Critical View TELO, 2024. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T09:15:47Z",
+            "owner": "TheLeprechaun25",
+            "repo": "Applicability-NCO",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Job Shop Scheduling Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T18:48:16Z",
+            "owner": "ai4co",
+            "repo": "parco",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T17:10:13Z",
+            "owner": "MingjunPan",
+            "repo": "PO4COPs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Action Self-Improvement for Neural Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T12:39:56Z",
+            "owner": "LTluttmann",
+            "repo": "macsim",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Flow Shop Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fast Differentiable Sorting and Ranking ICML, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-02-15T03:26:44Z",
+            "owner": "google-research",
+            "repo": "fast-soft-sort",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimizing Rank-Based Metrics With Blackbox Differentiation CVPR, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T20:30:30Z",
+            "owner": "martius-lab",
+            "repo": "blackbox-backprop",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stochastic Optimization of Sorting Networks via Continuous Relaxations ICLR, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:43:17Z",
+            "owner": "ermongroup",
+            "repo": "neuralsort",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiRank-Scalable Learning To Rank via Differentiable Sorting NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:36:23Z",
+            "owner": "ermongroup",
+            "repo": "pirank",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftSort: A Continuous Relaxation for the argsort Operator ICML, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:38:52Z",
+            "owner": "sprillo",
+            "repo": "softsort",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decision-Focused Learning: Through the Lens of Learning to Rank ICML, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-31T04:52:17Z",
+            "owner": "JayMan91",
+            "repo": "ltr-predopt",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Improvement Heuristics for Graph Combinatorial Optimization Problems TNNLS, 2023. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T11:56:45Z",
+            "owner": "TheLeprechaun25",
+            "repo": "neural-improvement-heuristics",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Applicability of Neural Combinatorial Optimization: A Critical View TELO, 2024. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T09:15:47Z",
+            "owner": "TheLeprechaun25",
+            "repo": "Applicability-NCO",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatic Loss Function Search for Predict-Then-Optimize Problems with Strong Ranking Property ICLR, 2022. paper",
+          "description": ", code",
+          "children": []
+        }
+      ],
+      "title": "Sorting & Ranking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐Learning Combinatorial Embedding Networks for Deep Graph Matching. ICCV, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Learning deep graph matching with channel-independent embedding and Hungarian attention. ICLR, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Graduated Assignment for Joint Multi-Graph Matching and Clustering with Application to Unsupervised Graph Matching Network Learning. NeurIPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Combinatorial Learning of Robust Deep Graph Matching: An Embedding Based Approach. TPAMI, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching. TPAMI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T16:43:04Z",
+            "owner": "duyhominhnguyen",
+            "repo": "LVM-Med",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐LinSATNet: The Positive Linear Satisfiability Neural Networks ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T22:14:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "LinSATNet",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers. ECCV, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-11T16:54:32Z",
+            "owner": "martius-lab",
+            "repo": "blackbox-deep-graph-matching",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revised Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks Arxiv, 2017. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-12-05T09:36:55Z",
+            "owner": "alexnowakvila",
+            "repo": "QAP_pt",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond CVPR, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-29T07:53:27Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "robustMatch",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Self-supervised Learning of Visual Graph Matching ECCV, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-12T09:07:28Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch-SCGM",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching. ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T09:30:27Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "RGM",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Prune Instances of Steiner Tree Problem in Grap INOC, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-28T12:07:18Z",
+            "owner": "dajwani",
+            "repo": "alenex22",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Graph Matching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching. TPAMI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:14:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ThinkMatch",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revised Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks Arxiv, 2017. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-12-05T09:36:55Z",
+            "owner": "alexnowakvila",
+            "repo": "QAP_pt",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Revocable Deep Reinforcement Learning with Affinity Regularization for Outlier-Robust Graph Matching. ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T09:30:27Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "RGM",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Quadratic Assignment Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐LinSATNet: The Positive Linear Satisfiability Neural Networks ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T22:14:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "LinSATNet",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-27T01:30:22Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "NAR-CO-Solver",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Portfolio Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks Nature Machine Intelligence, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T21:06:49Z",
+            "owner": "nasheydari",
+            "repo": "HypOp",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-30T01:55:04Z",
+            "owner": "zdhNarsil",
+            "repo": "GFlowNet-CombOpt",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T10:02:15Z",
+            "owner": "ml-jku",
+            "repo": "DIffUCO",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISCS: A Benchmark for Discrete Sampling NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-20T16:37:14Z",
+            "owner": "google-research",
+            "repo": "discs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation ICML, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-26T14:00:07Z",
+            "owner": "davidireland-iso",
+            "repo": "LeNSE",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Solve Combinatorial Graph Partitioning Problems via Efficient Exploration Arxiv, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-18T15:57:46Z",
+            "owner": "tomdbar",
+            "repo": "ecord",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variational Annealing on Graphs for Combinatorial Optimization NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-22T13:32:39Z",
+            "owner": "ml-jku",
+            "repo": "VAG-CO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-08T08:31:18Z",
+            "owner": "TheLeprechaun25",
+            "repo": "MARCO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regularized Langevin Dynamics for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T19:54:39Z",
+            "owner": "Shengyu-Feng",
+            "repo": "RLD4CO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Combinatorial Optimization via Heat Diffusion NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2025-03-20T06:57:32Z",
+            "owner": "AwakerMhy",
+            "repo": "HeO",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Improvement Heuristics for Graph Combinatorial Optimization Problems TNNLS, 2023. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-10T11:56:45Z",
+            "owner": "TheLeprechaun25",
+            "repo": "neural-improvement-heuristics",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:38:57Z",
+            "owner": "terranovafr",
+            "repo": "LaGCO-RL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T22:43:52Z",
+            "owner": "utkuumur",
+            "repo": "X2GNN",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Maximal Cut"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:59:14Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T05:13:34Z",
+            "owner": "ai4co",
+            "repo": "reevo",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T13:25:54Z",
+            "owner": "henry-yeh",
+            "repo": "DeepACO",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Perform Local Rewriting for Combinatorial Optimization. NeurIPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-21T00:00:33Z",
+            "owner": "facebookresearch",
+            "repo": "neural-rewriter",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLOP: Learning Global Partition and Local Construction for Solving Large-Scale Routing Problems in Real-Time AAAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T06:04:42Z",
+            "owner": "henry-yeh",
+            "repo": "GLOP",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T02:47:16Z",
+            "owner": "CIAM-Group",
+            "repo": "NCO_code",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T02:47:16Z",
+            "owner": "CIAM-Group",
+            "repo": "NCO_code",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:36:27Z",
+            "owner": "Summer142857",
+            "repo": "LLMCoSolver",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T02:37:25Z",
+            "owner": "RoyalSkye",
+            "repo": "Routing-MVMoE",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-30T01:46:50Z",
+            "owner": "jieyibi",
+            "repo": "AMDKD",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T02:36:14Z",
+            "owner": "RoyalSkye",
+            "repo": "Omni-VRP",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T18:48:16Z",
+            "owner": "ai4co",
+            "repo": "parco",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-24T13:08:54Z",
+            "owner": "yining043",
+            "repo": "NeuOpt",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems. AAAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-22T07:46:29Z",
+            "owner": "liangxinedu",
+            "repo": "MDAM",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T08:54:25Z",
+            "owner": "naver",
+            "repo": "bq-nco",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reinforcement Learning with Combinatorial Actions: An Application to Vehicle Routing NeurIPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T13:35:01Z",
+            "owner": "google-research",
+            "repo": "tf-opt",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simulation-guided Beam Search for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-02T06:16:33Z",
+            "owner": "yd-kwon",
+            "repo": "SGBS",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T07:31:17Z",
+            "owner": "ai4co",
+            "repo": "real-routing-nco",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T08:26:41Z",
+            "owner": "alstn12088",
+            "repo": "Sym-NCO",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiagent Environments for Vehicle Routing Problems INFORMS Journal on Computing, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T19:38:14Z",
+            "owner": "MAEnvs4VRP",
+            "repo": "maenvs4vrp",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T17:10:13Z",
+            "owner": "MingjunPan",
+            "repo": "PO4COPs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T10:32:46Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH-S",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:18:27Z",
+            "owner": "ZBoyn",
+            "repo": "G-LNS",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed AAAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T11:08:41Z",
+            "owner": "xybFight",
+            "repo": "GNARKD",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:41:12Z",
+            "owner": "Bill-CJB",
+            "repo": "EMNH",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:42:32Z",
+            "owner": "Bill-CJB",
+            "repo": "NHDE",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaboration! Towards Robust Neural Methods for Routing Problems NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-16T15:02:10Z",
+            "owner": "RoyalSkye",
+            "repo": "Routing-CNF",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Generative Flow Network for Solving Vehicle Routing Problems ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T09:15:58Z",
+            "owner": "ZHANG-NI",
+            "repo": "AGFN",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Light Decoder-based Solvers for Vehicle Routing Problems ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-20T09:52:23Z",
+            "owner": "ziweileonhuang",
+            "repo": "reld-nco",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T11:19:42Z",
+            "owner": "ZHANG-NI",
+            "repo": "AFL",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T02:45:56Z",
+            "owner": "jieyibi",
+            "repo": "CaR-constraint",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T12:43:47Z",
+            "owner": "yiding-s",
+            "repo": "MoH",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints IJCAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T01:25:29Z",
+            "owner": "xyfffff",
+            "repo": "NCG-for-2L-CVRP",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Action Self-Improvement for Neural Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T12:39:56Z",
+            "owner": "LTluttmann",
+            "repo": "macsim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T06:04:01Z",
+            "owner": "CIAM-Group",
+            "repo": "CaDA",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T07:04:15Z",
+            "owner": "yuzikang0",
+            "repo": "CoEKS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T02:48:48Z",
+            "owner": "CIAM-Group",
+            "repo": "L2C_Insert",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-26T12:07:59Z",
+            "owner": "gshuangchun",
+            "repo": "CCL-MTLVRP",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T13:00:32Z",
+            "owner": "yihang0410",
+            "repo": "RADAR",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:43:15Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "MaskCO",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T13:47:33Z",
+            "owner": "CIAM-Group",
+            "repo": "TTPL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T13:20:41Z",
+            "owner": "zaodushi",
+            "repo": "RFTHGS",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-25T15:18:28Z",
+            "owner": "CIAM-Group",
+            "repo": "Rethinking_Constraint_Tightness",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation AAAI, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T13:29:59Z",
+            "owner": "HenryZhu1029",
+            "repo": "EvoReal",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Segment for Vehicle Routing Problems ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-02T19:10:24Z",
+            "owner": "mit-wu-lab",
+            "repo": "learning-to-segment",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T09:31:30Z",
+            "owner": "filiprydin",
+            "repo": "GMS",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Vehicle Routing Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-10T05:36:11Z",
+            "owner": "Edward-Sun",
+            "repo": "DIFUSCO",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks Nature Machine Intelligence, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T21:06:49Z",
+            "owner": "nasheydari",
+            "repo": "HypOp",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:36:27Z",
+            "owner": "Summer142857",
+            "repo": "LLMCoSolver",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T11:39:51Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "T2TCO",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-30T01:55:04Z",
+            "owner": "zdhNarsil",
+            "repo": "GFlowNet-CombOpt",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T10:02:15Z",
+            "owner": "ml-jku",
+            "repo": "DIffUCO",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISCS: A Benchmark for Discrete Sampling NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-20T16:37:14Z",
+            "owner": "google-research",
+            "repo": "discs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization ICLR, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T07:35:41Z",
+            "owner": "MaxiBoether",
+            "repo": "mis-benchmark-framework",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems TMLR, 2025. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-02T11:40:45Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "Fast-T2T",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-23T03:54:09Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ROCO",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variational Annealing on Graphs for Combinatorial Optimization NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-22T13:32:39Z",
+            "owner": "ml-jku",
+            "repo": "VAG-CO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:43:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "GenSCO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T21:10:03Z",
+            "owner": "sunnweiwei",
+            "repo": "FrontierCO",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Learning for Combinatorial Optimization Needs Meta Learning ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T15:38:14Z",
+            "owner": "Graph-COM",
+            "repo": "Meta_CO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-08T08:31:18Z",
+            "owner": "TheLeprechaun25",
+            "repo": "MARCO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regularized Langevin Dynamics for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T19:54:39Z",
+            "owner": "Shengyu-Feng",
+            "repo": "RLD4CO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maximum Independent Set: Self-Training through Dynamic Programming NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-14T14:55:45Z",
+            "owner": "LIONS-EPFL",
+            "repo": "dynamic-MIS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-08T16:30:41Z",
+            "owner": "XzrTGMu",
+            "repo": "twin-nphard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T09:43:15Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "MaskCO",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T10:47:59Z",
+            "owner": "yuuuuwang",
+            "repo": "StruDiCO",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T11:20:46Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ConRep4CO",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T22:43:52Z",
+            "owner": "utkuumur",
+            "repo": "X2GNN",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Maximum Independent Set"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:59:14Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T05:13:34Z",
+            "owner": "ai4co",
+            "repo": "reevo",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning TSP Requires Rethinking Generalization CP, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-26T07:49:32Z",
+            "owner": "chaitjo",
+            "repo": "learning-tsp",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-03T02:36:14Z",
+            "owner": "RoyalSkye",
+            "repo": "Omni-VRP",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-23T03:54:09Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ROCO",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:38:57Z",
+            "owner": "terranovafr",
+            "repo": "LaGCO-RL",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T13:25:54Z",
+            "owner": "henry-yeh",
+            "repo": "DeepACO",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial Optimization Problems NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T02:47:16Z",
+            "owner": "CIAM-Group",
+            "repo": "NCO_code",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A reinforcement learning approach to the orienteering problem with time windows Computers & Operations Research, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-05T18:53:45Z",
+            "owner": "mustelideos",
+            "repo": "optw_rl",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Orienteering Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T13:25:54Z",
+            "owner": "henry-yeh",
+            "repo": "DeepACO",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T08:54:25Z",
+            "owner": "naver",
+            "repo": "bq-nco",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Meta Neural Heuristic for Multi-Objective Combinatorial Optimization NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:41:12Z",
+            "owner": "Bill-CJB",
+            "repo": "EMNH",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T03:42:32Z",
+            "owner": "Bill-CJB",
+            "repo": "NHDE",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Knapsack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning a SAT solver from single-bit supervision. Arxiv, 2018. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-12T16:54:10Z",
+            "owner": "dselsam",
+            "repo": "neurosat",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks Nature Machine Intelligence, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T21:06:49Z",
+            "owner": "nasheydari",
+            "repo": "HypOp",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-30T01:55:04Z",
+            "owner": "zdhNarsil",
+            "repo": "GFlowNet-CombOpt",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G2SAT: Learning to Generate SAT Formulas. NeurIPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-25T21:09:09Z",
+            "owner": "JiaxuanYou",
+            "repo": "G2SAT",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Local Search Heuristics for Boolean Satisfiability. NeurIPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-08T18:12:43Z",
+            "owner": "emreyolcu",
+            "repo": "sat",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐HardSATGEN: Understanding the Difficulty of Hard SAT Formula Generation and A Strong Structure-Hardness-Aware Baseline KDD, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-16T14:03:02Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "HardSATGEN",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLocalSAT: Boosting Local Search with Solution Prediction. Arxiv, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-04T15:12:21Z",
+            "owner": "myxxxsquared",
+            "repo": "NLocalSAT",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T06:18:11Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "UniCO",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to solve circuit-SAT: An unsupervised differentiable approach. ICLR, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-20T16:12:28Z",
+            "owner": "johannaSommer",
+            "repo": "generalization-neural-co-solvers",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Combinatorial Optimization via Heat Diffusion NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2025-03-20T06:57:32Z",
+            "owner": "AwakerMhy",
+            "repo": "HeO",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Augment with Care: Contrastive Learning for Combinatorial Problems. ICML, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-09T15:07:49Z",
+            "owner": "h4duan",
+            "repo": "contrastive-sat",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online Bayesian Moment Matching based SAT Solver Heuristics. ICML, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-04T20:35:43Z",
+            "owner": "saeednj",
+            "repo": "BMMSAT",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning. Arxiv, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-15T03:11:07Z",
+            "owner": "lederg",
+            "repo": "learningqbf",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Boolean Satisfiability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Scheduling Algorithms for Data Processing Clusters SIGCOMM, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-15T12:02:09Z",
+            "owner": "hongzimao",
+            "repo": "decima-sim",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Perform Local Rewriting for Combinatorial Optimization. NeurIPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-21T00:00:33Z",
+            "owner": "facebookresearch",
+            "repo": "neural-rewriter",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-19T03:28:52Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "PPO-BiHyb",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:38:57Z",
+            "owner": "terranovafr",
+            "repo": "LaGCO-RL",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Computing Resource Allocation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Online 3D Bin Packing with Constrained Deep Reinforcement Learning. AAAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T02:27:26Z",
+            "owner": "alexfrom0815",
+            "repo": "Online-3D-BPP-DRL",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T16:59:14Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T05:13:34Z",
+            "owner": "ai4co",
+            "repo": "reevo",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TAP-Net: Transport-and-Pack using Reinforcement Learning. TOG, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-03T09:07:21Z",
+            "owner": "Juzhan",
+            "repo": "TAP-Net",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackIt: A Virtual Environment for Geometric Planning ICML, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-12T21:50:05Z",
+            "owner": "princeton-vl",
+            "repo": "PackIt",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T10:32:46Z",
+            "owner": "FeiLiu36",
+            "repo": "EoH-S",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T12:43:47Z",
+            "owner": "yiding-s",
+            "repo": "MoH",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints IJCAI, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T01:25:29Z",
+            "owner": "xyfffff",
+            "repo": "NCG-for-2L-CVRP",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Bin Packing Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graph Matching Networks for Learning the Similarity of Graph Structured Objects ICML, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T11:59:36Z",
+            "owner": "Lin-Yijie",
+            "repo": "Graph-Matching-Networks",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimGNN - A Neural Network Approach to Fast Graph Similarity Computation WSDM, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-27T17:33:56Z",
+            "owner": "yunshengb",
+            "repo": "SimGNN",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-19T03:28:52Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "PPO-BiHyb",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convolutional Embedding for Edit Distance SIGIR, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-03T19:57:47Z",
+            "owner": "xinyandai",
+            "repo": "string-embed",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning-Based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching AAAI, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-27T08:13:20Z",
+            "owner": "yunshengb",
+            "repo": "GraphSim",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐Combinatorial Learning of Graph Edit Distance via Dynamic Embedding. CVPR, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-29T11:23:48Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "GENN-Astar",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gelato: Graph Edit Distance via Autoregressive Neural Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T13:28:43Z",
+            "owner": "BorgwardtLab",
+            "repo": "Gelato",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Graph Edit Distance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-19T03:28:52Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "PPO-BiHyb",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-20T06:18:11Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "UniCO",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSAL: A Vision Solver with Adaptive Layouts for Graph Property Detection WWW, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T15:33:54Z",
+            "owner": "Jiahao-Xie-86",
+            "repo": "VSAL",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Hamiltonian Cycle Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling ICLR, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:42:39Z",
+            "owner": "Yuma-Ichikawa",
+            "repo": "QQA4CO",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing Column Generation by a Machine-Learning-Based Pricing Heuristic for Graph Coloring AAAI, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-06-03T05:08:32Z",
+            "owner": "yunzhuangshen",
+            "repo": "MLPH",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generate Columns with Application to Vertex Coloring ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-23T23:15:32Z",
+            "owner": "yuansuny",
+            "repo": "mlcg",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Graph Coloring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-27T01:30:22Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "NAR-CO-Solver",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation ICML, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-26T14:00:07Z",
+            "owner": "davidireland-iso",
+            "repo": "LeNSE",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Influence Maximization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T10:02:15Z",
+            "owner": "ml-jku",
+            "repo": "DIffUCO",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISCS: A Benchmark for Discrete Sampling NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-20T16:37:14Z",
+            "owner": "google-research",
+            "repo": "discs",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variational Annealing on Graphs for Combinatorial Optimization NeurlPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-22T13:32:39Z",
+            "owner": "ml-jku",
+            "repo": "VAG-CO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regularized Langevin Dynamics for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T19:54:39Z",
+            "owner": "Shengyu-Feng",
+            "repo": "RLD4CO",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can Hybrid Geometric Scattering Networks Help Solve the Maximum Clique Problem NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-23T04:44:11Z",
+            "owner": "yimengmin",
+            "repo": "GeometricScatteringMaximalClique",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T11:20:46Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ConRep4CO",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Max Clique"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exact Combinatorial Optimization with Graph Convolutional Neural Networks NeurlPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T18:46:07Z",
+            "owner": "ds4dm",
+            "repo": "learn2branch",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T17:10:14Z",
+            "owner": "teshnizi",
+            "repo": "OptiMUS",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNN-GBDT-Guided Fast Optimizing Framework for Large-scale Integer Programming ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-19T06:59:42Z",
+            "owner": "thuiar",
+            "repo": "GNN-GBDT-Guided-Fast-Optimizing-Framework",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CombOptNet: Fit the Right NP-Hard Problem by Learning Integer Programming Constraints Arxiv, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-28T13:12:24Z",
+            "owner": "martius-lab",
+            "repo": "CombOptNet",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-20T11:17:04Z",
+            "owner": "sribdcn",
+            "repo": "Predict-and-Search_MILP_method",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parameterizing Branch-and-Bound Search Trees to Learn Branching Policies AAAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-19T14:38:59Z",
+            "owner": "ds4dm",
+            "repo": "branch-search-trees",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T14:48:25Z",
+            "owner": "MIRALab-USTC",
+            "repo": "L2O-HEM-Torch",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T14:48:25Z",
+            "owner": "MIRALab-USTC",
+            "repo": "L2O-HEM-Torch",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Representing Mixed-Integer Linear Programs by Graph Neural Networks ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-11T00:09:18Z",
+            "owner": "liujl11git",
+            "repo": "GNN-MILP",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hybrid Models for Learning to Branch NeurlPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-31T09:07:14Z",
+            "owner": "pg2455",
+            "repo": "Hybrid-learn2branch",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-10T03:46:00Z",
+            "owner": "facebookresearch",
+            "repo": "CL-LNS",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Branch with Tree MDPs Arxiv, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-04T15:11:04Z",
+            "owner": "lascavana",
+            "repo": "rl2branch",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neur2BiLO: Neural Bilevel Optimization NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2024-12-21T03:55:25Z",
+            "owner": "khalil-research",
+            "repo": "Neur2BiLO",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Search in Local Branching AAAI, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T07:41:33Z",
+            "owner": "pandat8",
+            "repo": "ML4LB",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T23:38:16Z",
+            "owner": "thuiar",
+            "repo": "LLM-LNS",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Branch with Tree-aware Branching Transformers Knowledge-Based Systems, 2022. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T14:32:48Z",
+            "owner": "linjc16",
+            "repo": "TBranT",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Accelerate Approximate Methods for Solving Integer Programming via Early Fixing Arxiv, 2022. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-06T08:20:15Z",
+            "owner": "SCLBD",
+            "repo": "Accelerated-Lpbox-ADMM",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scalable Primal Heuristics Using Graph Neural Networks for Combinatorial Optimization JAIR, 2024. journal",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-06T13:17:00Z",
+            "owner": "furkancanturk",
+            "repo": "gnn4co",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards General Algorithm Discovery for Combinatorial Optimization: Learning Symbolic Branching Policy from Bipartite Graph ICML, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T10:05:38Z",
+            "owner": "MIRALab-USTC",
+            "repo": "L2O-GS4CO",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Cut Generating Functions for Integer Programming NeurIPS, 2024. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-22T20:09:30Z",
+            "owner": "Hongyu-Cheng",
+            "repo": "LearnCGF",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Mixed Integer Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CUTS: Neural Causal Discovery from Irregular Time-Series Data ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-26T08:04:17Z",
+            "owner": "jarrycyx",
+            "repo": "UNN",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diffusion Models for Causal Discovery via Topological Ordering ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-17T10:43:39Z",
+            "owner": "vios-s",
+            "repo": "DiffAN",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large-Scale Differentiable Causal Discovery of Factor Graphs NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T14:06:27Z",
+            "owner": "Genentech",
+            "repo": "dcdfg",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nonlinear Causal Discovery with Latent Confounders ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-09T03:42:33Z",
+            "owner": "chunlinli",
+            "repo": "defuse",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boosting Causal Discovery via Adaptive Sample Reweighting ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-19T11:40:33Z",
+            "owner": "anzhang314",
+            "repo": "ReScore",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Causal Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Differentiation of Blackbox Combinatorial Solvers ICLR, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T20:30:30Z",
+            "owner": "martius-lab",
+            "repo": "blackbox-backprop",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Differentiation of blackbox combinatorial solvers ICLR, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-21T20:30:30Z",
+            "owner": "martius-lab",
+            "repo": "blackbox-backprop",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Differentiable Learning of Submodular Models NeurIPS, 2017. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-11-07T17:52:14Z",
+            "owner": "josipd",
+            "repo": "torch-submod",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems ICML, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-11T21:16:59Z",
+            "owner": "facebookresearch",
+            "repo": "SurCo",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpropagation through Combinatorial Algorithms: Identity with Projection Works ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-29T07:19:53Z",
+            "owner": "martius-lab",
+            "repo": "solver-differentiation-identity",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIPaaL: Mixed Integer Program as a Layer AAAI, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-21T20:49:57Z",
+            "owner": "amf272",
+            "repo": "MIPaaL",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Differentiable Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐On Joint Learning for Solving Placement and Routing in Chip Design NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-23T14:40:45Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "EDA-AI",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-23T14:40:45Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "EDA-AI",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T20:15:22Z",
+            "owner": "cornell-zhang",
+            "repo": "heurigym",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Learning for Combinatorial Optimization with Principled Objective Relaxation NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-09T18:45:29Z",
+            "owner": "Graph-COM",
+            "repo": "CO_ProxyDesign",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Electronic Design Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Reinforcement Based Optimization of Function Splitting in Virtualized Radio Access Networks ICC, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-25T00:22:53Z",
+            "owner": "rubensolozabal",
+            "repo": "vnf_placement_optimization_rl",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐GAL-VNE: Solving the VNE Problem with Global Reinforcement Learning and Local One-Shot Neural Prediction KDD, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-04T02:05:30Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "GAL-VNE",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Virtual Network Embedding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Differentiable Convex Optimization Layers NeurIPS, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T19:53:38Z",
+            "owner": "cvxpy",
+            "repo": "cvxpylayers",
+            "stars": 2126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OptNet: differentiable optimization as a layer in neural networks ICML, 2017. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-26T17:17:08Z",
+            "owner": "locuslab",
+            "repo": "optnet",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implicit MLE: Backpropagating Through Discrete Exponential Family Distributions NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T19:47:34Z",
+            "owner": "uclnlp",
+            "repo": "torch-imle",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Declarative Networks TPAMI, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-18T03:00:44Z",
+            "owner": "anucvml",
+            "repo": "ddn",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Predict-and-Optimize for Hard Combinatorial Optimization Problems AAAI, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-27T12:10:12Z",
+            "owner": "JayMan91",
+            "repo": "aaai_predit_then_optimize",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Two-Stage Predict+Optimize for Mixed Integer Linear Programs with Unknown Parameters in Constraints NeurIPS, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T04:30:16Z",
+            "owner": "Elizabethxyhu",
+            "repo": "NeurIPS_Two_Stage_Predict-Optimize",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interior Point Solving for LP-based prediction+optimization NeurIPS, 2020. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T13:33:21Z",
+            "owner": "JayMan91",
+            "repo": "NeurIPSIntopt",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COPS: Combinatorial Optimization for Panoptic Segmentation: A Fully Differentiable Approach NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-30T02:55:28Z",
+            "owner": "aabbas90",
+            "repo": "COPS",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-End Stochastic Optimization with Energy-Based Model NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-14T08:41:33Z",
+            "owner": "Lingkai-Kong",
+            "repo": "so-ebm",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Surrogate Objective Framework for Prediction+Programming with Soft Constraints NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-30T21:48:21Z",
+            "owner": "PredOptwithSoftConstraint",
+            "repo": "PredOptwithSoftConstraint",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contrastive Losses and Solution Caching for Predict-and-Optimize IJCAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-31T04:52:17Z",
+            "owner": "JayMan91",
+            "repo": "ltr-predopt",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Exact Symbolic Reduction of Linear Smart Predict+Optimize to Mixed Integer Linear Programming ICML, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-14T16:00:31Z",
+            "owner": "jihwan-jeong",
+            "repo": "xaddpy",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Predict+Optimize"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case ICLR, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-27T01:30:22Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "NAR-CO-Solver",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Prune Instances of k-median and Related Problems. ALENEX, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-28T12:07:18Z",
+            "owner": "dajwani",
+            "repo": "alenex22",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Facility Location Problem"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination AAAI, 2019. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-11T08:09:48Z",
+            "owner": "sjy1203",
+            "repo": "GAMENet",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations IJCAI, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-01T14:01:15Z",
+            "owner": "ycq091044",
+            "repo": "SafeDrug",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning WWW, 2023. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-08T05:16:52Z",
+            "owner": "yangnianzu0515",
+            "repo": "MoleRec",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Recordss NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T12:21:25Z",
+            "owner": "ssshddd",
+            "repo": "DrugRec",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Combinatorial Drug Recommendation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neur2SP- Neural Two-Stage Stochastic Programming NeurIPS, 2022. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-08T21:16:30Z",
+            "owner": "khalil-research",
+            "repo": "Neur2SP",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USCO-Solver: Solving Undetermined Stochastic Combinatorial Optimization Problems NeurIPS, 2021. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2022-10-10T14:53:52Z",
+            "owner": "cdslabamotong",
+            "repo": "USCO-Solver",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-12T00:17:47Z",
+            "owner": "Jingyi-poly",
+            "repo": "2-stage-MIP-GPU",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Stochastic Combinatorial Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-24T07:36:27Z",
+            "owner": "Summer142857",
+            "repo": "LLMCoSolver",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-17T17:46:10Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ML4CO-Bench-101",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐COExpander: Adaptive Solution Expansion for Combinatorial Optimization ICML, 2025. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-28T01:19:18Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "COExpander",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:38:57Z",
+            "owner": "terranovafr",
+            "repo": "LaGCO-RL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types ICLR, 2026. paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T11:20:46Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "ConRep4CO",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Vertex Cover"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:10.595Z",
+    "original_repository": "Thinklab-SJTU/awesome-ml4co",
+    "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
+    "enhanced_repository": "enhansome/enhansome-ml4co",
+    "enhanced_repository_description": null,
+    "title": "Awesome Machine Learning for Combinatorial Optimization Resources with stars"
+  }
+}
