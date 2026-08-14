@@ -67,7 +67,7 @@
             "last_commit": "2026-01-24T05:13:34Z",
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2026-05-17T21:10:03Z",
             "owner": "sunnweiwei",
             "repo": "FrontierCO",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -1108,7 +1108,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1122,7 +1122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1136,7 +1136,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1150,7 +1150,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1164,7 +1164,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1296,7 +1296,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:14:48Z",
+            "last_commit": "2026-08-13T14:34:58Z",
             "owner": "Thinklab-SJTU",
             "repo": "ThinkMatch",
             "stars": 881
@@ -1625,7 +1625,7 @@
             "last_commit": "2026-01-24T05:13:34Z",
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -2513,7 +2513,7 @@
             "last_commit": "2026-05-17T21:10:03Z",
             "owner": "sunnweiwei",
             "repo": "FrontierCO",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -2673,7 +2673,7 @@
             "last_commit": "2026-01-24T05:13:34Z",
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -3137,7 +3137,7 @@
             "last_commit": "2026-01-24T05:13:34Z",
             "owner": "ai4co",
             "repo": "reevo",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -3775,7 +3775,7 @@
             "last_commit": "2025-07-12T23:38:16Z",
             "owner": "thuiar",
             "repo": "LLM-LNS",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -4509,7 +4509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:08:25.442Z",
+    "last_updated": "2026-08-14T11:06:07.535Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
     "enhanced_repository": "enhansome/enhansome-ml4co",
