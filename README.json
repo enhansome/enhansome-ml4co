@@ -3607,7 +3607,7 @@
             "last_commit": "2023-07-19T06:59:42Z",
             "owner": "thuiar",
             "repo": "GNN-GBDT-Guided-Fast-Optimizing-Framework",
-            "stars": 285
+            "stars": 284
           }
         },
         {
@@ -4127,7 +4127,7 @@
             "last_commit": "2026-05-19T19:53:38Z",
             "owner": "cvxpy",
             "repo": "cvxpylayers",
-            "stars": 2126
+            "stars": 2125
           }
         },
         {
@@ -4509,7 +4509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:06:07.535Z",
+    "last_updated": "2026-08-15T10:34:07.246Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
     "enhanced_repository": "enhansome/enhansome-ml4co",
