@@ -36,7 +36,7 @@
                         "last_commit": "2022-02-10T00:15:42Z",
                         "owner": "chaitjo",
                         "repo": "graph-convnet-tsp",
-                        "stars": 333
+                        "stars": 332
                       }
                     },
                     {
@@ -111,7 +111,7 @@
                         "last_commit": "2024-09-29T13:25:54Z",
                         "owner": "henry-yeh",
                         "repo": "DeepACO",
-                        "stars": 196
+                        "stars": 197
                       }
                     },
                     {
@@ -893,7 +893,7 @@
                 "last_commit": "2024-09-29T13:25:54Z",
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -1289,7 +1289,7 @@
                 "last_commit": "2019-12-05T09:36:55Z",
                 "owner": "alexnowakvila",
                 "repo": "QAP_pt",
-                "stars": 28
+                "stars": 27
               }
             },
             {
@@ -1386,7 +1386,7 @@
                 "last_commit": "2019-12-05T09:36:55Z",
                 "owner": "alexnowakvila",
                 "repo": "QAP_pt",
-                "stars": 28
+                "stars": 27
               }
             },
             {
@@ -1737,7 +1737,7 @@
                 "last_commit": "2024-09-29T13:25:54Z",
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -2539,7 +2539,7 @@
                 "last_commit": "2024-02-03T07:35:41Z",
                 "owner": "MaxiBoether",
                 "repo": "mis-benchmark-framework",
-                "stars": 53
+                "stars": 52
               }
             },
             {
@@ -2769,21 +2769,6 @@
             },
             {
               "node_type": "item",
-              "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1067239657,
-                "language": "Python",
-                "last_commit": "2025-11-20T10:47:59Z",
-                "owner": "yuuuuwang",
-                "repo": "StruDiCO",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
               "title": "⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -2794,6 +2779,21 @@
                 "last_commit": "2026-03-09T11:20:46Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "ConRep4CO",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1067239657,
+                "language": "Python",
+                "last_commit": "2025-11-20T10:47:59Z",
+                "owner": "yuuuuwang",
+                "repo": "StruDiCO",
                 "stars": 3
               }
             },
@@ -2928,7 +2928,7 @@
                 "last_commit": "2024-09-29T13:25:54Z",
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -2980,7 +2980,7 @@
                 "last_commit": "2024-09-29T13:25:54Z",
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 196
+                "stars": 197
               }
             },
             {
@@ -3801,7 +3801,7 @@
                 "last_commit": "2026-03-09T11:20:46Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "ConRep4CO",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -3868,7 +3868,7 @@
                 "last_commit": "2022-04-28T13:12:24Z",
                 "owner": "martius-lab",
                 "repo": "CombOptNet",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -4413,7 +4413,7 @@
                 "last_commit": "2026-05-19T19:53:38Z",
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2125
+                "stars": 2126
               }
             },
             {
@@ -4816,7 +4816,7 @@
                 "last_commit": "2026-03-09T11:20:46Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "ConRep4CO",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -4829,7 +4829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:41:46.191Z",
+    "last_updated": "2026-08-21T10:41:28.138Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_id": 349947919,
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
