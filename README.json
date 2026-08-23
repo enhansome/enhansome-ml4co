@@ -3047,7 +3047,7 @@
                 "last_commit": "2019-03-12T16:54:10Z",
                 "owner": "dselsam",
                 "repo": "neurosat",
-                "stars": 295
+                "stars": 296
               }
             },
             {
@@ -4829,7 +4829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:35:06.110Z",
+    "last_updated": "2026-08-23T10:35:18.475Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_id": 349947919,
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
