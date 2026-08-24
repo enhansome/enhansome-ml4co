@@ -741,23 +741,23 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Matching](#content)
 
-1. **⭐Learning Combinatorial Embedding Networks for Deep Graph Matching.** ICCV, 2019. [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+1. **⭐Learning Combinatorial Embedding Networks for Deep Graph Matching.** ICCV, 2019. [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Runzhong Wang, Junchi Yan, Xiaokang Yang*
 
-2. **⭐Learning deep graph matching with channel-independent embedding and Hungarian attention.** ICLR, 2020. [paper](https://openreview.net/forum?id=rJgBd2NYPH), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+2. **⭐Learning deep graph matching with channel-independent embedding and Hungarian attention.** ICLR, 2020. [paper](https://openreview.net/forum?id=rJgBd2NYPH), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Tianshu Yu, Runzhong Wang, Junchi Yan, Baoxin Li*
 
-3. **⭐Graduated Assignment for Joint Multi-Graph Matching and Clustering with Application to Unsupervised Graph Matching Network Learning.** NeurIPS, 2020. [paper](https://papers.NeurIPS.cc/paper/2020/file/e6384711491713d29bc63fc5eeb5ba4f-Paper.pdf), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+3. **⭐Graduated Assignment for Joint Multi-Graph Matching and Clustering with Application to Unsupervised Graph Matching Network Learning.** NeurIPS, 2020. [paper](https://papers.NeurIPS.cc/paper/2020/file/e6384711491713d29bc63fc5eeb5ba4f-Paper.pdf), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Runzhong Wang, Junchi Yan, Xiaokang Yang*
 
-4. **⭐Combinatorial Learning of Robust Deep Graph Matching: An Embedding Based Approach.** TPAMI, 2020. [paper](https://doi.org/10.1109/TPAMI.2020.3005590), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+4. **⭐Combinatorial Learning of Robust Deep Graph Matching: An Embedding Based Approach.** TPAMI, 2020. [paper](https://doi.org/10.1109/TPAMI.2020.3005590), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Runzhong Wang, Junchi Yan, Xiaokang Yang*
 
-5. **⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching.** TPAMI, 2021. [paper](https://arxiv.org/abs/1911.11308), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+5. **⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching.** TPAMI, 2021. [paper](https://arxiv.org/abs/1911.11308), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Runzhong Wang, Junchi Yan, Xiaokang Yang*
 
@@ -847,7 +847,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Quadratic Assignment Problem](#content)
 
-1. **⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching.** TPAMI, 2021. [paper](https://arxiv.org/abs/1911.11308), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 881 | 🐛 3 | 🌐 Python | 📅 2026-08-13
+1. **⭐Neural Graph Matching Network: Learning Lawler's Quadratic Assignment Problem with Extension to Hypergraph and Multiple-graph Matching.** TPAMI, 2021. [paper](https://arxiv.org/abs/1911.11308), [code](https://github.com/Thinklab-SJTU/ThinkMatch) ⭐ 882 | 🐛 3 | 🌐 Python | 📅 2026-08-13
 
    *Runzhong Wang, Junchi Yan, Xiaokang Yang*
 
@@ -2527,13 +2527,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Optimal Power Flow](#content)
 
-1. **DeepOPF: A Deep Neural Network Approach for Security-Constrained DC Optimal Power Flow** SmartGridComm, 2019. [paper](https://ieeexplore.ieee.org/document/8909795)
-
-   *Xiang Pan, Tianyu Zhao, Minghua Chen*
-
-2. **Predicting AC Optimal Power Flows: Combining Deep Learning and Lagrangian Dual Methods** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5403), [code](https://github.com/AIPOpt-Lab-SU/lagrangian-dual-deep-learning) ⭐ 21 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-09-27
+1. **Predicting AC Optimal Power Flows: Combining Deep Learning and Lagrangian Dual Methods** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5403), [code](https://github.com/AIPOpt-Lab-SU/lagrangian-dual-deep-learning) ⭐ 21 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-09-27
 
    *Ferdinando Fioretto, Terrence W\.K. Mak, Pascal Van Hentenryck*
+
+2. **DeepOPF: A Deep Neural Network Approach for Security-Constrained DC Optimal Power Flow** SmartGridComm, 2019. [paper](https://ieeexplore.ieee.org/document/8909795)
+
+   *Xiang Pan, Tianyu Zhao, Minghua Chen*
 
 3. **Adversarially Robust Learning for Security-Constrained Optimal Power Flow** NeurIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/f0f07e680de407b0f12abf15bd520097-Abstract.html)
 
