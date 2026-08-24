@@ -21,7 +21,7 @@
                         "last_commit": "2026-08-06T16:59:14Z",
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 354
+                        "stars": 355
                       }
                     },
                     {
@@ -51,7 +51,7 @@
                         "last_commit": "2026-01-24T05:13:34Z",
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 292
+                        "stars": 293
                       }
                     },
                     {
@@ -678,7 +678,7 @@
                         "archived": false,
                         "id": 1155304601,
                         "language": "Python",
-                        "last_commit": "2026-04-07T12:43:47Z",
+                        "last_commit": "2026-08-23T13:38:47Z",
                         "owner": "yiding-s",
                         "repo": "MoH",
                         "stars": 14
@@ -923,7 +923,7 @@
                 "last_commit": "2026-03-25T03:48:01Z",
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -1707,7 +1707,7 @@
                 "last_commit": "2026-08-06T16:59:14Z",
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 354
+                "stars": 355
               }
             },
             {
@@ -1722,7 +1722,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 292
+                "stars": 293
               }
             },
             {
@@ -2199,7 +2199,7 @@
                 "archived": false,
                 "id": 1155304601,
                 "language": "Python",
-                "last_commit": "2026-04-07T12:43:47Z",
+                "last_commit": "2026-08-23T13:38:47Z",
                 "owner": "yiding-s",
                 "repo": "MoH",
                 "stars": 14
@@ -2831,7 +2831,7 @@
                 "last_commit": "2026-08-06T16:59:14Z",
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 354
+                "stars": 355
               }
             },
             {
@@ -2846,7 +2846,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 292
+                "stars": 293
               }
             },
             {
@@ -3331,7 +3331,7 @@
                 "last_commit": "2026-08-06T16:59:14Z",
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 354
+                "stars": 355
               }
             },
             {
@@ -3346,7 +3346,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 292
+                "stars": 293
               }
             },
             {
@@ -3403,7 +3403,7 @@
                 "archived": false,
                 "id": 1155304601,
                 "language": "Python",
-                "last_commit": "2026-04-07T12:43:47Z",
+                "last_commit": "2026-08-23T13:38:47Z",
                 "owner": "yiding-s",
                 "repo": "MoH",
                 "stars": 14
@@ -3838,7 +3838,7 @@
                 "last_commit": "2025-11-04T17:10:14Z",
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 288
+                "stars": 289
               }
             },
             {
@@ -4829,7 +4829,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:35:18.475Z",
+    "last_updated": "2026-08-24T10:49:05.313Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_id": 349947919,
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
