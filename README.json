@@ -1057,7 +1057,7 @@
                 "last_commit": "2024-02-15T03:26:44Z",
                 "owner": "google-research",
                 "repo": "fast-soft-sort",
-                "stars": 623
+                "stars": 622
               }
             },
             {
@@ -4443,7 +4443,7 @@
                 "last_commit": "2020-03-26T17:17:08Z",
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 588
+                "stars": 589
               }
             },
             {
@@ -4866,7 +4866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:34.195Z",
+    "last_updated": "2026-08-25T10:44:47.250Z",
     "original_repository": "Thinklab-SJTU/awesome-ml4co",
     "original_repository_id": 349947919,
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
