@@ -329,7 +329,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-37. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-02
+37. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-26
 
     *Yuma Ichikawa, Yamato Arai*
 
@@ -907,7 +907,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-02
+7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-26
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -1335,11 +1335,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-11. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-02
+11. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-26
 
     *Yuma Ichikawa, Yamato Arai*
 
-12. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-02
+12. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-26
 
     *Yuma Ichikawa, Hiroaki Iwashita*
 
@@ -1893,7 +1893,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Coloring](#content)
 
-1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-02
+1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 24 | 🐛 6 | 🌐 Python | 📅 2026-08-26
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
