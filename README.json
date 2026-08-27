@@ -1087,7 +1087,7 @@
                 "last_commit": "2023-03-24T22:43:17Z",
                 "owner": "ermongroup",
                 "repo": "neuralsort",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -3062,7 +3062,7 @@
                 "last_commit": "2019-03-12T16:54:10Z",
                 "owner": "dselsam",
                 "repo": "neurosat",
-                "stars": 296
+                "stars": 295
               }
             },
             {
@@ -4428,7 +4428,7 @@
                 "last_commit": "2026-05-19T19:53:38Z",
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2128
+                "stars": 2130
               }
             },
             {
@@ -4443,7 +4443,7 @@
                 "last_commit": "2020-03-26T17:17:08Z",
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 589
+                "stars": 590
               }
             },
             {
@@ -4866,7 +4866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:28.660Z",
+    "last_updated": "2026-08-27T20:20:59.906Z",
     "original_repository_info": {
       "archived": false,
       "id": 349947919,
