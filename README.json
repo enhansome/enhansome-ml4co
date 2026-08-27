@@ -51,7 +51,7 @@
                         "last_commit": "2026-01-24T05:13:34Z",
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 293
+                        "stars": 294
                       }
                     },
                     {
@@ -558,10 +558,10 @@
                         "archived": false,
                         "id": 933123083,
                         "language": "Python",
-                        "last_commit": "2026-08-26T10:10:59Z",
+                        "last_commit": "2026-08-27T05:20:32Z",
                         "owner": "Yuma-Ichikawa",
                         "repo": "QQA4CO",
-                        "stars": 24
+                        "stars": 23
                       }
                     },
                     {
@@ -1562,10 +1562,10 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:10:59Z",
+                "last_commit": "2026-08-27T05:20:32Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 24
+                "stars": 23
               }
             },
             {
@@ -1737,7 +1737,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 293
+                "stars": 294
               }
             },
             {
@@ -2596,10 +2596,10 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:10:59Z",
+                "last_commit": "2026-08-27T05:20:32Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 24
+                "stars": 23
               }
             },
             {
@@ -2611,10 +2611,10 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:10:59Z",
+                "last_commit": "2026-08-27T05:20:32Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 24
+                "stars": 23
               }
             },
             {
@@ -2861,7 +2861,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 293
+                "stars": 294
               }
             },
             {
@@ -3361,7 +3361,7 @@
                 "last_commit": "2026-01-24T05:13:34Z",
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 293
+                "stars": 294
               }
             },
             {
@@ -3619,10 +3619,10 @@
                 "archived": false,
                 "id": 933123083,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:10:59Z",
+                "last_commit": "2026-08-27T05:20:32Z",
                 "owner": "Yuma-Ichikawa",
                 "repo": "QQA4CO",
-                "stars": 24
+                "stars": 23
               }
             },
             {
@@ -3838,7 +3838,7 @@
                 "last_commit": "2021-12-21T18:46:07Z",
                 "owner": "ds4dm",
                 "repo": "learn2branch",
-                "stars": 417
+                "stars": 418
               }
             },
             {
@@ -4145,7 +4145,7 @@
                 "last_commit": "2025-09-26T08:04:17Z",
                 "owner": "jarrycyx",
                 "repo": "UNN",
-                "stars": 164
+                "stars": 165
               }
             },
             {
@@ -4428,7 +4428,7 @@
                 "last_commit": "2026-05-19T19:53:38Z",
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2126
+                "stars": 2128
               }
             },
             {
@@ -4866,9 +4866,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:47:50.198Z",
-    "original_repository": "Thinklab-SJTU/awesome-ml4co",
-    "original_repository_id": 349947919,
+    "last_updated": "2026-08-27T11:52:28.660Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 349947919,
+      "language": "Python",
+      "last_commit": "2026-07-19T06:46:19Z",
+      "owner": "Thinklab-SJTU",
+      "repo": "awesome-ml4co",
+      "stars": 2164
+    },
     "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
     "enhanced_repository": "enhansome/enhansome-ml4co",
     "enhanced_repository_description": null,
