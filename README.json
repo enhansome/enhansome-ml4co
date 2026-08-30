@@ -775,6 +775,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation of \"G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design\"(arXiv:2602.08253).",
+                        "homepage": "https://zboyn.github.io/G-LNS/",
+                        "id": 1148041769,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-02-10T09:18:27Z",
+                        "open_issues": 1,
+                        "owner": "ZBoyn",
+                        "repo": "G-LNS",
+                        "stars": 30,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
                       "description": ", code",
                       "children": [],
@@ -814,27 +835,6 @@
                         "open_issues": 0,
                         "owner": "FeiLiu36",
                         "repo": "EoH-S",
-                        "stars": 29,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official implementation of \"G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design\"(arXiv:2602.08253).",
-                        "homepage": "https://zboyn.github.io/G-LNS/",
-                        "id": 1148041769,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-02-10T09:18:27Z",
-                        "open_issues": 1,
-                        "owner": "ZBoyn",
-                        "repo": "G-LNS",
                         "stars": 29,
                         "topics": []
                       },
@@ -3241,7 +3241,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "real-routing-nco",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "neural-combinatorial-optimization",
                   "open-source-routing-machine",
@@ -3295,6 +3295,27 @@
             },
             {
               "node_type": "item",
+              "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design\"(arXiv:2602.08253).",
+                "homepage": "https://zboyn.github.io/G-LNS/",
+                "id": 1148041769,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-10T09:18:27Z",
+                "open_issues": 1,
+                "owner": "ZBoyn",
+                "repo": "G-LNS",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
               "description": ", code",
               "children": [],
@@ -3334,27 +3355,6 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design\"(arXiv:2602.08253).",
-                "homepage": "https://zboyn.github.io/G-LNS/",
-                "id": 1148041769,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-02-10T09:18:27Z",
-                "open_issues": 1,
-                "owner": "ZBoyn",
-                "repo": "G-LNS",
                 "stars": 29,
                 "topics": []
               },
@@ -6275,7 +6275,7 @@
                 "open_issues": 1,
                 "owner": "liujl11git",
                 "repo": "GNN-MILP",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:01:28.722Z",
+    "last_updated": "2026-08-30T14:49:59.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",

@@ -297,17 +297,17 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jiongzhi Zheng, Kun He, Jianrong Zhou, Yan Jin, Chu-Min Li*
 
-29. **Preference Optimization for Combinatorial Optimization Problems** ICML, 2025. [paper](https://openreview.net/forum?id=Jwe5FJ8QGx), [code](https://github.com/MingjunPan/Preference-Optimization-for-Combinatorial-Optimization-Problems) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2025-06-06
+29. **G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design** Arxiv, 2026. [paper](https://arxiv.org/abs/2602.08253), [code](https://github.com/ZBoyn/G-LNS) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-02-10
+
+    *Baoyun Zhao, He Wang, Liang Zeng*
+
+30. **Preference Optimization for Combinatorial Optimization Problems** ICML, 2025. [paper](https://openreview.net/forum?id=Jwe5FJ8QGx), [code](https://github.com/MingjunPan/Preference-Optimization-for-Combinatorial-Optimization-Problems) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2025-06-06
 
     *Mingjun Pan, Guanquan Lin, You-Wei Luo, Bin Zhu, Zhien Dai, Lijun Sun, Chun Yuan*
 
-30. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+31. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
-
-31. **G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design** Arxiv, 2026. [paper](https://arxiv.org/abs/2602.08253), [code](https://github.com/ZBoyn/G-LNS) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-02-10
-
-    *Baoyun Zhao, He Wang, Liang Zeng*
 
 32. **The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems** Arxiv, 2022. [paper](https://arxiv.org/abs/2201.10453), [code](https://github.com/paulorocosta/ai-for-tsp-competition) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-11-22
 
@@ -1053,7 +1053,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jinho Choo, Yeong-Dae Kwon, Jihoon Kim, Jeongwoo Jae, Andr{'e} Hottung, Kevin Tierney, Youngjune Gwon*
 
-19. **RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2503.16159), [code](https://github.com/ai4co/real-routing-nco) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-02-27
+19. **RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2503.16159), [code](https://github.com/ai4co/real-routing-nco) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-02-27
 
     *Jiwoo Son, Zhikai Zhao, Federico Berto, Chuanbo Hua, Zhiguang Cao, Changhyun Kwon, Jinkyoo Park*
 
@@ -1065,17 +1065,17 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Ricardo Gama, Ricardo Cunha, Daniel Fuertes, Carlos R. del-Blanco, Hugo L. Fernandes*
 
-22. **Preference Optimization for Combinatorial Optimization Problems** ICML, 2025. [paper](https://openreview.net/forum?id=Jwe5FJ8QGx), [code](https://github.com/MingjunPan/Preference-Optimization-for-Combinatorial-Optimization-Problems) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2025-06-06
+22. **G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design** Arxiv, 2026. [paper](https://arxiv.org/abs/2602.08253), [code](https://github.com/ZBoyn/G-LNS) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-02-10
+
+    *Baoyun Zhao, He Wang, Liang Zeng*
+
+23. **Preference Optimization for Combinatorial Optimization Problems** ICML, 2025. [paper](https://openreview.net/forum?id=Jwe5FJ8QGx), [code](https://github.com/MingjunPan/Preference-Optimization-for-Combinatorial-Optimization-Problems) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2025-06-06
 
     *Mingjun Pan, Guanquan Lin, You-Wei Luo, Bin Zhu, Zhien Dai, Lijun Sun, Chun Yuan*
 
-23. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+24. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
-
-24. **G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design** Arxiv, 2026. [paper](https://arxiv.org/abs/2602.08253), [code](https://github.com/ZBoyn/G-LNS) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2026-02-10
-
-    *Baoyun Zhao, He Wang, Liang Zeng*
 
 25. **Distilling Autoregressive Models to Obtain High-Performance Non-autoregressive Solvers for Vehicle Routing Problems with Faster Inference Speed** AAAI, 2024. [paper](https://arxiv.org/abs/2312.12469), [code](https://github.com/xybFight/GNARKD) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-03-28
 
@@ -2025,7 +2025,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Zhihai Wang, Xijun Li, Jie Wang, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu*
 
-9. **On Representing Mixed-Integer Linear Programs by Graph Neural Networks** ICLR, 2023. [paper](https://openreview.net/forum?id=4gc3MGZra1d), [code](https://github.com/liujl11git/GNN-MILP) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2023-08-11
+9. **On Representing Mixed-Integer Linear Programs by Graph Neural Networks** ICLR, 2023. [paper](https://openreview.net/forum?id=4gc3MGZra1d), [code](https://github.com/liujl11git/GNN-MILP) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2023-08-11
 
    *Ziang Chen, Jialin Liu, Xinshang Wang, Wotao Yin*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
