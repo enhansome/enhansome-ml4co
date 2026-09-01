@@ -25,7 +25,7 @@
                         "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 357,
+                        "stars": 356,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -786,7 +786,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-02-10T09:18:27Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "ZBoyn",
                         "repo": "G-LNS",
                         "stars": 30,
@@ -1565,7 +1565,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2740,7 +2740,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3253,6 +3253,27 @@
             },
             {
               "node_type": "item",
+              "title": "Multiagent Environments for Vehicle Routing Problems INFORMS Journal on Computing, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-agent environments library for simulating classic vehicle routing problems.",
+                "homepage": null,
+                "id": 892656976,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-27T19:38:14Z",
+                "open_issues": 0,
+                "owner": "MAEnvs4VRP",
+                "repo": "maenvs4vrp",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
               "description": ", code",
               "children": [],
@@ -3274,27 +3295,6 @@
             },
             {
               "node_type": "item",
-              "title": "Multiagent Environments for Vehicle Routing Problems INFORMS Journal on Computing, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Multi-agent environments library for simulating classic vehicle routing problems.",
-                "homepage": null,
-                "id": 892656976,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-27T19:38:14Z",
-                "open_issues": 0,
-                "owner": "MAEnvs4VRP",
-                "repo": "maenvs4vrp",
-                "stars": 34,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3306,7 +3306,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-10T09:18:27Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ZBoyn",
                 "repo": "G-LNS",
                 "stars": 30,
@@ -4553,7 +4553,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5355,7 +5355,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 357,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5557,7 +5557,7 @@
                 "open_issues": 19,
                 "owner": "yunshengb",
                 "repo": "SimGNN",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6852,7 +6852,7 @@
                 "open_issues": 2,
                 "owner": "cornell-zhang",
                 "repo": "heurigym",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -7025,7 +7025,7 @@
                 "open_issues": 2,
                 "owner": "anucvml",
                 "repo": "ddn",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:34:16.662Z",
+    "last_updated": "2026-09-01T14:47:27.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
