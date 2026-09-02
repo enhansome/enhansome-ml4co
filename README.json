@@ -1228,7 +1228,7 @@
                         "open_issues": 1,
                         "owner": "sunnweiwei",
                         "repo": "FrontierCO",
-                        "stars": 11,
+                        "stars": 12,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4306,7 +4306,7 @@
                 "open_issues": 1,
                 "owner": "sunnweiwei",
                 "repo": "FrontierCO",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5328,7 +5328,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 606,
+                "stars": 607,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:47:27.304Z",
+    "last_updated": "2026-09-02T14:23:51.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
