@@ -256,7 +256,7 @@
                         "open_issues": 0,
                         "owner": "CIAM-Group",
                         "repo": "NCO_code",
-                        "stars": 100,
+                        "stars": 101,
                         "topics": [
                           "combinatorial-optimization",
                           "computational-intelligence",
@@ -286,7 +286,7 @@
                         "open_issues": 0,
                         "owner": "CIAM-Group",
                         "repo": "NCO_code",
-                        "stars": 100,
+                        "stars": 101,
                         "topics": [
                           "combinatorial-optimization",
                           "computational-intelligence",
@@ -786,7 +786,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-02-10T09:18:27Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "ZBoyn",
                         "repo": "G-LNS",
                         "stars": 30,
@@ -1193,27 +1193,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
-                        "homepage": null,
-                        "id": 1079599413,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-07-11T09:43:48Z",
-                        "open_issues": 0,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "GenSCO",
-                        "stars": 12,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1228,6 +1207,27 @@
                         "open_issues": 1,
                         "owner": "sunnweiwei",
                         "repo": "FrontierCO",
+                        "stars": 13,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
+                        "homepage": null,
+                        "id": 1079599413,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-07-11T09:43:48Z",
+                        "open_issues": 0,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "GenSCO",
                         "stars": 12,
                         "topics": []
                       },
@@ -1920,7 +1920,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1946,7 +1946,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1972,7 +1972,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1998,7 +1998,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2024,7 +2024,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2225,7 +2225,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 881,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2892,7 +2892,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -2922,7 +2922,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -3306,7 +3306,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-10T09:18:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ZBoyn",
                 "repo": "G-LNS",
                 "stars": 30,
@@ -4250,6 +4250,27 @@
             },
             {
               "node_type": "item",
+              "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984695408,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-17T21:10:03Z",
+                "open_issues": 1,
+                "owner": "sunnweiwei",
+                "repo": "FrontierCO",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Variational Annealing on Graphs for Combinatorial Optimization NeurlPS, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4285,27 +4306,6 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "GenSCO",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 984695408,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-17T21:10:03Z",
-                "open_issues": 1,
-                "owner": "sunnweiwei",
-                "repo": "FrontierCO",
                 "stars": 12,
                 "topics": []
               },
@@ -4761,7 +4761,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -4937,7 +4937,7 @@
                 "open_issues": 0,
                 "owner": "dselsam",
                 "repo": "neurosat",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6126,7 +6126,7 @@
                 "open_issues": 2,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 289,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6791,7 +6791,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2025-11-23T14:40:45Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
                 "stars": 322,
@@ -6820,7 +6820,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2025-11-23T14:40:45Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
                 "stars": 322,
@@ -6977,7 +6977,7 @@
                 "open_issues": 3,
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 591,
+                "stars": 592,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:23:51.134Z",
+    "last_updated": "2026-09-03T14:27:34.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2164,
+      "stars": 2165,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
