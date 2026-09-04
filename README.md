@@ -4,7 +4,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
-*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,165 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
+*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,166 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
 
 *We are looking for post-docs interested in machine learning especially for learning combinatorial solvers, dynamic graphs, and reinforcement learning. Please send your up-to-date resume via yanjunchi AT sjtu.edu.cn.*
 
@@ -261,7 +261,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yining Ma, Zhiguang Cao, Yeow Meng Chee*
 
-20. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+20. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
     *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -899,7 +899,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Katayoon Goshvadi, Haoran Sun, Xingchao Liu, Azade Nova, Ruqi Zhang, Will Sussman Grathwohl, Dale Schuurmans, Hanjun Dai*
 
-5. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+5. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -1037,7 +1037,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Liang Xin, Wen Song, Zhiguang Cao, Jie Zhang*
 
-15. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+15. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
     *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -1327,7 +1327,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Maximilian Bother, Otto Kissig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich*
 
-9. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+9. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -1955,7 +1955,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Katayoon Goshvadi, Haoran Sun, Xingchao Liu, Azade Nova, Ruqi Zhang, Will Sussman Grathwohl, Dale Schuurmans, Hanjun Dai*
 
-3. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+3. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -2375,7 +2375,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Ruoyu Cheng, Xianglong Lyu, Yang Li, Junjie Ye, Jianye Hao, Junchi Yan*
 
-3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-04-25
+3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 96 | 🐛 2 | 🌐 Python | 📅 2026-04-25
 
    *Hongzheng Chen, Yingheng Wang, Yaohui Cai, Hins Hu, Jiajie Li, Shirley Huang, Chenhui Deng, Rongjian Liang, Shufeng Kong, Haoxing Ren, Samitha Samaranayake, Carla P. Gomes, Zhiru Zhang*
 
@@ -2619,7 +2619,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Xia Jiang, Yaoxin Wu, Minshuo Li, Zhiguang Cao, Yingqian Zhang*
 
-2. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2025-11-17
+2. **⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs** NeurIPS, 2025. [paper](https://openreview.net/forum?id=ye4ntB1Kzi), [code](https://github.com/Thinklab-SJTU/ML4CO-Bench-101) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-04
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
