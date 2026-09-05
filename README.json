@@ -25,7 +25,7 @@
                         "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 356,
+                        "stars": 357,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -358,7 +358,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "T2TCO",
-                        "stars": 75,
+                        "stars": 76,
                         "topics": [
                           "combinatorial-optimization",
                           "diffusion",
@@ -569,11 +569,11 @@
                         "id": 976799107,
                         "language": "Python",
                         "license": null,
-                        "last_commit": "2026-09-04T13:49:21Z",
+                        "last_commit": "2026-09-05T02:16:09Z",
                         "open_issues": 2,
                         "owner": "Thinklab-SJTU",
                         "repo": "ML4CO-Bench-101",
-                        "stars": 51,
+                        "stars": 52,
                         "topics": [
                           "adaptive-expansion",
                           "atsp",
@@ -953,13 +953,34 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "COExpander",
-                        "stars": 24,
+                        "stars": 25,
                         "topics": [
                           "adaptive-expansion",
                           "combinatorial-optimization",
                           "consistency-models",
                           "diffusion-models"
                         ]
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+                        "homepage": null,
+                        "id": 900678592,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-07-02T11:40:45Z",
+                        "open_issues": 0,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "Fast-T2T",
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -994,27 +1015,6 @@
                           "simulated-annealing",
                           "spin-glass"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
-                        "homepage": null,
-                        "id": 900678592,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-07-02T11:40:45Z",
-                        "open_issues": 0,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "Fast-T2T",
-                        "stars": 22,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1193,6 +1193,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
+                        "homepage": null,
+                        "id": 1079599413,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-07-11T09:43:48Z",
+                        "open_issues": 0,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "GenSCO",
+                        "stars": 13,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization ICLR, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1208,27 +1229,6 @@
                         "owner": "sunnweiwei",
                         "repo": "FrontierCO",
                         "stars": 13,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
-                        "homepage": null,
-                        "id": 1079599413,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-07-11T09:43:48Z",
-                        "open_issues": 0,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "GenSCO",
-                        "stars": 12,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1443,7 +1443,7 @@
                         "open_issues": 0,
                         "owner": "LOGO-CUHKSZ",
                         "repo": "beyond-heatmap-mcts-tsp",
-                        "stars": 13,
+                        "stars": 14,
                         "topics": [
                           "mcts",
                           "tsp",
@@ -2429,11 +2429,11 @@
                 "id": 976799107,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T13:49:21Z",
+                "last_commit": "2026-09-05T02:16:09Z",
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -2468,7 +2468,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "COExpander",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "adaptive-expansion",
                   "combinatorial-optimization",
@@ -2740,7 +2740,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3139,11 +3139,11 @@
                 "id": 976799107,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T13:49:21Z",
+                "last_commit": "2026-09-05T02:16:09Z",
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -3449,7 +3449,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "COExpander",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "adaptive-expansion",
                   "combinatorial-optimization",
@@ -3982,7 +3982,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "T2TCO",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "combinatorial-optimization",
                   "diffusion",
@@ -4089,11 +4089,11 @@
                 "id": 976799107,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T13:49:21Z",
+                "last_commit": "2026-09-05T02:16:09Z",
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -4128,13 +4128,34 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "COExpander",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "adaptive-expansion",
                   "combinatorial-optimization",
                   "consistency-models",
                   "diffusion-models"
                 ]
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+                "homepage": null,
+                "id": 900678592,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-07-02T11:40:45Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "Fast-T2T",
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -4208,27 +4229,6 @@
             },
             {
               "node_type": "item",
-              "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
-                "homepage": null,
-                "id": 900678592,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-07-02T11:40:45Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "Fast-T2T",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "⭐ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs ICLR, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4244,6 +4244,27 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "ROCO",
                 "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
+                "homepage": null,
+                "id": 1079599413,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-11T09:43:48Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "GenSCO",
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4285,27 +4306,6 @@
                 "open_issues": 0,
                 "owner": "ml-jku",
                 "repo": "VAG-CO",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Generation as Search Operator for Test-Time Scaling of Diffusion-Based Combinatorial Optimization",
-                "homepage": null,
-                "id": 1079599413,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-11T09:43:48Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "GenSCO",
                 "stars": 12,
                 "topics": []
               },
@@ -4553,7 +4553,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5355,7 +5355,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5943,11 +5943,11 @@
                 "id": 976799107,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T13:49:21Z",
+                "last_commit": "2026-09-05T02:16:09Z",
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -5982,7 +5982,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "COExpander",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "adaptive-expansion",
                   "combinatorial-optimization",
@@ -7495,11 +7495,11 @@
                 "id": 976799107,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T13:49:21Z",
+                "last_commit": "2026-09-05T02:16:09Z",
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -7534,7 +7534,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "COExpander",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "adaptive-expansion",
                   "combinatorial-optimization",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:16:54.502Z",
+    "last_updated": "2026-09-05T13:25:18.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
