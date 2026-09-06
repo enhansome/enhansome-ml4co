@@ -209,7 +209,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Chaitanya K. Joshi, Quentin Cappart, Louis-Martin Rousseau, Thomas Laurent*
 
-7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -333,7 +333,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
     *Yuma Ichikawa, Yamato Arai*
 
@@ -599,7 +599,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu*
 
-2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -907,7 +907,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -989,7 +989,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
-3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1339,11 +1339,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
     *Yuma Ichikawa, Yamato Arai*
 
-13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
     *Yuma Ichikawa, Hiroaki Iwashita*
 
@@ -1495,7 +1495,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Orienteering Problem](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1513,7 +1513,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Knapsack](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1893,7 +1893,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Coloring](#content)
 
-1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-29
+1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -2461,7 +2461,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,130 | 🐛 23 | 🌐 Python | 📅 2026-05-19
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,130 | 🐛 25 | 🌐 Python | 📅 2026-05-19
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
