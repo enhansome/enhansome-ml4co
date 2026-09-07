@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 294,
+                        "stars": 295,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -111,7 +111,7 @@
                         "open_issues": 1,
                         "owner": "yd-kwon",
                         "repo": "POMO",
-                        "stars": 267,
+                        "stars": 268,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -979,7 +979,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "Fast-T2T",
-                        "stars": 23,
+                        "stars": 24,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1319,6 +1319,32 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A modular reinforcement learning framework for graph combinatorial optimization using latent action and observation spaces derived from GNN embeddings. ",
+                        "homepage": null,
+                        "id": 1236571181,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-07-31T13:38:57Z",
+                        "open_issues": 0,
+                        "owner": "terranovafr",
+                        "repo": "LaGCO-RL",
+                        "stars": 6,
+                        "topics": [
+                          "combinatorial-optimization",
+                          "graph-neural-networks",
+                          "latent-spaces",
+                          "reinforcement-learning"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning NeurIPS, 2025. paper",
                       "description": ", code",
                       "children": [],
@@ -1335,32 +1361,6 @@
                         "repo": "TTPL",
                         "stars": 5,
                         "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "A modular reinforcement learning framework for graph combinatorial optimization using latent action and observation spaces derived from GNN embeddings. ",
-                        "homepage": null,
-                        "id": 1236571181,
-                        "language": "Python",
-                        "license": "GPL-3.0",
-                        "last_commit": "2026-07-31T13:38:57Z",
-                        "open_issues": 0,
-                        "owner": "terranovafr",
-                        "repo": "LaGCO-RL",
-                        "stars": 5,
-                        "topics": [
-                          "combinatorial-optimization",
-                          "graph-neural-networks",
-                          "latent-spaces",
-                          "reinforcement-learning"
-                        ]
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -2686,7 +2686,7 @@
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-neural-networks",
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -2836,7 +2836,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "neural-rewriter",
-                "stars": 155,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4154,7 +4154,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "Fast-T2T",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -4690,7 +4690,7 @@
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-neural-networks",
@@ -5253,7 +5253,7 @@
                 "open_issues": 8,
                 "owner": "facebookresearch",
                 "repo": "neural-rewriter",
-                "stars": 155,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5295,7 +5295,7 @@
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-neural-networks",
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -6126,7 +6126,7 @@
                 "open_issues": 2,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 290,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6381,7 +6381,7 @@
                 "id": 417979325,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-01-25T07:41:33Z",
+                "last_commit": "2026-09-07T02:05:27Z",
                 "open_issues": 1,
                 "owner": "pandat8",
                 "repo": "ML4LB",
@@ -7560,7 +7560,7 @@
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-neural-networks",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:37:30.639Z",
+    "last_updated": "2026-09-07T15:47:01.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
