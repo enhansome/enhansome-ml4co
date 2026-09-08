@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 295,
+                        "stars": 296,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3195,7 +3195,7 @@
                 "id": 306201915,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-28T13:35:01Z",
+                "last_commit": "2026-09-08T11:40:49Z",
                 "open_issues": 1,
                 "owner": "google-research",
                 "repo": "tf-opt",
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -6953,7 +6953,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-19T19:53:38Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2130,
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:47:01.040Z",
+    "last_updated": "2026-09-08T14:27:41.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
