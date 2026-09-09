@@ -1380,7 +1380,7 @@
                         "open_issues": 1,
                         "owner": "yuuuuwang",
                         "repo": "StruDiCO",
-                        "stars": 3,
+                        "stars": 4,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4469,6 +4469,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS2025]  StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization",
+                "homepage": null,
+                "id": 1067239657,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-20T10:47:59Z",
+                "open_issues": 1,
+                "owner": "yuuuuwang",
+                "repo": "StruDiCO",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -4484,27 +4505,6 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "ConRep4CO",
                 "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS2025]  StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization",
-                "homepage": null,
-                "id": 1067239657,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-20T10:47:59Z",
-                "open_issues": 1,
-                "owner": "yuuuuwang",
-                "repo": "StruDiCO",
-                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6953,7 +6953,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-19T19:53:38Z",
-                "open_issues": 26,
+                "open_issues": 28,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2130,
@@ -6977,7 +6977,7 @@
                 "open_issues": 3,
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 592,
+                "stars": 593,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:27:41.041Z",
+    "last_updated": "2026-09-09T14:29:20.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
