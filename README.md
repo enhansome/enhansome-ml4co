@@ -4,7 +4,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
-*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,166 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
+*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,164 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
 
 *We are looking for post-docs interested in machine learning especially for learning combinatorial solvers, dynamic graphs, and reinforcement learning. Please send your up-to-date resume via yanjunchi AT sjtu.edu.cn.*
 
@@ -1101,7 +1101,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Ni Zhang, Jingfeng Yang, Zhiguang Cao, Xu Chi*
 
-31. **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** ICLR, 2025. [paper](https://openreview.net/forum?id=4pRwkYpa2u), [code](https://github.com/ziweileonhuang/reld-nco) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2025-04-20
+31. **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** ICLR, 2025. [paper](https://openreview.net/forum?id=4pRwkYpa2u), [code](https://github.com/ziweileonhuang/reld-nco) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2025-04-20
 
     *Ziwei Huang, Jianan Zhou, Zhiguang Cao, Yixin Xu*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
