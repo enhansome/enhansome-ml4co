@@ -185,7 +185,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 [![Uniform TSP-1000 benchmark chart](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 357 | 🐛 6 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 358 | 🐛 6 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -333,7 +333,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
 
     *Yuma Ichikawa, Yamato Arai*
 
@@ -357,7 +357,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Zijun Liao, Jinbiao Chen, Debing Wang, Zizhen Zhang, Jiahai Wang*
 
-44. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-02-20
+44. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-13
 
     *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
 
@@ -907,7 +907,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -981,7 +981,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Vehicle Routing Problem](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 357 | 🐛 6 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 358 | 🐛 6 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1109,7 +1109,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Ni Zhang, Zhiguang Cao, Jianan Zhou, Cong Zhang, Yew-Soon Ong*
 
-33. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-02-20
+33. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-13
 
     *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
 
@@ -1129,7 +1129,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Han Li, Fei Liu, Zhi Zheng, Yu Zhang, Zhenkun Wang*
 
-38. **Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=lHBs9mbgwp), [code](https://github.com/yuzikang0/CoEKS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-08
+38. **Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=lHBs9mbgwp), [code](https://github.com/yuzikang0/CoEKS) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-04-08
 
     *Zikang Yu, Jinbiao Chen, Jiahai Wang*
 
@@ -1339,11 +1339,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
 
     *Yuma Ichikawa, Yamato Arai*
 
-13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
 
     *Yuma Ichikawa, Hiroaki Iwashita*
 
@@ -1449,7 +1449,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Generalization](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 357 | 🐛 6 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 358 | 🐛 6 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1731,7 +1731,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, Kai Xu*
 
-2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 357 | 🐛 6 | 🌐 Python | 📅 2026-08-06
+2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 358 | 🐛 6 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1893,7 +1893,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Coloring](#content)
 
-1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-09-06
+1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -2049,7 +2049,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Defeng Liu, Matteo Fischetti, Andrea Lodi*
 
-15. **Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems** ICML, 2025. [paper](https://openreview.net/forum?id=teUg2pMrF0), [code](https://github.com/thuiar/LLM-LNS) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-07-12
+15. **Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems** ICML, 2025. [paper](https://openreview.net/forum?id=teUg2pMrF0), [code](https://github.com/thuiar/LLM-LNS) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-07-12
 
     *Huigen Ye, Hua Xu, An Yan, Yaoyang Cheng*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
