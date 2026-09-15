@@ -3267,7 +3267,7 @@
                 "open_issues": 0,
                 "owner": "MAEnvs4VRP",
                 "repo": "maenvs4vrp",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3544,7 +3544,7 @@
                 "open_issues": 0,
                 "owner": "ZHANG-NI",
                 "repo": "AFL",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3667,6 +3667,27 @@
             },
             {
               "node_type": "item",
+              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1170442564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-19T13:00:32Z",
+                "open_issues": 0,
+                "owner": "yihang0410",
+                "repo": "RADAR",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3744,27 +3765,6 @@
                 "open_issues": 0,
                 "owner": "gshuangchun",
                 "repo": "CCL-MTLVRP",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1170442564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-19T13:00:32Z",
-                "open_issues": 0,
-                "owner": "yihang0410",
-                "repo": "RADAR",
                 "stars": 7,
                 "topics": []
               },
@@ -6126,7 +6126,7 @@
                 "open_issues": 3,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 293,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6381,7 +6381,7 @@
                 "id": 417979325,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T06:19:20Z",
+                "last_commit": "2026-09-14T18:07:30Z",
                 "open_issues": 1,
                 "owner": "pandat8",
                 "repo": "ML4LB",
@@ -6956,7 +6956,7 @@
                 "open_issues": 28,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2133,
+                "stars": 2134,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:19:52.224Z",
+    "last_updated": "2026-09-15T14:55:38.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2164,
+      "stars": 2163,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
