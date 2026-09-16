@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 297,
+                        "stars": 298,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -775,6 +775,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
+                        "homepage": null,
+                        "id": 1094190935,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-05-20T10:32:46Z",
+                        "open_issues": 0,
+                        "owner": "FeiLiu36",
+                        "repo": "EoH-S",
+                        "stars": 30,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -816,27 +837,6 @@
                           "preference-alignment",
                           "reinforcement-learning"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
-                        "homepage": null,
-                        "id": 1094190935,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-05-20T10:32:46Z",
-                        "open_issues": 0,
-                        "owner": "FeiLiu36",
-                        "repo": "EoH-S",
-                        "stars": 29,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1270,7 +1270,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "MaskCO",
-                        "stars": 8,
+                        "stars": 9,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1766,7 +1766,7 @@
                 "open_issues": 3,
                 "owner": "martius-lab",
                 "repo": "blackbox-backprop",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3295,6 +3295,27 @@
             },
             {
               "node_type": "item",
+              "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
+                "homepage": null,
+                "id": 1094190935,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-20T10:32:46Z",
+                "open_issues": 0,
+                "owner": "FeiLiu36",
+                "repo": "EoH-S",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design Arxiv, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3336,27 +3357,6 @@
                   "preference-alignment",
                   "reinforcement-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
-                "homepage": null,
-                "id": 1094190935,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-20T10:32:46Z",
-                "open_issues": 0,
-                "owner": "FeiLiu36",
-                "repo": "EoH-S",
-                "stars": 29,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -3667,6 +3667,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
+                "homepage": null,
+                "id": 1203891520,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-11T09:43:15Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "MaskCO",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3702,27 +3723,6 @@
                 "open_issues": 1,
                 "owner": "yuzikang0",
                 "repo": "CoEKS",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
-                "homepage": null,
-                "id": 1203891520,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-11T09:43:15Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "MaskCO",
                 "stars": 8,
                 "topics": []
               },
@@ -4380,6 +4380,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
+                "homepage": null,
+                "id": 1203891520,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-11T09:43:15Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "MaskCO",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Maximum Independent Set: Self-Training through Dynamic Programming NeurlPS, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4401,27 +4422,6 @@
                   "maximum-independent-set",
                   "np-hard"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
-                "homepage": null,
-                "id": 1203891520,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-11T09:43:15Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "MaskCO",
-                "stars": 8,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5461,7 +5461,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6661,7 +6661,7 @@
                 "open_issues": 3,
                 "owner": "martius-lab",
                 "repo": "blackbox-backprop",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6682,7 +6682,7 @@
                 "open_issues": 3,
                 "owner": "martius-lab",
                 "repo": "blackbox-backprop",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6794,7 +6794,7 @@
                 "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "ai4eda",
                   "deep-learning",
@@ -6823,7 +6823,7 @@
                 "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "ai4eda",
                   "deep-learning",
@@ -6952,11 +6952,11 @@
                 "id": 217926330,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-19T19:53:38Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-16T08:10:16Z",
+                "open_issues": 30,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:55:38.969Z",
+    "last_updated": "2026-09-16T14:52:51.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2163,
+      "stars": 2164,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
