@@ -25,7 +25,7 @@
                         "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 361,
+                        "stars": 362,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -183,7 +183,7 @@
                         "open_issues": 1,
                         "owner": "henry-yeh",
                         "repo": "DeepACO",
-                        "stars": 199,
+                        "stars": 198,
                         "topics": [
                           "ant-colony-optimization",
                           "bin-packing-problem",
@@ -256,7 +256,7 @@
                         "open_issues": 0,
                         "owner": "CIAM-Group",
                         "repo": "NCO_code",
-                        "stars": 101,
+                        "stars": 100,
                         "topics": [
                           "combinatorial-optimization",
                           "computational-intelligence",
@@ -286,7 +286,7 @@
                         "open_issues": 0,
                         "owner": "CIAM-Group",
                         "repo": "NCO_code",
-                        "stars": 101,
+                        "stars": 100,
                         "topics": [
                           "combinatorial-optimization",
                           "computational-intelligence",
@@ -337,7 +337,7 @@
                         "open_issues": 2,
                         "owner": "Summer142857",
                         "repo": "LLMCoSolver",
-                        "stars": 91,
+                        "stars": 92,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1119,6 +1119,38 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICLR 2026] Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
+                        "homepage": null,
+                        "id": 881360168,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-13T12:10:23Z",
+                        "open_issues": 0,
+                        "owner": "jieyibi",
+                        "repo": "CaR-constraint",
+                        "stars": 16,
+                        "topics": [
+                          "combinatorial-optimization",
+                          "constraint-handling",
+                          "construction-and-refinement",
+                          "cvrp",
+                          "cvrpbltw",
+                          "foundation-models",
+                          "sop",
+                          "tspdl",
+                          "tsptw",
+                          "vehicle-routing-problem"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
                       "description": ", code",
                       "children": [],
@@ -1135,38 +1167,6 @@
                         "repo": "BOPO",
                         "stars": 15,
                         "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[ICLR 2026] Towards Efficient Constraint Handling in Neural Solvers for Routing Problems",
-                        "homepage": null,
-                        "id": 881360168,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-09-13T12:10:23Z",
-                        "open_issues": 0,
-                        "owner": "jieyibi",
-                        "repo": "CaR-constraint",
-                        "stars": 15,
-                        "topics": [
-                          "combinatorial-optimization",
-                          "constraint-handling",
-                          "construction-and-refinement",
-                          "cvrp",
-                          "cvrpbltw",
-                          "foundation-models",
-                          "sop",
-                          "tspdl",
-                          "tsptw",
-                          "vehicle-routing-problem"
-                        ]
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1319,6 +1319,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning NeurIPS, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation of the TTPL [NIPS2025]",
+                        "homepage": null,
+                        "id": 1081222191,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2025-10-22T13:47:33Z",
+                        "open_issues": 0,
+                        "owner": "CIAM-Group",
+                        "repo": "TTPL",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization Arxiv, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1340,27 +1361,6 @@
                           "latent-spaces",
                           "reinforcement-learning"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning NeurIPS, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official implementation of the TTPL [NIPS2025]",
-                        "homepage": null,
-                        "id": 1081222191,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-10-22T13:47:33Z",
-                        "open_issues": 0,
-                        "owner": "CIAM-Group",
-                        "repo": "TTPL",
-                        "stars": 5,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1506,7 +1506,7 @@
                 "open_issues": 1,
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "ant-colony-optimization",
                   "bin-packing-problem",
@@ -1544,7 +1544,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1565,7 +1565,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1920,7 +1920,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1946,7 +1946,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1972,7 +1972,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1998,7 +1998,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2024,7 +2024,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2225,7 +2225,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2740,7 +2740,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2798,7 +2798,7 @@
                 "open_issues": 1,
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "ant-colony-optimization",
                   "bin-packing-problem",
@@ -2892,7 +2892,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -2922,7 +2922,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -2952,7 +2952,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3241,7 +3241,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "real-routing-nco",
-                "stars": 39,
+                "stars": 38,
                 "topics": [
                   "neural-combinatorial-optimization",
                   "open-source-routing-machine",
@@ -3509,6 +3509,27 @@
             },
             {
               "node_type": "item",
+              "title": "An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1150302820,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-03T11:19:42Z",
+                "open_issues": 0,
+                "owner": "ZHANG-NI",
+                "repo": "AFL",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Light Decoder-based Solvers for Vehicle Routing Problems ICLR, 2025. paper",
               "description": ", code",
               "children": [],
@@ -3530,27 +3551,6 @@
             },
             {
               "node_type": "item",
-              "title": "An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1150302820,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-03T11:19:42Z",
-                "open_issues": 0,
-                "owner": "ZHANG-NI",
-                "repo": "AFL",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3565,7 +3565,7 @@
                 "open_issues": 0,
                 "owner": "jieyibi",
                 "repo": "CaR-constraint",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "combinatorial-optimization",
                   "constraint-handling",
@@ -3667,6 +3667,27 @@
             },
             {
               "node_type": "item",
+              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1170442564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-19T13:00:32Z",
+                "open_issues": 0,
+                "owner": "yihang0410",
+                "repo": "RADAR",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3682,27 +3703,6 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "MaskCO",
                 "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1170442564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-19T13:00:32Z",
-                "open_issues": 0,
-                "owner": "yihang0410",
-                "repo": "RADAR",
-                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3786,7 +3786,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "TTPL",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3961,7 +3961,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4553,7 +4553,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4723,7 +4723,7 @@
                 "open_issues": 1,
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "ant-colony-optimization",
                   "bin-packing-problem",
@@ -4761,7 +4761,7 @@
                 "open_issues": 0,
                 "owner": "CIAM-Group",
                 "repo": "NCO_code",
-                "stars": 101,
+                "stars": 100,
                 "topics": [
                   "combinatorial-optimization",
                   "computational-intelligence",
@@ -4819,7 +4819,7 @@
                 "open_issues": 1,
                 "owner": "henry-yeh",
                 "repo": "DeepACO",
-                "stars": 199,
+                "stars": 198,
                 "topics": [
                   "ant-colony-optimization",
                   "bin-packing-problem",
@@ -5355,7 +5355,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6952,8 +6952,8 @@
                 "id": 217926330,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T08:10:16Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-19T07:43:23Z",
+                "open_issues": 31,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2138,
@@ -7478,7 +7478,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:25:34.292Z",
+    "last_updated": "2026-09-19T13:53:49.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
