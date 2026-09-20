@@ -333,7 +333,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
 
     *Yuma Ichikawa, Yamato Arai*
 
@@ -907,7 +907,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -1339,11 +1339,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
 
     *Yuma Ichikawa, Yamato Arai*
 
-13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
 
     *Yuma Ichikawa, Hiroaki Iwashita*
 
@@ -1893,7 +1893,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Coloring](#content)
 
-1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -2411,7 +2411,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fahri Wisnu Murti, Samad Ali, Matti Latva-aho*
 
-2. **⭐GAL-VNE: Solving the VNE Problem with Global Reinforcement Learning and Local One-Shot Neural Prediction** KDD, 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599358), [code](https://github.com/Thinklab-SJTU/GAL-VNE) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-05-04
+2. **⭐GAL-VNE: Solving the VNE Problem with Global Reinforcement Learning and Local One-Shot Neural Prediction** KDD, 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599358), [code](https://github.com/Thinklab-SJTU/GAL-VNE) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-05-04
 
    *Haoyu Geng, Runzhong Wang, Fei Wu, Junchi Yan*
 
@@ -2559,7 +2559,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Combinatorial Drug Recommendation](#content)
 
-1. **GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination** AAAI, 2019. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/3905), [code](https://github.com/sjy1203/GAMENet) ⭐ 152 | 🐛 17 | 🌐 Python | 📅 2018-11-11
+1. **GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination** AAAI, 2019. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/3905), [code](https://github.com/sjy1203/GAMENet) ⭐ 153 | 🐛 17 | 🌐 Python | 📅 2018-11-11
 
    *Junyuan Shang, Cao Xiao, Tengfei Ma, Hongyan Li, Jimeng Sun*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
