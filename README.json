@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 298,
+                        "stars": 299,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -316,7 +316,7 @@
                         "open_issues": 1,
                         "owner": "Thinklab-SJTU",
                         "repo": "LinSATNet",
-                        "stars": 93,
+                        "stars": 94,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -337,7 +337,7 @@
                         "open_issues": 2,
                         "owner": "Summer142857",
                         "repo": "LLMCoSolver",
-                        "stars": 92,
+                        "stars": 93,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1544,7 +1544,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2071,7 +2071,7 @@
                 "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "LinSATNet",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2300,7 +2300,7 @@
                 "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "LinSATNet",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -2952,7 +2952,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3961,7 +3961,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -7478,7 +7478,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:09:30.501Z",
+    "last_updated": "2026-09-21T16:25:56.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
