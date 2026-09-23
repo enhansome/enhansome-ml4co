@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 300,
+                        "stars": 301,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -2356,27 +2356,6 @@
             },
             {
               "node_type": "item",
-              "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PyTorch implementation for our NeurIPS 2023 spotlight paper \"Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets\".",
-                "homepage": null,
-                "id": 641910307,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-05-30T01:55:04Z",
-                "open_issues": 4,
-                "owner": "zdhNarsil",
-                "repo": "GFlowNet-CombOpt",
-                "stars": 69,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization ICML, 2024. paper",
               "description": ", code",
               "children": [],
@@ -2391,6 +2370,27 @@
                 "open_issues": 0,
                 "owner": "ml-jku",
                 "repo": "DIffUCO",
+                "stars": 70,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PyTorch implementation for our NeurIPS 2023 spotlight paper \"Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets\".",
+                "homepage": null,
+                "id": 641910307,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-05-30T01:55:04Z",
+                "open_issues": 4,
+                "owner": "zdhNarsil",
+                "repo": "GFlowNet-CombOpt",
                 "stars": 69,
                 "topics": []
               },
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3995,27 +3995,6 @@
             },
             {
               "node_type": "item",
-              "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PyTorch implementation for our NeurIPS 2023 spotlight paper \"Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets\".",
-                "homepage": null,
-                "id": 641910307,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-05-30T01:55:04Z",
-                "open_issues": 4,
-                "owner": "zdhNarsil",
-                "repo": "GFlowNet-CombOpt",
-                "stars": 69,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization ICML, 2024. paper",
               "description": ", code",
               "children": [],
@@ -4030,6 +4009,27 @@
                 "open_issues": 0,
                 "owner": "ml-jku",
                 "repo": "DIffUCO",
+                "stars": 70,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets NeurlPS, 2023. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PyTorch implementation for our NeurIPS 2023 spotlight paper \"Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets\".",
+                "homepage": null,
+                "id": 641910307,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-05-30T01:55:04Z",
+                "open_issues": 4,
+                "owner": "zdhNarsil",
+                "repo": "GFlowNet-CombOpt",
                 "stars": 69,
                 "topics": []
               },
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -4937,7 +4937,7 @@
                 "open_issues": 0,
                 "owner": "dselsam",
                 "repo": "neurosat",
-                "stars": 296,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5905,7 +5905,7 @@
                 "open_issues": 0,
                 "owner": "ml-jku",
                 "repo": "DIffUCO",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6126,7 +6126,7 @@
                 "open_issues": 3,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 295,
+                "stars": 297,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:45:05.592Z",
+    "last_updated": "2026-09-23T14:56:09.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
