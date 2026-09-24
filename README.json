@@ -25,7 +25,7 @@
                         "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 362,
+                        "stars": 363,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 301,
+                        "stars": 302,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -2740,7 +2740,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3241,7 +3241,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "real-routing-nco",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "neural-combinatorial-optimization",
                   "open-source-routing-machine",
@@ -4553,7 +4553,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5355,7 +5355,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:56:09.883Z",
+    "last_updated": "2026-09-24T14:58:11.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2167,
+      "stars": 2168,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
