@@ -1235,27 +1235,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official repository for the paper \"MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization\"",
-                        "homepage": "https://www.ijcai.org/proceedings/2024/0766.pdf",
-                        "id": 788365053,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-10-08T08:31:18Z",
-                        "open_issues": 0,
-                        "owner": "TheLeprechaun25",
-                        "repo": "MARCO",
-                        "stars": 9,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1270,6 +1249,27 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "MaskCO",
+                        "stars": 10,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official repository for the paper \"MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization\"",
+                        "homepage": "https://www.ijcai.org/proceedings/2024/0766.pdf",
+                        "id": 788365053,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-10-08T08:31:18Z",
+                        "open_issues": 0,
+                        "owner": "TheLeprechaun25",
+                        "repo": "MARCO",
                         "stars": 9,
                         "topics": []
                       },
@@ -3667,27 +3667,6 @@
             },
             {
               "node_type": "item",
-              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1170442564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-19T13:00:32Z",
-                "open_issues": 0,
-                "owner": "yihang0410",
-                "repo": "RADAR",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3702,6 +3681,27 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "MaskCO",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1170442564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-19T13:00:32Z",
+                "open_issues": 0,
+                "owner": "yihang0410",
+                "repo": "RADAR",
                 "stars": 9,
                 "topics": []
               },
@@ -4313,6 +4313,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
+                "homepage": null,
+                "id": 1203891520,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-11T09:43:15Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "MaskCO",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Unsupervised Learning for Combinatorial Optimization Needs Meta Learning ICLR, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4375,27 +4396,6 @@
                   "graph-neural-networks",
                   "langevin-dynamics"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization",
-                "homepage": null,
-                "id": 1203891520,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-11T09:43:15Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "MaskCO",
-                "stars": 9,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -6952,8 +6952,8 @@
                 "id": 217926330,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T07:43:23Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-24T18:28:21Z",
+                "open_issues": 32,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2139,
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:58:11.578Z",
+    "last_updated": "2026-09-25T15:10:57.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2168,
+      "stars": 2169,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",

@@ -4,7 +4,7 @@ We would like to maintain a list of resources that utilize machine learning tech
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
-*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,168 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
+*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong, Jiale Ma, Wenzheng Pan and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors) ⭐ 2,169 | 🐛 0 | 🌐 Python | 📅 2026-07-19!*
 
 *We are looking for post-docs interested in machine learning especially for learning combinatorial solvers, dynamic graphs, and reinforcement learning. Please send your up-to-date resume via yanjunchi AT sjtu.edu.cn.*
 
@@ -371,13 +371,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 47. **FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=BVprkacwFY), [code](https://github.com/sunnweiwei/FrontierCO) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-05-17
 
-48. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
-
-    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
-
-49. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+48. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 
     *Lvda Chen, Yang Li, Junchi Yan*
+
+49. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+
+    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
 
 50. **Learning to Insert for Constructive Neural Vehicle Routing Solver** NeurIPS, 2025. [paper](https://openreview.net/forum?id=SXr3Dynctm), [code](https://github.com/CIAM-Group/L2C_Insert) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-24
 
@@ -1129,13 +1129,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Han Li, Fei Liu, Zhi Zheng, Yu Zhang, Zhenkun Wang*
 
-38. **RADAR: Learning to Route with Asymmetry-aware Distance Representations** ICLR, 2026. [paper](https://openreview.net/forum?id=lWdxX5s9T1), [code](https://github.com/yihang0410/RADAR) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-19
-
-    *Hang Yi, Ziwei Huang, Yining Ma, Zhiguang Cao*
-
-39. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+38. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 
     *Lvda Chen, Yang Li, Junchi Yan*
+
+39. **RADAR: Learning to Route with Asymmetry-aware Distance Representations** ICLR, 2026. [paper](https://openreview.net/forum?id=lWdxX5s9T1), [code](https://github.com/yihang0410/RADAR) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-03-19
+
+    *Hang Yi, Ziwei Huang, Yining Ma, Zhiguang Cao*
 
 40. **Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=lHBs9mbgwp), [code](https://github.com/yuzikang0/CoEKS) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-04-08
 
@@ -1363,21 +1363,21 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Sepp Hochreiter, Sebastian Lehner*
 
-18. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
+18. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+
+    *Lvda Chen, Yang Li, Junchi Yan*
+
+19. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
 
     *Haoyu Wang, Pan Li*
 
-19. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+20. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
 
     *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
 
-20. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+21. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
 
     *Shengyu Feng, Yiming Yang*
-
-21. **⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=psUjNnLhl9), [code](https://github.com/Thinklab-SJTU/MaskCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-11
-
-    *Lvda Chen, Yang Li, Junchi Yan*
 
 22. **Maximum Independent Set: Self-Training through Dynamic Programming** NeurlPS, 2023. [paper](https://openreview.net/forum?id=igE3Zbxvws), [code](https://github.com/LIONS-EPFL/dynamic-MIS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-28
 
@@ -2461,7 +2461,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,139 | 🐛 31 | 🌐 Python | 📅 2026-09-19
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,139 | 🐛 32 | 🌐 Python | 📅 2026-09-24
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
