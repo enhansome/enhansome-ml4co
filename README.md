@@ -209,7 +209,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Chaitanya K. Joshi, Quentin Cappart, Louis-Martin Rousseau, Thomas Laurent*
 
-7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -253,7 +253,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Xuanhao Pan, Yan Jin, Yuandong Ding, Mingxiao Feng, Li Zhao, Lei Song, Jiang Bian*
 
-18. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2025-12-03
+18. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2025-12-03
 
     *Federico Berto, Chuanbo Hua, Laurin Luttmann, Jiwoo Son, Junyoung Park, Kyuree Ahn, Changhyun Kwon, Lin Xie, Jinkyoo Park*
 
@@ -333,7 +333,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+38. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27
 
     *Yuma Ichikawa, Yamato Arai*
 
@@ -595,11 +595,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Job Shop Scheduling Problem](#content)
 
-1. **Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning.** NeurIPS, 2020. [paper](https://arxiv.org/abs/2010.12367), [code](https://github.com/zcajiayin/L2D) ⭐ 389 | 🐛 6 | 🌐 Python | 📅 2022-08-31
+1. **Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning.** NeurIPS, 2020. [paper](https://arxiv.org/abs/2010.12367), [code](https://github.com/zcajiayin/L2D) ⭐ 390 | 🐛 6 | 🌐 Python | 📅 2022-08-31
 
    *Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu*
 
-2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -673,7 +673,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Flow Shop Problem](#content)
 
-1. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2025-12-03
+1. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2025-12-03
 
    *Federico Berto, Chuanbo Hua, Laurin Luttmann, Jiwoo Son, Junyoung Park, Kyuree Ahn, Changhyun Kwon, Lin Xie, Jinkyoo Park*
 
@@ -891,7 +891,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Sebastian Sanokowski, Sepp Hochreiter, Sebastian Lehner*
 
-3. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2023-05-30
+3. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2026-09-26
 
    *Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan*
 
@@ -907,7 +907,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+7. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -989,7 +989,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
-3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1025,7 +1025,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Zhou Jianan, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang*
 
-12. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2025-12-03
+12. **PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9F2Cmgo17M), [code](https://github.com/ai4co/parco) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2025-12-03
 
     *Federico Berto, Chuanbo Hua, Laurin Luttmann, Jiwoo Son, Junyoung Park, Kyuree Ahn, Changhyun Kwon, Lin Xie, Jinkyoo Park*
 
@@ -1315,7 +1315,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Sebastian Sanokowski, Sepp Hochreiter, Sebastian Lehner*
 
-6. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2023-05-30
+6. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2026-09-26
 
    *Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan*
 
@@ -1339,11 +1339,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yang Li, Jinpei Guo, Runzhong Wang, Hongyuan Zha, Junchi Yan*
 
-12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+12. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27
 
     *Yuma Ichikawa, Yamato Arai*
 
-13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+13. **Continuous Parallel Relaxation for Finding Diverse Solutions in Combinatorial Optimization Problems** TMLR, 2025. [journal](https://openreview.net/forum?id=ix33zd5zCw), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27
 
     *Yuma Ichikawa, Hiroaki Iwashita*
 
@@ -1495,7 +1495,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Orienteering Problem](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1513,7 +1513,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Knapsack](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1567,7 +1567,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Nasimeh Heydaribeni, Xinrui Zhan, Ruisi Zhang, Tina Eliassi-Rad, Farinaz Koushanfar*
 
-3. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2023-05-30
+3. **Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets** NeurlPS, 2023. [paper](https://arxiv.org/abs/2305.17010), [code](https://github.com/zdhNarsil/GFlowNet-CombOpt) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2026-09-26
 
    *Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan*
 
@@ -1893,7 +1893,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Graph Coloring](#content)
 
-1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-20
+1. **Optimization by Parallel Quasi-Quantum Annealing with Gradient-Based Sampling** ICLR, 2025. [paper](https://openreview.net/forum?id=9EfBeXaXf0), [code](https://github.com/Yuma-Ichikawa/QQA4CO) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2026-09-27
 
    *Yuma Ichikawa, Yamato Arai*
 
@@ -2367,11 +2367,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Electronic Design Automation](#content)
 
-1. **⭐On Joint Learning for Solving Placement and Routing in Chip Design** NeurIPS, 2021. [paper](https://arxiv.org/abs/2111.00234), [code](https://github.com/Thinklab-SJTU/EDA-AI) ⭐ 325 | 🐛 16 | 🌐 C | 📅 2025-11-23
+1. **⭐On Joint Learning for Solving Placement and Routing in Chip Design** NeurIPS, 2021. [paper](https://arxiv.org/abs/2111.00234), [code](https://github.com/Thinklab-SJTU/EDA-AI) ⭐ 326 | 🐛 16 | 🌐 C | 📅 2025-11-23
 
    *Ruoyu Cheng, Junchi Yan*
 
-2. **⭐The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design** NeurIPS, 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8b8c1ad51df1b93d9e3d1fca75debbf-Abstract-Conference.html), [code](https://github.com/Thinklab-SJTU/EDA-AI) ⭐ 325 | 🐛 16 | 🌐 C | 📅 2025-11-23
+2. **⭐The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design** NeurIPS, 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a8b8c1ad51df1b93d9e3d1fca75debbf-Abstract-Conference.html), [code](https://github.com/Thinklab-SJTU/EDA-AI) ⭐ 326 | 🐛 16 | 🌐 C | 📅 2025-11-23
 
    *Ruoyu Cheng, Xianglong Lyu, Yang Li, Junjie Ye, Jianye Hao, Junchi Yan*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
