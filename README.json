@@ -358,7 +358,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "T2TCO",
-                        "stars": 76,
+                        "stars": 77,
                         "topics": [
                           "combinatorial-optimization",
                           "diffusion",
@@ -1119,6 +1119,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "code for paper \"BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization\"",
+                        "homepage": null,
+                        "id": 986377774,
+                        "language": "Java",
+                        "license": "MIT",
+                        "last_commit": "2026-03-01T05:54:37Z",
+                        "open_issues": 0,
+                        "owner": "L-Z-7",
+                        "repo": "BOPO",
+                        "stars": 16,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1146,27 +1167,6 @@
                           "tsptw",
                           "vehicle-routing-problem"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "code for paper \"BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization\"",
-                        "homepage": null,
-                        "id": 986377774,
-                        "language": "Java",
-                        "license": "MIT",
-                        "last_commit": "2026-03-01T05:54:37Z",
-                        "open_issues": 0,
-                        "owner": "L-Z-7",
-                        "repo": "BOPO",
-                        "stars": 15,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1586,7 +1586,7 @@
                 "open_issues": 0,
                 "owner": "L-Z-7",
                 "repo": "BOPO",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2412,7 +2412,7 @@
                 "open_issues": 4,
                 "owner": "google-research",
                 "repo": "discs",
-                "stars": 64,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3189,7 +3189,7 @@
               "description": ", code",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 306201915,
@@ -3667,6 +3667,27 @@
             },
             {
               "node_type": "item",
+              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1170442564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-19T13:00:32Z",
+                "open_issues": 0,
+                "owner": "yihang0410",
+                "repo": "RADAR",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐MaskCO: Masked Generation Drives Effective Representation Learning and Exploiting for Combinatorial Optimization ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3688,27 +3709,6 @@
             },
             {
               "node_type": "item",
-              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1170442564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-19T13:00:32Z",
-                "open_issues": 0,
-                "owner": "yihang0410",
-                "repo": "RADAR",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3723,7 +3723,7 @@
                 "open_issues": 1,
                 "owner": "yuzikang0",
                 "repo": "CoEKS",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3982,7 +3982,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "T2TCO",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "combinatorial-optimization",
                   "diffusion",
@@ -4051,7 +4051,7 @@
                 "open_issues": 4,
                 "owner": "google-research",
                 "repo": "discs",
-                "stars": 64,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5662,7 +5662,7 @@
                 "open_issues": 0,
                 "owner": "BorgwardtLab",
                 "repo": "Gelato",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "gnns",
                   "graph-edit-distance",
@@ -5926,7 +5926,7 @@
                 "open_issues": 4,
                 "owner": "google-research",
                 "repo": "discs",
-                "stars": 64,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:07:18.625Z",
+    "last_updated": "2026-09-28T18:07:04.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
