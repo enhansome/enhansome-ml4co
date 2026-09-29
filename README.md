@@ -209,7 +209,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Chaitanya K. Joshi, Quentin Cappart, Louis-Martin Rousseau, Thomas Laurent*
 
-7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+7. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 200 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -599,7 +599,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Cong Zhang, Wen Song, Zhiguang Cao, Jie Zhang, Puay Siew Tan, Chi Xu*
 
-2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+2. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 200 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -607,7 +607,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Xia Jiang, Yaoxin Wu, Minshuo Li, Zhiguang Cao, Yingqian Zhang*
 
-4. **ReSched: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States** ICLR, 2026. [paper](https://iclr.cc/virtual/2026/poster/10007089), [code](https://github.com/XiangjieXiao/ReSched) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-09-12
+4. **ReSched: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States** ICLR, 2026. [paper](https://iclr.cc/virtual/2026/poster/10007089), [code](https://github.com/XiangjieXiao/ReSched) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-09-12
 
    *Xiangjie Xiao, Zhiguang Cao, Cong Zhang, Wen Song*
 
@@ -989,7 +989,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
-3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+3. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 200 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1097,13 +1097,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jianan Zhou, Yaoxin Wu, Zhiguang Cao, Wen Song, Jie Zhang, Zhiqi Shen*
 
-30. **Adversarial Generative Flow Network for Solving Vehicle Routing Problems** ICLR, 2025. [paper](https://openreview.net/forum?id=tBom4xOW1H), [code](https://github.com/ZHANG-NI/AGFN) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-10-06
-
-    *Ni Zhang, Jingfeng Yang, Zhiguang Cao, Xu Chi*
-
-31. **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=BMOgYw4EhQ), [code](https://github.com/ZHANG-NI/AFL) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-03-03
+30. **An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=BMOgYw4EhQ), [code](https://github.com/ZHANG-NI/AFL) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-03-03
 
     *Ni Zhang, Zhiguang Cao, Jianan Zhou, Cong Zhang, Yew-Soon Ong*
+
+31. **Adversarial Generative Flow Network for Solving Vehicle Routing Problems** ICLR, 2025. [paper](https://openreview.net/forum?id=tBom4xOW1H), [code](https://github.com/ZHANG-NI/AGFN) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-10-06
+
+    *Ni Zhang, Jingfeng Yang, Zhiguang Cao, Xu Chi*
 
 32. **Rethinking Light Decoder-based Solvers for Vehicle Routing Problems** ICLR, 2025. [paper](https://openreview.net/forum?id=4pRwkYpa2u), [code](https://github.com/ziweileonhuang/reld-nco) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2025-04-20
 
@@ -1153,7 +1153,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yuanyao Chen, Rongsheng Chen, Fu Luo, Zhenkun Wang*
 
-44. **Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM** ICLR, 2026. [paper](https://arxiv.org/abs/2510.11121), [code](https://github.com/zaodushi/RFTHGS) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-14
+44. **Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM** ICLR, 2026. [paper](https://arxiv.org/abs/2510.11121), [code](https://github.com/zaodushi/RFTHGS) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-14
 
     *Rongjie Zhu, Cong Zhang, Zhiguang Cao*
 
@@ -1495,7 +1495,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Orienteering Problem](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 200 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -1513,7 +1513,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Knapsack](#content)
 
-1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 199 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
+1. **DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization** NeurIPS, 2023. [paper](https://openreview.net/forum?id=cd5D1DD923), [code](https://github.com/henry-yeh/DeepACO) ⭐ 200 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-29
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Helan Liang, Yong Li*
 
@@ -2465,7 +2465,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Akshay Agrawal, Stephen Boyd*
 
-2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 594 | 🐛 3 | 🌐 Python | 📅 2020-03-26
+2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 595 | 🐛 3 | 🌐 Python | 📅 2020-03-26
 
    *Brandon Amos, J. Zico Kolter*
 
@@ -2473,7 +2473,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Mathias Niepert, Pasquale Minervini, Luca Franceschi*
 
-4. **Deep Declarative Networks** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9355027), [code](https://github.com/anucvml/ddn) ⭐ 253 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-06-18
+4. **Deep Declarative Networks** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9355027), [code](https://github.com/anucvml/ddn) ⭐ 253 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-29
 
    *Stephen Gould, Richard Hartley, Dylan Campbell*
 
@@ -2589,7 +2589,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Stochastic Combinatorial Optimization](#content)
 
-1. **Neur2SP- Neural Two-Stage Stochastic Programming** NeurIPS, 2022. [paper](https://openreview.net/forum?id=HQDvPsdXS-F), [code](https://github.com/khalil-research/Neur2SP) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2023-03-08
+1. **Neur2SP- Neural Two-Stage Stochastic Programming** NeurIPS, 2022. [paper](https://openreview.net/forum?id=HQDvPsdXS-F), [code](https://github.com/khalil-research/Neur2SP) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2023-03-08
 
    *Rahul Mihir Patel, Justin Dumouchelle, Elias Boutros Khalil, Merve Bodur*
 
@@ -2645,4 +2645,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
