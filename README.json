@@ -25,7 +25,7 @@
                         "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 363,
+                        "stars": 364,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 302,
+                        "stars": 303,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -371,6 +371,34 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICML 2023] \"Towards Omni-generalizable Neural Methods for Vehicle Routing Problems\"",
+                        "homepage": "https://openreview.net/forum?id=PlFBOnVOFg",
+                        "id": 499383166,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-06-03T02:36:14Z",
+                        "open_issues": 0,
+                        "owner": "RoyalSkye",
+                        "repo": "Omni-VRP",
+                        "stars": 60,
+                        "topics": [
+                          "deep-reinforcement-learning",
+                          "generalization",
+                          "learning-to-optimize",
+                          "meta-learning",
+                          "travelling-salesman-problem",
+                          "vehicle-routing-problem"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
                       "description": ", code",
                       "children": [],
@@ -394,34 +422,6 @@
                           "multi-teacher-kd",
                           "neural-combinatorial-optimization",
                           "tsp",
-                          "vehicle-routing-problem"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[ICML 2023] \"Towards Omni-generalizable Neural Methods for Vehicle Routing Problems\"",
-                        "homepage": "https://openreview.net/forum?id=PlFBOnVOFg",
-                        "id": 499383166,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-06-03T02:36:14Z",
-                        "open_issues": 0,
-                        "owner": "RoyalSkye",
-                        "repo": "Omni-VRP",
-                        "stars": 59,
-                        "topics": [
-                          "deep-reinforcement-learning",
-                          "generalization",
-                          "learning-to-optimize",
-                          "meta-learning",
-                          "travelling-salesman-problem",
                           "vehicle-routing-problem"
                         ]
                       },
@@ -1920,7 +1920,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1946,7 +1946,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1972,7 +1972,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -1998,7 +1998,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2024,7 +2024,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2225,7 +2225,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ThinkMatch",
-                "stars": 882,
+                "stars": 883,
                 "topics": [
                   "combinatorial-optimization",
                   "graph-matching",
@@ -2740,7 +2740,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -2989,6 +2989,34 @@
             },
             {
               "node_type": "item",
+              "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2023] \"Towards Omni-generalizable Neural Methods for Vehicle Routing Problems\"",
+                "homepage": "https://openreview.net/forum?id=PlFBOnVOFg",
+                "id": 499383166,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-06-03T02:36:14Z",
+                "open_issues": 0,
+                "owner": "RoyalSkye",
+                "repo": "Omni-VRP",
+                "stars": 60,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "generalization",
+                  "learning-to-optimize",
+                  "meta-learning",
+                  "travelling-salesman-problem",
+                  "vehicle-routing-problem"
+                ]
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
               "description": ", code",
               "children": [],
@@ -3012,34 +3040,6 @@
                   "multi-teacher-kd",
                   "neural-combinatorial-optimization",
                   "tsp",
-                  "vehicle-routing-problem"
-                ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Towards Omni-generalizable Neural Methods for Vehicle Routing Problems ICML, 2023. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2023] \"Towards Omni-generalizable Neural Methods for Vehicle Routing Problems\"",
-                "homepage": "https://openreview.net/forum?id=PlFBOnVOFg",
-                "id": 499383166,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-06-03T02:36:14Z",
-                "open_issues": 0,
-                "owner": "RoyalSkye",
-                "repo": "Omni-VRP",
-                "stars": 59,
-                "topics": [
-                  "deep-reinforcement-learning",
-                  "generalization",
-                  "learning-to-optimize",
-                  "meta-learning",
-                  "travelling-salesman-problem",
                   "vehicle-routing-problem"
                 ]
               },
@@ -4553,7 +4553,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4574,7 +4574,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -4641,7 +4641,7 @@
                 "open_issues": 0,
                 "owner": "RoyalSkye",
                 "repo": "Omni-VRP",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "deep-reinforcement-learning",
                   "generalization",
@@ -5355,7 +5355,7 @@
                 "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5376,7 +5376,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -6852,7 +6852,7 @@
                 "open_issues": 3,
                 "owner": "cornell-zhang",
                 "repo": "heurigym",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -6956,7 +6956,7 @@
                 "open_issues": 32,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:23:00.123Z",
+    "last_updated": "2026-10-01T16:59:51.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
