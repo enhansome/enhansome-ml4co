@@ -3263,8 +3263,8 @@
                 "id": 892656976,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-27T19:38:14Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-02T21:37:56Z",
+                "open_issues": 1,
                 "owner": "MAL4VRP",
                 "repo": "maenvs4vrp",
                 "stars": 37,
@@ -5328,7 +5328,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 607,
+                "stars": 610,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -6103,7 +6103,7 @@
                 "open_issues": 11,
                 "owner": "ds4dm",
                 "repo": "learn2branch",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "neurips-2019"
                 ]
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:14:06.543Z",
+    "last_updated": "2026-10-03T04:55:38.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
