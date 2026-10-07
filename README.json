@@ -2973,7 +2973,7 @@
                 "open_issues": 1,
                 "owner": "RoyalSkye",
                 "repo": "Routing-MVMoE",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "combinatorial-optimization",
                   "foundation-models",
@@ -5328,7 +5328,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 622,
+                "stars": 627,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T16:43:02.959Z",
+    "last_updated": "2026-10-07T17:23:51.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7613,7 +7613,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2174,
+      "stars": 2173,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
