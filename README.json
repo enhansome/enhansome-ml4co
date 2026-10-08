@@ -302,27 +302,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "⭐LinSATNet: The Positive Linear Satisfiability Neural Networks ICML, 2023. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official implementation of our ICML 2023 paper \"LinSATNet: The Positive Linear Satisfiability Neural Networks\".",
-                        "homepage": null,
-                        "id": 645377729,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2024-04-12T22:14:10Z",
-                        "open_issues": 1,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "LinSATNet",
-                        "stars": 94,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "Large Language Models as End-to-end Combinatorial Optimization Solvers NeurIPS, 2025. paper",
                       "description": ", code",
                       "children": [],
@@ -337,6 +316,27 @@
                         "open_issues": 2,
                         "owner": "Summer142857",
                         "repo": "LLMCoSolver",
+                        "stars": 95,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "⭐LinSATNet: The Positive Linear Satisfiability Neural Networks ICML, 2023. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation of our ICML 2023 paper \"LinSATNet: The Positive Linear Satisfiability Neural Networks\".",
+                        "homepage": null,
+                        "id": 645377729,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-04-12T22:14:10Z",
+                        "open_issues": 1,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "LinSATNet",
                         "stars": 94,
                         "topics": []
                       },
@@ -608,7 +608,7 @@
                         "open_issues": 3,
                         "owner": "naver",
                         "repo": "bq-nco",
-                        "stars": 46,
+                        "stars": 47,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -733,6 +733,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
+                        "homepage": null,
+                        "id": 1094190935,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-05-20T10:32:46Z",
+                        "open_issues": 0,
+                        "owner": "FeiLiu36",
+                        "repo": "EoH-S",
+                        "stars": 31,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for the Traveling Salesman Problem AAAI, 2021. paper",
                       "description": ", code",
                       "children": [],
@@ -795,27 +816,6 @@
                           "preference-alignment",
                           "reinforcement-learning"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
-                        "homepage": null,
-                        "id": 1094190935,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-05-20T10:32:46Z",
-                        "open_issues": 0,
-                        "owner": "FeiLiu36",
-                        "repo": "EoH-S",
-                        "stars": 30,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1485,7 +1485,7 @@
                 "open_issues": 6,
                 "owner": "zcaicaros",
                 "repo": "L2D",
-                "stars": 391,
+                "stars": 392,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1544,7 +1544,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2952,7 +2952,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3178,7 +3178,7 @@
                 "open_issues": 3,
                 "owner": "naver",
                 "repo": "bq-nco",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3295,6 +3295,27 @@
             },
             {
               "node_type": "item",
+              "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
+                "homepage": null,
+                "id": 1094190935,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-20T10:32:46Z",
+                "open_issues": 0,
+                "owner": "FeiLiu36",
+                "repo": "EoH-S",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Preference Optimization for Combinatorial Optimization Problems ICML, 2025. paper",
               "description": ", code",
               "children": [],
@@ -3315,27 +3336,6 @@
                   "preference-alignment",
                   "reinforcement-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Evolution of Heuristic Set using LLMs for Automated Heuristic Design",
-                "homepage": null,
-                "id": 1094190935,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-20T10:32:46Z",
-                "open_issues": 0,
-                "owner": "FeiLiu36",
-                "repo": "EoH-S",
-                "stars": 30,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -3940,7 +3940,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4857,7 +4857,7 @@
                 "open_issues": 3,
                 "owner": "naver",
                 "repo": "bq-nco",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5328,7 +5328,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 627,
+                "stars": 633,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5461,7 +5461,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6126,7 +6126,7 @@
                 "open_issues": 3,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 300,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7478,7 +7478,7 @@
                 "open_issues": 2,
                 "owner": "Summer142857",
                 "repo": "LLMCoSolver",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7601,7 +7601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:23:51.338Z",
+    "last_updated": "2026-10-08T17:21:49.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7610,10 +7610,10 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-07-19T06:46:19Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2173,
+      "stars": 2174,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
