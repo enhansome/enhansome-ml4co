@@ -25,7 +25,7 @@
                         "open_issues": 5,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 365,
+                        "stars": 366,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -570,7 +570,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-09-05T02:16:09Z",
-                        "open_issues": 2,
+                        "open_issues": 3,
                         "owner": "Thinklab-SJTU",
                         "repo": "ML4CO-Bench-101",
                         "stars": 53,
@@ -1451,6 +1451,27 @@
                         ]
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing NeurIPS, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1230929704,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-05-07T13:47:26Z",
+                        "open_issues": 0,
+                        "owner": "Elaina10172004",
+                        "repo": "LINC",
+                        "stars": 1,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-10T15:50:48.486Z"
                     }
                   ],
                   "description": null,
@@ -1565,7 +1586,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2430,7 +2451,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
                 "stars": 53,
@@ -2740,7 +2761,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3140,7 +3161,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
                 "stars": 53,
@@ -3877,6 +3898,27 @@
             },
             {
               "node_type": "item",
+              "title": "LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing NeurIPS, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1230929704,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-05-07T13:47:26Z",
+                "open_issues": 0,
+                "owner": "Elaina10172004",
+                "repo": "LINC",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-10T15:50:48.486Z"
+            },
+            {
+              "node_type": "item",
               "title": "Beyond Simple Graphs: Neural Multi-Objective Routing on Multigraphs ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -4069,7 +4111,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
                 "stars": 53,
@@ -4553,7 +4595,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5328,7 +5370,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 642,
+                "stars": 645,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5355,7 +5397,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5944,7 +5986,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
                 "stars": 53,
@@ -6147,7 +6189,7 @@
                 "open_issues": 2,
                 "owner": "thuiar",
                 "repo": "GNN-GBDT-Guided-Fast-Optimizing-Framework",
-                "stars": 281,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7496,7 +7538,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
                 "stars": 53,
@@ -7601,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:57:29.552Z",
+    "last_updated": "2026-10-10T15:50:48.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -7609,8 +7651,8 @@
       "id": 349947919,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-07-19T06:46:19Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-10T06:49:07Z",
+      "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
       "stars": 2174,
@@ -7621,7 +7663,7 @@
         "paper-list"
       ]
     },
-    "original_repository_sha": "e31877f6f09cb834efb14594a2bf15334e9fada6",
+    "original_repository_sha": "bf28fd0cf4fe33db76fec5193538c47c45ccaaff",
     "enhanced_repository": "enhansome/enhansome-ml4co",
     "enhanced_repository_description": null,
     "title": "Awesome Machine Learning for Combinatorial Optimization Resources with stars"
