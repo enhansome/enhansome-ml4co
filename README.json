@@ -25,7 +25,7 @@
                         "open_issues": 5,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 366,
+                        "stars": 368,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -358,7 +358,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "T2TCO",
-                        "stars": 77,
+                        "stars": 78,
                         "topics": [
                           "combinatorial-optimization",
                           "diffusion",
@@ -1186,7 +1186,7 @@
                         "open_issues": 1,
                         "owner": "sunnweiwei",
                         "repo": "FrontierCO",
-                        "stars": 15,
+                        "stars": 16,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1586,7 +1586,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 366,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4024,7 +4024,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "T2TCO",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "combinatorial-optimization",
                   "diffusion",
@@ -4306,7 +4306,7 @@
                 "open_issues": 1,
                 "owner": "sunnweiwei",
                 "repo": "FrontierCO",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4595,7 +4595,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 366,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5370,7 +5370,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 650,
+                "stars": 658,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5397,7 +5397,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 366,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6275,7 +6275,7 @@
                 "open_issues": 3,
                 "owner": "MIRALab-USTC",
                 "repo": "L2O-HEM-Torch",
-                "stars": 66,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6296,7 +6296,7 @@
                 "open_issues": 3,
                 "owner": "MIRALab-USTC",
                 "repo": "L2O-HEM-Torch",
-                "stars": 66,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:16:56.480Z",
+    "last_updated": "2026-10-12T19:46:01.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
