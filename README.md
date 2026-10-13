@@ -185,7 +185,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 [![Uniform TSP-1000 benchmark chart](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 368 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -987,7 +987,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Vehicle Routing Problem](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 368 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1059,7 +1059,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jinho Choo, Yeong-Dae Kwon, Jihoon Kim, Jeongwoo Jae, Andr{'e} Hottung, Kevin Tierney, Youngjune Gwon*
 
-19. **RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2503.16159), [code](https://github.com/ai4co/real-routing-nco) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-02-27
+19. **RRNCO: Towards Real-World Routing with Neural Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2503.16159), [code](https://github.com/ai4co/real-routing-nco) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2026-02-27
 
     *Jiwoo Son, Zhikai Zhao, Federico Berto, Chuanbo Hua, Zhiguang Cao, Changhyun Kwon, Jinkyoo Park*
 
@@ -1459,7 +1459,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Generalization](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 368 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1737,11 +1737,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Bin Packing Problem](#content)
 
-1. **Online 3D Bin Packing with Constrained Deep Reinforcement Learning.** AAAI, 2021. [paper](https://arxiv.org/abs/2006.14978), [code](https://github.com/alexfrom0815/Online-3D-BPP-DRL) ⭐ 658 | 🐛 2 | 🌐 Python | 📅 2023-11-17
+1. **Online 3D Bin Packing with Constrained Deep Reinforcement Learning.** AAAI, 2021. [paper](https://arxiv.org/abs/2006.14978), [code](https://github.com/alexfrom0815/Online-3D-BPP-DRL) ⭐ 662 | 🐛 2 | 🌐 Python | 📅 2023-11-17
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, Kai Xu*
 
-2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 368 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -2007,7 +2007,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Maxime Gasse, Didier Chetelat, Nicola Ferroni, Laurent Charlin, Andrea Lodi*
 
-2. **OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models** ICML, 2024. [paper](https://openreview.net/forum?id=YT1dtdLvSN), [code](https://github.com/teshnizi/OptiMUS) ⭐ 303 | 🐛 3 | 🌐 Python | 📅 2025-11-04
+2. **OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models** ICML, 2024. [paper](https://openreview.net/forum?id=YT1dtdLvSN), [code](https://github.com/teshnizi/OptiMUS) ⭐ 304 | 🐛 3 | 🌐 Python | 📅 2025-11-04
 
    *Ali AhmadiTeshnizi, Wenzhi Gao, Madeleine Udell*
 
@@ -2301,7 +2301,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Causal Discovery](#content)
 
-1. **CUTS: Neural Causal Discovery from Irregular Time-Series Data** ICLR, 2023. [paper](https://openreview.net/forum?id=UG8bQcD3Emv), [code](https://github.com/jarrycyx/unn) ⭐ 165 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-26
+1. **CUTS: Neural Causal Discovery from Irregular Time-Series Data** ICLR, 2023. [paper](https://openreview.net/forum?id=UG8bQcD3Emv), [code](https://github.com/jarrycyx/unn) ⭐ 166 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-26
 
    *Yuxiao Cheng, Runzhao Yang, Tingxiong Xiao, Zongren Li, Jinli Suo, Kunlun He, Qionghai Dai*
 
@@ -2471,7 +2471,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,141 | 🐛 32 | 🌐 Python | 📅 2026-09-24
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,142 | 🐛 32 | 🌐 Python | 📅 2026-09-24
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2655,4 +2655,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
