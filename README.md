@@ -185,7 +185,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 [![Uniform TSP-1000 benchmark chart](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -289,7 +289,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Minsu Kim, Junyoung Park, Jinkyoo Park*
 
-27. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+27. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
@@ -395,7 +395,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
-54. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-11-20
+54. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-20
 
     *Yu Wang, Yang Li, Junchi Yan, Yi Chang*
 
@@ -987,7 +987,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Vehicle Routing Problem](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1071,7 +1071,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Minsu Kim, Junyoung Park, Jinkyoo Park*
 
-22. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+22. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
@@ -1397,7 +1397,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Zhongyuan Zhao, Ananthram Swami, Santiago Segarra*
 
-24. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-11-20
+24. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-20
 
     *Yu Wang, Yang Li, Junchi Yan, Yi Chang*
 
@@ -1459,7 +1459,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Generalization](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1737,11 +1737,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Bin Packing Problem](#content)
 
-1. **Online 3D Bin Packing with Constrained Deep Reinforcement Learning.** AAAI, 2021. [paper](https://arxiv.org/abs/2006.14978), [code](https://github.com/alexfrom0815/Online-3D-BPP-DRL) ⭐ 662 | 🐛 2 | 🌐 Python | 📅 2023-11-17
+1. **Online 3D Bin Packing with Constrained Deep Reinforcement Learning.** AAAI, 2021. [paper](https://arxiv.org/abs/2006.14978), [code](https://github.com/alexfrom0815/Online-3D-BPP-DRL) ⭐ 664 | 🐛 2 | 🌐 Python | 📅 2023-11-17
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, Kai Xu*
 
-2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 369 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 371 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1757,7 +1757,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Ankit Goyal, Jia Deng*
 
-6. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+6. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 
    *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
@@ -2385,7 +2385,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Ruoyu Cheng, Xianglong Lyu, Yang Li, Junjie Ye, Jianye Hao, Junchi Yan*
 
-3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 97 | 🐛 3 | 🌐 Python | 📅 2026-04-25
+3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 97 | 🐛 4 | 🌐 Python | 📅 2026-04-25
 
    *Hongzheng Chen, Yingheng Wang, Yaohui Cai, Hins Hu, Jiajie Li, Shirley Huang, Chenhui Deng, Rongjian Liang, Shufeng Kong, Haoxing Ren, Samitha Samaranayake, Carla P. Gomes, Zhiru Zhang*
 
@@ -2471,7 +2471,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,142 | 🐛 32 | 🌐 Python | 📅 2026-09-24
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,143 | 🐛 32 | 🌐 Python | 📅 2026-09-24
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2655,4 +2655,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
