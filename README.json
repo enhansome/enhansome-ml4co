@@ -132,7 +132,7 @@
                         "open_issues": 2,
                         "owner": "Edward-Sun",
                         "repo": "DIFUSCO",
-                        "stars": 266,
+                        "stars": 265,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -698,7 +698,7 @@
                         "open_issues": 2,
                         "owner": "xyfffff",
                         "repo": "rethink_mcts_for_tsp",
-                        "stars": 42,
+                        "stars": 43,
                         "topics": [
                           "heatmap",
                           "large-scale",
@@ -1350,7 +1350,7 @@
                         "id": 1236571181,
                         "language": "Python",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-07-31T13:38:57Z",
+                        "last_commit": "2026-10-15T11:20:43Z",
                         "open_issues": 0,
                         "owner": "terranovafr",
                         "repo": "LaGCO-RL",
@@ -1586,7 +1586,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2703,7 +2703,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-31T13:38:57Z",
+                "last_commit": "2026-10-15T11:20:43Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -3523,7 +3523,7 @@
                 "open_issues": 0,
                 "owner": "ZHANG-NI",
                 "repo": "AFL",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3961,7 +3961,7 @@
                 "open_issues": 2,
                 "owner": "Edward-Sun",
                 "repo": "DIFUSCO",
-                "stars": 266,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4728,7 +4728,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-31T13:38:57Z",
+                "last_commit": "2026-10-15T11:20:43Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5333,7 +5333,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-31T13:38:57Z",
+                "last_commit": "2026-10-15T11:20:43Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5370,7 +5370,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 664,
+                "stars": 673,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5455,7 +5455,7 @@
                 "open_issues": 0,
                 "owner": "Juzhan",
                 "repo": "TAP-Net",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6145,7 +6145,7 @@
                 "open_issues": 11,
                 "owner": "ds4dm",
                 "repo": "learn2branch",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "neurips-2019"
                 ]
@@ -6168,7 +6168,7 @@
                 "open_issues": 3,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6836,7 +6836,7 @@
                 "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
-                "stars": 326,
+                "stars": 327,
                 "topics": [
                   "ai4eda",
                   "deep-learning",
@@ -6865,7 +6865,7 @@
                 "open_issues": 16,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
-                "stars": 326,
+                "stars": 327,
                 "topics": [
                   "ai4eda",
                   "deep-learning",
@@ -6995,7 +6995,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T18:28:21Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2143,
@@ -7109,7 +7109,7 @@
                 "open_issues": 0,
                 "owner": "Elizabethxyhu",
                 "repo": "NeurIPS_Two_Stage_Predict-Optimize",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7598,7 +7598,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-31T13:38:57Z",
+                "last_commit": "2026-10-15T11:20:43Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:02:29.241Z",
+    "last_updated": "2026-10-15T14:54:35.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
