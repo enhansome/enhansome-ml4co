@@ -25,7 +25,7 @@
                         "open_issues": 5,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 371,
+                        "stars": 372,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -726,7 +726,7 @@
                         "open_issues": 2,
                         "owner": "alstn12088",
                         "repo": "Sym-NCO",
-                        "stars": 34,
+                        "stars": 35,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -913,6 +913,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+                        "homepage": null,
+                        "id": 900678592,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-07-02T11:40:45Z",
+                        "open_issues": 0,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "Fast-T2T",
+                        "stars": 26,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Neural Multi-Objective Combinatorial Optimization with Diversity Enhancement NeurIPS, 2023. paper",
                       "description": ", code",
                       "children": [],
@@ -934,27 +955,6 @@
                           "neural-combinatorial-optimization",
                           "neural-multi-objective-combinatorial-optimization"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "⭐Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization NeurIPS, 2024. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS2024] Fast T2T: Optimization Consistency Speeds Up Diffusion-Based Training-to-Testing Solving for Combinatorial Optimization; [NeurIPS2023] T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
-                        "homepage": null,
-                        "id": 900678592,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-07-02T11:40:45Z",
-                        "open_issues": 0,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "Fast-T2T",
-                        "stars": 25,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1228,7 +1228,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "GenSCO",
-                        "stars": 13,
+                        "stars": 14,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1628,7 +1628,7 @@
                 "open_issues": 0,
                 "owner": "LTluttmann",
                 "repo": "macsim",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 0,
                 "owner": "LTluttmann",
                 "repo": "macsim",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3220,7 +3220,7 @@
                 "open_issues": 1,
                 "owner": "google-research",
                 "repo": "tf-opt",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3309,7 +3309,7 @@
                 "open_issues": 2,
                 "owner": "alstn12088",
                 "repo": "Sym-NCO",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3482,6 +3482,27 @@
             },
             {
               "node_type": "item",
+              "title": "An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1150302820,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-03T11:19:42Z",
+                "open_issues": 0,
+                "owner": "ZHANG-NI",
+                "repo": "AFL",
+                "stars": 23,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Collaboration! Towards Robust Neural Methods for Routing Problems NeurIPS, 2024. paper",
               "description": ", code",
               "children": [],
@@ -3504,27 +3525,6 @@
                   "generalization",
                   "vehicle-routing-problem"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1150302820,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-03T11:19:42Z",
-                "open_issues": 0,
-                "owner": "ZHANG-NI",
-                "repo": "AFL",
-                "stars": 22,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -3660,7 +3660,28 @@
                 "open_issues": 0,
                 "owner": "LTluttmann",
                 "repo": "macsim",
-                "stars": 12,
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1170442564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-19T07:36:44Z",
+                "open_issues": 0,
+                "owner": "yihang0410",
+                "repo": "RADAR",
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3681,27 +3702,6 @@
                 "open_issues": 1,
                 "owner": "CIAM-Group",
                 "repo": "CaDA",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RADAR: Learning to Route with Asymmetry-aware Distance Representations ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1170442564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-18T13:48:43Z",
-                "open_issues": 0,
-                "owner": "yihang0410",
-                "repo": "RADAR",
                 "stars": 10,
                 "topics": []
               },
@@ -4170,7 +4170,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "Fast-T2T",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4327,7 +4327,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "GenSCO",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4595,7 +4595,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5370,7 +5370,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 687,
+                "stars": 691,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5397,7 +5397,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6145,7 +6145,7 @@
                 "open_issues": 11,
                 "owner": "ds4dm",
                 "repo": "learn2branch",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "neurips-2019"
                 ]
@@ -6317,7 +6317,7 @@
                 "open_issues": 1,
                 "owner": "liujl11git",
                 "repo": "GNN-MILP",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:57:04.852Z",
+    "last_updated": "2026-10-19T16:56:44.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
