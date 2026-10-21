@@ -399,6 +399,35 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2025] PARCO: Parallel AutoRegressive Combinatorial Optimization",
+                        "homepage": "https://arxiv.org/abs/2409.03811",
+                        "id": 854380318,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-12-03T18:48:16Z",
+                        "open_issues": 2,
+                        "owner": "ai4co",
+                        "repo": "parco",
+                        "stars": 60,
+                        "topics": [
+                          "ai4co",
+                          "combinatorial-optimization",
+                          "neural-combinatorial-optimization",
+                          "rl4co",
+                          "scheduling",
+                          "transformers",
+                          "vehicle-routing"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
                       "description": ", code",
                       "children": [],
@@ -498,35 +527,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS 2025] PARCO: Parallel AutoRegressive Combinatorial Optimization",
-                        "homepage": "https://arxiv.org/abs/2409.03811",
-                        "id": 854380318,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2025-12-03T18:48:16Z",
-                        "open_issues": 2,
-                        "owner": "ai4co",
-                        "repo": "parco",
-                        "stars": 58,
-                        "topics": [
-                          "ai4co",
-                          "combinatorial-optimization",
-                          "neural-combinatorial-optimization",
-                          "rl4co",
-                          "scheduling",
-                          "transformers",
-                          "vehicle-routing"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt NeurIPS, 2023. paper",
                       "description": ", code",
                       "children": [],
@@ -573,7 +573,7 @@
                         "open_issues": 3,
                         "owner": "Thinklab-SJTU",
                         "repo": "ML4CO-Bench-101",
-                        "stars": 53,
+                        "stars": 54,
                         "topics": [
                           "adaptive-expansion",
                           "atsp",
@@ -629,7 +629,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "ML4TSPBench",
-                        "stars": 46,
+                        "stars": 47,
                         "topics": [
                           "combinatorial-optimization",
                           "diffusion-models",
@@ -1677,7 +1677,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "parco",
-                "stars": 58,
+                "stars": 60,
                 "topics": [
                   "ai4co",
                   "combinatorial-optimization",
@@ -2454,7 +2454,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -3038,6 +3038,35 @@
             },
             {
               "node_type": "item",
+              "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] PARCO: Parallel AutoRegressive Combinatorial Optimization",
+                "homepage": "https://arxiv.org/abs/2409.03811",
+                "id": 854380318,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-12-03T18:48:16Z",
+                "open_issues": 2,
+                "owner": "ai4co",
+                "repo": "parco",
+                "stars": 60,
+                "topics": [
+                  "ai4co",
+                  "combinatorial-optimization",
+                  "neural-combinatorial-optimization",
+                  "rl4co",
+                  "scheduling",
+                  "transformers",
+                  "vehicle-routing"
+                ]
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning Generalizable Models for Vehicle Routing Problems via Knowledge Distillation NeurIPS, 2022. paper",
               "description": ", code",
               "children": [],
@@ -3062,35 +3091,6 @@
                   "neural-combinatorial-optimization",
                   "tsp",
                   "vehicle-routing-problem"
-                ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PARCO: Parallel AutoRegressive Models for Multi-Agent Combinatorial Optimization NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] PARCO: Parallel AutoRegressive Combinatorial Optimization",
-                "homepage": "https://arxiv.org/abs/2409.03811",
-                "id": 854380318,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-12-03T18:48:16Z",
-                "open_issues": 2,
-                "owner": "ai4co",
-                "repo": "parco",
-                "stars": 58,
-                "topics": [
-                  "ai4co",
-                  "combinatorial-optimization",
-                  "neural-combinatorial-optimization",
-                  "rl4co",
-                  "scheduling",
-                  "transformers",
-                  "vehicle-routing"
                 ]
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3164,7 +3164,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -3677,7 +3677,7 @@
                 "id": 1170442564,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-19T07:36:44Z",
+                "last_commit": "2026-10-21T08:00:21Z",
                 "open_issues": 0,
                 "owner": "yihang0410",
                 "repo": "RADAR",
@@ -4114,7 +4114,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -5370,7 +5370,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 697,
+                "stars": 703,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -5989,7 +5989,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -7541,7 +7541,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:58:57.738Z",
+    "last_updated": "2026-10-21T15:08:08.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
