@@ -6891,7 +6891,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-25T20:15:22Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "cornell-zhang",
                 "repo": "heurigym",
                 "stars": 97,
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:09:17.607Z",
+    "last_updated": "2026-10-23T14:58:14.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
