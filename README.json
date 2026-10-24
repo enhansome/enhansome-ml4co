@@ -25,7 +25,7 @@
                         "open_issues": 5,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 373,
+                        "stars": 374,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -747,7 +747,7 @@
                         "open_issues": 0,
                         "owner": "FeiLiu36",
                         "repo": "EoH-S",
-                        "stars": 32,
+                        "stars": 33,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1586,7 +1586,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2761,7 +2761,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3330,7 +3330,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4595,7 +4595,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5397,7 +5397,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5503,7 +5503,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6994,11 +6994,11 @@
                 "id": 217926330,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T18:28:21Z",
+                "last_commit": "2026-10-24T07:20:05Z",
                 "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2144,
+                "stars": 2145,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7643,7 +7643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:58:14.722Z",
+    "last_updated": "2026-10-24T13:58:27.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
