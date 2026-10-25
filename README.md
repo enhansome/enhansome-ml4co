@@ -193,7 +193,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Chaitanya K. Joshi, Thomas Laurent, Xavier Bresson*
 
-3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 305 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -991,7 +991,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 305 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -1463,7 +1463,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 305 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -1745,7 +1745,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 305 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -2417,7 +2417,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Virtual Network Embedding](#content)
 
-1. **Deep Reinforcement Based Optimization of Function Splitting in Virtualized Radio Access Networks** ICC, 2021. [paper](https://ieeexplore.ieee.org/document/9473703), [code](https://github.com/rubensolozabal/vnf_placement_optimization_rl) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2023-03-25
+1. **Deep Reinforcement Based Optimization of Function Splitting in Virtualized Radio Access Networks** ICC, 2021. [paper](https://ieeexplore.ieee.org/document/9473703), [code](https://github.com/rubensolozabal/vnf_placement_optimization_rl) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2023-03-25
 
    *Fahri Wisnu Murti, Samad Ali, Matti Latva-aho*
 
@@ -2655,4 +2655,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
