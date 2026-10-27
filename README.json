@@ -1678,7 +1678,7 @@
                 "open_issues": 0,
                 "owner": "XiangjieXiao",
                 "repo": "ReSched",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7459,7 +7459,7 @@
                 "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2146,
+                "stars": 2147,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7480,7 +7480,7 @@
                 "open_issues": 3,
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 594,
+                "stars": 595,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -8133,7 +8133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:45:09.939Z",
+    "last_updated": "2026-10-27T15:50:43.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",

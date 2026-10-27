@@ -619,7 +619,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Xia Jiang, Yaoxin Wu, Minshuo Li, Zhiguang Cao, Yingqian Zhang*
 
-4. **ReSched: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States** ICLR, 2026. [paper](https://iclr.cc/virtual/2026/poster/10007089), [code](https://github.com/XiangjieXiao/ReSched) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-09-12
+4. **ReSched: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States** ICLR, 2026. [paper](https://iclr.cc/virtual/2026/poster/10007089), [code](https://github.com/XiangjieXiao/ReSched) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2026-09-12
 
    *Xiangjie Xiao, Zhiguang Cao, Cong Zhang, Wen Song*
 
@@ -2525,11 +2525,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,146 | 🐛 33 | 🌐 Python | 📅 2026-10-24
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,147 | 🐛 33 | 🌐 Python | 📅 2026-10-24
 
    *Akshay Agrawal, Stephen Boyd*
 
-2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 594 | 🐛 3 | 🌐 Python | 📅 2020-03-26
+2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 595 | 🐛 3 | 🌐 Python | 📅 2020-03-26
 
    *Brandon Amos, J. Zico Kolter*
 
@@ -2713,4 +2713,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
