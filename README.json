@@ -25,7 +25,7 @@
                         "open_issues": 5,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 375,
+                        "stars": 376,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -747,7 +747,7 @@
                         "open_issues": 0,
                         "owner": "FeiLiu36",
                         "repo": "EoH-S",
-                        "stars": 33,
+                        "stars": 34,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1161,6 +1161,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[ICLR 2026] Generalizable Heuristic Generation Through LLMs with Meta-Optimization",
+                        "homepage": null,
+                        "id": 1155304601,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-08-23T13:38:47Z",
+                        "open_issues": 1,
+                        "owner": "yiding-s",
+                        "repo": "MoH",
+                        "stars": 16,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1188,27 +1209,6 @@
                           "tsptw",
                           "vehicle-routing-problem"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[ICLR 2026] Generalizable Heuristic Generation Through LLMs with Meta-Optimization",
-                        "homepage": null,
-                        "id": 1155304601,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-08-23T13:38:47Z",
-                        "open_issues": 1,
-                        "owner": "yiding-s",
-                        "repo": "MoH",
-                        "stars": 15,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1486,7 +1486,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "CORectifier",
-                        "stars": 3,
+                        "stars": 4,
                         "topics": [
                           "atsp",
                           "capacitated-vehicle-routing-problem",
@@ -1727,6 +1727,38 @@
             },
             {
               "node_type": "item",
+              "title": "⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers NeurIPS, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers",
+                "homepage": null,
+                "id": 1386824391,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-19T07:56:49Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "CORectifier",
+                "stars": 4,
+                "topics": [
+                  "atsp",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "imitation-learning",
+                  "job-shop-scheduling-problem",
+                  "knapsack-problem",
+                  "learning-on-graphs",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "Applicability of Neural Combinatorial Optimization: A Critical View TELO, 2024. journal",
               "description": ", code",
               "children": [],
@@ -1745,38 +1777,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers NeurIPS, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2026] Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers",
-                "homepage": null,
-                "id": 1386824391,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-19T07:56:49Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "CORectifier",
-                "stars": 3,
-                "topics": [
-                  "atsp",
-                  "capacitated-vehicle-routing-problem",
-                  "combinatorial-optimization",
-                  "imitation-learning",
-                  "job-shop-scheduling-problem",
-                  "knapsack-problem",
-                  "learning-on-graphs",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
             }
           ],
           "description": null,
@@ -1914,7 +1914,7 @@
                 "open_issues": 16,
                 "owner": "google-research",
                 "repo": "fast-soft-sort",
-                "stars": 622,
+                "stars": 621,
                 "topics": [
                   "differentiable",
                   "jax",
@@ -2976,7 +2976,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3545,7 +3545,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3787,6 +3787,27 @@
             },
             {
               "node_type": "item",
+              "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] Generalizable Heuristic Generation Through LLMs with Meta-Optimization",
+                "homepage": null,
+                "id": 1155304601,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-23T13:38:47Z",
+                "open_issues": 1,
+                "owner": "yiding-s",
+                "repo": "MoH",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Towards Efficient Constraint Handling in Neural Solvers for Routing Problems ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3814,27 +3835,6 @@
                   "tsptw",
                   "vehicle-routing-problem"
                 ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Generalizable Heuristic Generation Through LLMs with Meta-Optimization ICLR, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] Generalizable Heuristic Generation Through LLMs with Meta-Optimization",
-                "homepage": null,
-                "id": 1155304601,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-23T13:38:47Z",
-                "open_issues": 1,
-                "owner": "yiding-s",
-                "repo": "MoH",
-                "stars": 15,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -4081,6 +4081,38 @@
             },
             {
               "node_type": "item",
+              "title": "⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers NeurIPS, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers",
+                "homepage": null,
+                "id": 1386824391,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-19T07:56:49Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "CORectifier",
+                "stars": 4,
+                "topics": [
+                  "atsp",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "imitation-learning",
+                  "job-shop-scheduling-problem",
+                  "knapsack-problem",
+                  "learning-on-graphs",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees NeurIPS, 2025. paper",
               "description": ", code",
               "children": [],
@@ -4099,38 +4131,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers NeurIPS, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2026] Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers",
-                "homepage": null,
-                "id": 1386824391,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-19T07:56:49Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "CORectifier",
-                "stars": 3,
-                "topics": [
-                  "atsp",
-                  "capacitated-vehicle-routing-problem",
-                  "combinatorial-optimization",
-                  "imitation-learning",
-                  "job-shop-scheduling-problem",
-                  "knapsack-problem",
-                  "learning-on-graphs",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
             },
             {
               "node_type": "item",
@@ -4933,7 +4933,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5341,7 +5341,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "CORectifier",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "atsp",
                   "capacitated-vehicle-routing-problem",
@@ -5798,7 +5798,7 @@
                 "open_issues": 5,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5904,7 +5904,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5925,7 +5925,7 @@
                 "open_issues": 1,
                 "owner": "yiding-s",
                 "repo": "MoH",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7047,7 +7047,7 @@
                 "open_issues": 1,
                 "owner": "jarrycyx",
                 "repo": "UNN",
-                "stars": 166,
+                "stars": 167,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7355,7 +7355,7 @@
                 "open_issues": 6,
                 "owner": "cornell-zhang",
                 "repo": "heurigym",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -8133,7 +8133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:50:43.957Z",
+    "last_updated": "2026-10-28T16:34:35.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8145,7 +8145,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2177,
+      "stars": 2175,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",

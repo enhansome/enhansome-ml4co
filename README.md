@@ -185,7 +185,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 [![Uniform TSP-1000 benchmark chart](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)](assets/benchmarks/travelling-salesman-problem_uniform-tsp-1000_all-baselines.svg)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 375 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 376 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -289,7 +289,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Minsu Kim, Junyoung Park, Jinkyoo Park*
 
-27. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+27. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-10-15
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
@@ -361,13 +361,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Shengyu Feng, Weiwei Sun, Shanda Li, Ameet Talwalkar, Yiming Yang*
 
-45. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-13
-
-    *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
-
-46. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+45. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-23
 
     *Yiding Shi, Jianan Zhou, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang*
+
+46. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-13
+
+    *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
 
 47. **⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9JM03CQwzC), [code](https://github.com/Thinklab-SJTU/GenSCO) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 
@@ -413,7 +413,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yu Wang, Yang Li, Junchi Yan, Yi Chang*
 
-58. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+58. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
     *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -631,13 +631,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Laurin Luttmann, Lin Xie*
 
-7. **Applicability of Neural Combinatorial Optimization: A Critical View** TELO, 2024. [journal](https://dl.acm.org/doi/pdf/10.1145/3647644), [code](https://github.com/TheLeprechaun25/Applicability-NCO) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-02-08
-
-   *Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu*
-
-8. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+7. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
    *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
+
+8. **Applicability of Neural Combinatorial Optimization: A Critical View** TELO, 2024. [journal](https://dl.acm.org/doi/pdf/10.1145/3647644), [code](https://github.com/TheLeprechaun25/Applicability-NCO) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-02-08
+
+   *Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu*
 
 9. **Smart Manufacturing Scheduling With Edge Computing Using Multiclass Deep Q Network** Transactions on Industrial Informatics, 2019. [journal](https://ieeexplore.ieee.org/document/8676376)
 
@@ -1009,7 +1009,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Vehicle Routing Problem](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 375 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 376 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1093,7 +1093,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Minsu Kim, Junyoung Park, Jinkyoo Park*
 
-22. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+22. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-10-15
 
     *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
@@ -1137,13 +1137,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Ziwei Huang, Jianan Zhou, Zhiguang Cao, Yixin Xu*
 
-33. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-13
-
-    *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
-
-34. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+33. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-23
 
     *Yiding Shi, Jianan Zhou, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang*
+
+34. **Towards Efficient Constraint Handling in Neural Solvers for Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=raDFGuQxvD), [code](https://github.com/jieyibi/CaR-constraint) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-13
+
+    *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
 
 35. **A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0218.pdf), [code](https://github.com/xyfffff/NCG-for-2L-CVRP) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-08-10
 
@@ -1189,13 +1189,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Rongjie Zhu, Cong Zhang, Zhiguang Cao*
 
-46. **Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees** NeurIPS, 2025. [paper](https://openreview.net/forum?id=Lwn1rLB8t7), [code](https://github.com/CIAM-Group/Rethinking_Constraint_Tightness) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-25
-
-    *Fu Luo, Yaoxin Wu, Zhi Zheng, Zhenkun Wang*
-
-47. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+46. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
     *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
+
+47. **Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees** NeurIPS, 2025. [paper](https://openreview.net/forum?id=Lwn1rLB8t7), [code](https://github.com/CIAM-Group/Rethinking_Constraint_Tightness) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-25
+
+    *Fu Luo, Yaoxin Wu, Zhi Zheng, Zhenkun Wang*
 
 48. **Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation** AAAI, 2026. [paper](https://arxiv.org/abs/2511.10233), [code](https://github.com/HenryZhu1029/EvoReal) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-02-05
 
@@ -1497,7 +1497,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Generalization](#content)
 
-1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 375 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+1. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 376 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1581,7 +1581,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-6. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+6. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
    *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -1787,7 +1787,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Hang Zhao, Qijin She, Chenyang Zhu, Yin Yang, Kai Xu*
 
-2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 375 | 🐛 5 | 🌐 Python | 📅 2026-08-06
+2. **Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model** ICML, 2024. [paper](https://openreview.net/forum?id=BwAkaxqiLB), [code](https://github.com/FeiLiu36/EoH) ⭐ 376 | 🐛 5 | 🌐 Python | 📅 2026-08-06
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
@@ -1803,11 +1803,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Ankit Goyal, Jia Deng*
 
-6. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+6. **EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design** AAAI, 2026. [paper](https://arxiv.org/abs/2508.03082), [code](https://github.com/FeiLiu36/EoH-S) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-10-15
 
    *Fei Liu, Yilu Liu, Qingfu Zhang, Xialiang Tong, Mingxuan Yuan*
 
-7. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+7. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-08-23
 
    *Yiding Shi, Jianan Zhou, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang*
 
@@ -2355,7 +2355,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Causal Discovery](#content)
 
-1. **CUTS: Neural Causal Discovery from Irregular Time-Series Data** ICLR, 2023. [paper](https://openreview.net/forum?id=UG8bQcD3Emv), [code](https://github.com/jarrycyx/unn) ⭐ 166 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-26
+1. **CUTS: Neural Causal Discovery from Irregular Time-Series Data** ICLR, 2023. [paper](https://openreview.net/forum?id=UG8bQcD3Emv), [code](https://github.com/jarrycyx/unn) ⭐ 167 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-26
 
    *Yuxiao Cheng, Runzhao Yang, Tingxiong Xiao, Zongren Li, Jinli Suo, Kunlun He, Qionghai Dai*
 
@@ -2439,7 +2439,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Ruoyu Cheng, Xianglong Lyu, Yang Li, Junjie Ye, Jianye Hao, Junchi Yan*
 
-3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2026-04-25
+3. **HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2506.07972), [code](https://github.com/cornell-zhang/heurigym) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2026-04-25
 
    *Hongzheng Chen, Yingheng Wang, Yaohui Cai, Hins Hu, Jiajie Li, Shirley Huang, Chenhui Deng, Rongjian Liang, Shufeng Kong, Haoxing Ren, Samitha Samaranayake, Carla P. Gomes, Zhiru Zhang*
 
@@ -2713,4 +2713,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
