@@ -1615,7 +1615,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Boolean Satisfiability](#content)
 
-1. **Learning a SAT solver from single-bit supervision.** Arxiv, 2018. [paper](https://arxiv.org/pdf/1903.04671), [code](https://github.com/dselsam/neurosat) ⭐ 298 | 🐛 0 | 🌐 Python | 📅 2019-03-12
+1. **Learning a SAT solver from single-bit supervision.** Arxiv, 2018. [paper](https://arxiv.org/pdf/1903.04671), [code](https://github.com/dselsam/neurosat) ⭐ 299 | 🐛 0 | 🌐 Python | 📅 2019-03-12
 
    *Daniel Selsam, Benedikt Bünz Matthew Lamm, Leonardo de Moura Percy Liang, David L. Dill.*
 
@@ -2061,7 +2061,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Maxime Gasse, Didier Chetelat, Nicola Ferroni, Laurent Charlin, Andrea Lodi*
 
-2. **OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models** ICML, 2024. [paper](https://openreview.net/forum?id=YT1dtdLvSN), [code](https://github.com/teshnizi/OptiMUS) ⭐ 306 | 🐛 4 | 🌐 Python | 📅 2025-11-04
+2. **OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models** ICML, 2024. [paper](https://openreview.net/forum?id=YT1dtdLvSN), [code](https://github.com/teshnizi/OptiMUS) ⭐ 307 | 🐛 4 | 🌐 Python | 📅 2025-11-04
 
    *Ali AhmadiTeshnizi, Wenzhi Gao, Madeleine Udell*
 
@@ -2109,7 +2109,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Justin Dumouchelle, Esther Julien, Jannis Kurtz, Elias B. Khalil*
 
-14. **Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems** ICML, 2025. [paper](https://openreview.net/forum?id=teUg2pMrF0), [code](https://github.com/thuiar/LLM-LNS) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2025-07-12
+14. **Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems** ICML, 2025. [paper](https://openreview.net/forum?id=teUg2pMrF0), [code](https://github.com/thuiar/LLM-LNS) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2025-07-12
 
     *Huigen Ye, Hua Xu, An Yan, Yaoyang Cheng*
 
@@ -2713,4 +2713,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
