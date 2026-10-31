@@ -22,10 +22,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-08-06T16:59:14Z",
-                        "open_issues": 5,
+                        "open_issues": 6,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 376,
+                        "stars": 375,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1068,6 +1068,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "code for paper \"BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization\"",
+                        "homepage": null,
+                        "id": 986377774,
+                        "language": "Java",
+                        "license": "MIT",
+                        "last_commit": "2026-03-01T05:54:37Z",
+                        "open_issues": 0,
+                        "owner": "L-Z-7",
+                        "repo": "BOPO",
+                        "stars": 19,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Adversarial Generative Flow Network for Solving Vehicle Routing Problems ICLR, 2025. paper",
                       "description": ", code",
                       "children": [],
@@ -1114,27 +1135,6 @@
                           "satisfiability-problem",
                           "travelling-salesman-problem"
                         ]
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization ICML, 2025. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "code for paper \"BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization\"",
-                        "homepage": null,
-                        "id": 986377774,
-                        "language": "Java",
-                        "license": "MIT",
-                        "last_commit": "2026-03-01T05:54:37Z",
-                        "open_issues": 0,
-                        "owner": "L-Z-7",
-                        "repo": "BOPO",
-                        "stars": 18,
-                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
                     },
@@ -1598,7 +1598,7 @@
                 "open_issues": 6,
                 "owner": "zcaicaros",
                 "repo": "L2D",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1699,7 +1699,7 @@
                 "open_issues": 0,
                 "owner": "L-Z-7",
                 "repo": "BOPO",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2973,10 +2973,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4930,10 +4930,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5795,10 +5795,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 376,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6606,7 +6606,7 @@
                 "open_issues": 11,
                 "owner": "ds4dm",
                 "repo": "learn2branch",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "neurips-2019"
                 ]
@@ -7044,7 +7044,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2025-09-26T08:04:17Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jarrycyx",
                 "repo": "UNN",
                 "stars": 167,
@@ -7459,7 +7459,7 @@
                 "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2147,
+                "stars": 2148,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8133,7 +8133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:40:15.821Z",
+    "last_updated": "2026-10-31T15:41:59.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
