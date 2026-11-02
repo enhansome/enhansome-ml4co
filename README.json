@@ -726,7 +726,7 @@
                         "open_issues": 2,
                         "owner": "alstn12088",
                         "repo": "Sym-NCO",
-                        "stars": 35,
+                        "stars": 34,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1598,7 +1598,7 @@
                 "open_issues": 6,
                 "owner": "zcaicaros",
                 "repo": "L2D",
-                "stars": 393,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3524,7 +3524,7 @@
                 "open_issues": 2,
                 "owner": "alstn12088",
                 "repo": "Sym-NCO",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7459,7 +7459,7 @@
                 "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2148,
+                "stars": 2149,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8133,7 +8133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:46:11.399Z",
+    "last_updated": "2026-11-02T20:17:09.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
