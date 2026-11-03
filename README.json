@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 306,
+                        "stars": 307,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -1281,6 +1281,37 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                        "homepage": null,
+                        "id": 1386823831,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-10-26T06:23:22Z",
+                        "open_issues": 0,
+                        "owner": "Thinklab-SJTU",
+                        "repo": "UECO",
+                        "stars": 10,
+                        "topics": [
+                          "backbone-models",
+                          "capacitated-vehicle-routing-problem",
+                          "combinatorial-optimization",
+                          "diffusion-models",
+                          "generative-models",
+                          "max-independent-set",
+                          "neural-combinatorial-optimization",
+                          "reinforcement-learning",
+                          "travelling-salesman-problem"
+                        ]
+                      },
+                      "first_seen": "2026-10-26T16:45:09.939Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
                       "description": ", code",
                       "children": [],
@@ -1302,37 +1333,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
-                        "homepage": null,
-                        "id": 1386823831,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-10-26T06:23:22Z",
-                        "open_issues": 0,
-                        "owner": "Thinklab-SJTU",
-                        "repo": "UECO",
-                        "stars": 9,
-                        "topics": [
-                          "backbone-models",
-                          "capacitated-vehicle-routing-problem",
-                          "combinatorial-optimization",
-                          "diffusion-models",
-                          "generative-models",
-                          "max-independent-set",
-                          "neural-combinatorial-optimization",
-                          "reinforcement-learning",
-                          "travelling-salesman-problem"
-                        ]
-                      },
-                      "first_seen": "2026-10-26T16:45:09.939Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -1347,7 +1347,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "M2GenCO",
-                        "stars": 8,
+                        "stars": 9,
                         "topics": [
                           "benchmark",
                           "combinatorial-optimization",
@@ -1486,7 +1486,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "CORectifier",
-                        "stars": 4,
+                        "stars": 5,
                         "topics": [
                           "atsp",
                           "capacitated-vehicle-routing-problem",
@@ -1741,7 +1741,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "CORectifier",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "atsp",
                   "capacitated-vehicle-routing-problem",
@@ -1876,7 +1876,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "UECO",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "backbone-models",
                   "capacitated-vehicle-routing-problem",
@@ -2760,6 +2760,37 @@
             },
             {
               "node_type": "item",
+              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "homepage": null,
+                "id": 1386823831,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-26T06:23:22Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "UECO",
+                "stars": 10,
+                "topics": [
+                  "backbone-models",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "diffusion-models",
+                  "generative-models",
+                  "max-independent-set",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization IJCAI, 2024. paper",
               "description": ", code",
               "children": [],
@@ -2806,31 +2837,29 @@
             },
             {
               "node_type": "item",
-              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
               "description": ", code",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "description": "[ICML 2026] Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation",
                 "homepage": null,
-                "id": 1386823831,
+                "id": 1228792881,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-26T06:23:22Z",
+                "last_commit": "2026-07-02T07:15:46Z",
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
-                "repo": "UECO",
+                "repo": "M2GenCO",
                 "stars": 9,
                 "topics": [
-                  "backbone-models",
-                  "capacitated-vehicle-routing-problem",
+                  "benchmark",
                   "combinatorial-optimization",
+                  "consistency-models",
                   "diffusion-models",
-                  "generative-models",
-                  "max-independent-set",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
+                  "fast-adaptation",
+                  "meta-learning",
+                  "multi-task-learning"
                 ]
               },
               "first_seen": "2026-10-26T16:45:09.939Z"
@@ -2855,35 +2884,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2026] Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation",
-                "homepage": null,
-                "id": 1228792881,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-02T07:15:46Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "M2GenCO",
-                "stars": 8,
-                "topics": [
-                  "benchmark",
-                  "combinatorial-optimization",
-                  "consistency-models",
-                  "diffusion-models",
-                  "fast-adaptation",
-                  "meta-learning",
-                  "multi-task-learning"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
             },
             {
               "node_type": "item",
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3945,6 +3945,37 @@
             },
             {
               "node_type": "item",
+              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "homepage": null,
+                "id": 1386823831,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-26T06:23:22Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "UECO",
+                "stars": 10,
+                "topics": [
+                  "backbone-models",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "diffusion-models",
+                  "generative-models",
+                  "max-independent-set",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems ICLR, 2026. paper",
               "description": ", code",
               "children": [],
@@ -3963,37 +3994,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
-                "homepage": null,
-                "id": 1386823831,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-26T06:23:22Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "UECO",
-                "stars": 9,
-                "topics": [
-                  "backbone-models",
-                  "capacitated-vehicle-routing-problem",
-                  "combinatorial-optimization",
-                  "diffusion-models",
-                  "generative-models",
-                  "max-independent-set",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
             },
             {
               "node_type": "item",
@@ -4095,7 +4095,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "CORectifier",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "atsp",
                   "capacitated-vehicle-routing-problem",
@@ -4654,6 +4654,37 @@
             },
             {
               "node_type": "item",
+              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "homepage": null,
+                "id": 1386823831,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-26T06:23:22Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "UECO",
+                "stars": 10,
+                "topics": [
+                  "backbone-models",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "diffusion-models",
+                  "generative-models",
+                  "max-independent-set",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "Unsupervised Learning for Combinatorial Optimization Needs Meta Learning ICLR, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4721,31 +4752,29 @@
             },
             {
               "node_type": "item",
-              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
               "description": ", code",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "description": "[ICML 2026] Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation",
                 "homepage": null,
-                "id": 1386823831,
+                "id": 1228792881,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-26T06:23:22Z",
+                "last_commit": "2026-07-02T07:15:46Z",
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
-                "repo": "UECO",
+                "repo": "M2GenCO",
                 "stars": 9,
                 "topics": [
-                  "backbone-models",
-                  "capacitated-vehicle-routing-problem",
+                  "benchmark",
                   "combinatorial-optimization",
+                  "consistency-models",
                   "diffusion-models",
-                  "generative-models",
-                  "max-independent-set",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
+                  "fast-adaptation",
+                  "meta-learning",
+                  "multi-task-learning"
                 ]
               },
               "first_seen": "2026-10-26T16:45:09.939Z"
@@ -4775,35 +4804,6 @@
                 ]
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2026] Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation",
-                "homepage": null,
-                "id": 1228792881,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-02T07:15:46Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "M2GenCO",
-                "stars": 8,
-                "topics": [
-                  "benchmark",
-                  "combinatorial-optimization",
-                  "consistency-models",
-                  "diffusion-models",
-                  "fast-adaptation",
-                  "meta-learning",
-                  "multi-task-learning"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
             },
             {
               "node_type": "item",
@@ -4954,7 +4954,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5310,7 +5310,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "UECO",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "backbone-models",
                   "capacitated-vehicle-routing-problem",
@@ -5341,7 +5341,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "CORectifier",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "atsp",
                   "capacitated-vehicle-routing-problem",
@@ -5819,7 +5819,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -6458,6 +6458,37 @@
             },
             {
               "node_type": "item",
+              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
+                "homepage": null,
+                "id": 1386823831,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-26T06:23:22Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "UECO",
+                "stars": 10,
+                "topics": [
+                  "backbone-models",
+                  "capacitated-vehicle-routing-problem",
+                  "combinatorial-optimization",
+                  "diffusion-models",
+                  "generative-models",
+                  "max-independent-set",
+                  "neural-combinatorial-optimization",
+                  "reinforcement-learning",
+                  "travelling-salesman-problem"
+                ]
+              },
+              "first_seen": "2026-10-26T16:45:09.939Z"
+            },
+            {
+              "node_type": "item",
               "title": "Regularized Langevin Dynamics for Combinatorial Optimization ICML, 2025. paper",
               "description": ", code",
               "children": [],
@@ -6483,37 +6514,6 @@
             },
             {
               "node_type": "item",
-              "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2026 Oral] UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning",
-                "homepage": null,
-                "id": 1386823831,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-26T06:23:22Z",
-                "open_issues": 0,
-                "owner": "Thinklab-SJTU",
-                "repo": "UECO",
-                "stars": 9,
-                "topics": [
-                  "backbone-models",
-                  "capacitated-vehicle-routing-problem",
-                  "combinatorial-optimization",
-                  "diffusion-models",
-                  "generative-models",
-                  "max-independent-set",
-                  "neural-combinatorial-optimization",
-                  "reinforcement-learning",
-                  "travelling-salesman-problem"
-                ]
-              },
-              "first_seen": "2026-10-26T16:45:09.939Z"
-            },
-            {
-              "node_type": "item",
               "title": "⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation ICML, 2026. paper",
               "description": ", code",
               "children": [],
@@ -6528,7 +6528,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "M2GenCO",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "benchmark",
                   "combinatorial-optimization",
@@ -8063,7 +8063,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "M2GenCO",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "benchmark",
                   "combinatorial-optimization",
@@ -8133,7 +8133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:17:09.206Z",
+    "last_updated": "2026-11-03T17:45:16.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8145,7 +8145,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2175,
+      "stars": 2176,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",

@@ -193,7 +193,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Chaitanya K. Joshi, Thomas Laurent, Xavier Bresson*
 
-3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -381,15 +381,15 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Lvda Chen, Yang Li, Junchi Yan*
 
-50. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
-
-    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
-
-51. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+50. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-52. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+51. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+
+    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
+
+52. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
     *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
@@ -413,7 +413,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yu Wang, Yang Li, Junchi Yan, Yi Chang*
 
-58. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+58. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
     *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -631,7 +631,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Laurin Luttmann, Lin Xie*
 
-7. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+7. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
    *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -701,7 +701,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Laurin Luttmann, Lin Xie*
 
-4. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+4. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
    *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
@@ -943,25 +943,25 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Sepp Hochreiter, Sebastian Lehner*
 
-11. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
-
-    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
-
-12. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
-
-    *Shengyu Feng, Yiming Yang*
-
-13. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+11. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-14. **Efficient Combinatorial Optimization via Heat Diffusion** NeurIPS, 2024. [paper](https://openreview.net/forum?id=psDrko9v1D), [code](https://github.com/AwakerMhy/HeO) ⭐ 8 | 🐛 1 | 🌐 Roff | 📅 2025-03-20
+12. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
 
-    *Hengyuan Ma, Wenlian Lu, Jianfeng Feng*
+    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
 
-15. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+13. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+
+    *Shengyu Feng, Yiming Yang*
+
+14. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
     *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
+
+15. **Efficient Combinatorial Optimization via Heat Diffusion** NeurIPS, 2024. [paper](https://openreview.net/forum?id=psDrko9v1D), [code](https://github.com/AwakerMhy/HeO) ⭐ 8 | 🐛 1 | 🌐 Roff | 📅 2025-03-20
+
+    *Hengyuan Ma, Wenlian Lu, Jianfeng Feng*
 
 16. **Neural Improvement Heuristics for Graph Combinatorial Optimization Problems** TNNLS, 2023. [journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271315\&casa_token=Hqn_wH2HAjEAAAAA:rTd6KVaoKVjrFWASa-Ma0vC6CBvsmMUHnoWik2DyD56NbnfNOqBG5qZTBLR5hqf9vpCotivB_BU\&tag=1), [code](https://github.com/TheLeprechaun25/neural-improvement-heuristics) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-10
 
@@ -1013,7 +1013,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -1165,13 +1165,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Han Li, Fei Liu, Zhi Zheng, Yu Zhang, Zhenkun Wang*
 
-40. **Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=lHBs9mbgwp), [code](https://github.com/yuzikang0/CoEKS) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-04-08
-
-    *Zikang Yu, Jinbiao Chen, Jiahai Wang*
-
-41. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+40. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
+
+41. **Combination-of-Experts with Knowledge Sharing for Cross-Task Vehicle Routing Problems** ICLR, 2026. [paper](https://openreview.net/forum?id=lHBs9mbgwp), [code](https://github.com/yuzikang0/CoEKS) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-04-08
+
+    *Zikang Yu, Jinbiao Chen, Jiahai Wang*
 
 42. **Learning to Insert for Constructive Neural Vehicle Routing Solver** NeurIPS, 2025. [paper](https://openreview.net/forum?id=SXr3Dynctm), [code](https://github.com/CIAM-Group/L2C_Insert) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-24
 
@@ -1189,7 +1189,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Rongjie Zhu, Cong Zhang, Zhiguang Cao*
 
-46. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+46. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
     *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -1407,29 +1407,29 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Lvda Chen, Yang Li, Junchi Yan*
 
-19. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
-
-    *Haoyu Wang, Pan Li*
-
-20. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
-
-    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
-
-21. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
-
-    *Shengyu Feng, Yiming Yang*
-
-22. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+19. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-23. **Maximum Independent Set: Self-Training through Dynamic Programming** NeurlPS, 2023. [paper](https://openreview.net/forum?id=igE3Zbxvws), [code](https://github.com/LIONS-EPFL/dynamic-MIS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-28
+20. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
 
-    *Lorenzo Brusca, Lars CPM Quaedvlieg, Stratis Skoulakis, Grigorios G Chrysos, Volkan Cevher*
+    *Haoyu Wang, Pan Li*
 
-24. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+21. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+
+    *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
+
+22. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+
+    *Shengyu Feng, Yiming Yang*
+
+23. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
     *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
+
+24. **Maximum Independent Set: Self-Training through Dynamic Programming** NeurlPS, 2023. [paper](https://openreview.net/forum?id=igE3Zbxvws), [code](https://github.com/LIONS-EPFL/dynamic-MIS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-28
+
+    *Lorenzo Brusca, Lars CPM Quaedvlieg, Stratis Skoulakis, Grigorios G Chrysos, Volkan Cevher*
 
 25. **Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems** ICLR, 2023. [paper](https://openreview.net/forum?id=yHIIM9BgOo), [code](https://github.com/XzrTGMu/twin-nphard) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-08
 
@@ -1501,7 +1501,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+2. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -1577,11 +1577,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jinbiao Chen, Zizhen Zhang, Zhiguang Cao, Yaoxin Wu, Yining Ma, Te Ye, Jiahai Wang*
 
-5. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+5. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
    *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-6. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-19
+6. **⭐CORectifier: Hierarchically Rectifying Policy Rollouts for Reinforcement Learning in Combinatorial Solvers** NeurIPS, 2026. [paper](https://openreview.net/forum?id=bpt10w03zk), [code](https://github.com/Thinklab-SJTU/CORectifier) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-19
 
    *Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, Jiale Ma, Junchi Yan*
 
@@ -1791,7 +1791,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Fei Liu, Xialiang Tong, Mingxuan Yuan, Xi Lin, Fu Luo, Zhenkun Wang, Zhichao Lu, Qingfu Zhang*
 
-3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 306 | 🐛 0 | 🌐 Python | 📅 2026-01-24
+3. **ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution** NeurIPS, 2024. [paper](https://openreview.net/forum?id=483IPG0HWL), [code](https://github.com/ai4co/reevo) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2026-01-24
 
    *Haoran Ye, Jiarui Wang, Zhiguang Cao, Federico Berto, Chuanbo Hua, Haeyeon Kim, Jinkyoo Park, Guojie Song*
 
@@ -2023,15 +2023,15 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Sebastian Sanokowski, Wilhelm Franz Berghammer, Sepp Hochreiter, Sebastian Lehner*
 
-6. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
-
-   *Shengyu Feng, Yiming Yang*
-
-7. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+6. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
    *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-8. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+7. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+
+   *Shengyu Feng, Yiming Yang*
+
+8. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
    *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
@@ -2691,7 +2691,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Jiale Ma, Wenzheng Pan, Yang Li, Junchi Yan*
 
-4. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+4. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
    *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
@@ -2713,4 +2713,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
