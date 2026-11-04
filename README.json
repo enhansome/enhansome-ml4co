@@ -712,27 +712,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
-                      "description": ", code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 549436271,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-02-20T08:26:41Z",
-                        "open_issues": 2,
-                        "owner": "alstn12088",
-                        "repo": "Sym-NCO",
-                        "stars": 34,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T21:10:02.809Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design AAAI, 2026. paper",
                       "description": ", code",
                       "children": [],
@@ -747,6 +726,27 @@
                         "open_issues": 0,
                         "owner": "FeiLiu36",
                         "repo": "EoH-S",
+                        "stars": 35,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T21:10:02.809Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+                      "description": ", code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 549436271,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-02-20T08:26:41Z",
+                        "open_issues": 2,
+                        "owner": "alstn12088",
+                        "repo": "Sym-NCO",
                         "stars": 34,
                         "topics": []
                       },
@@ -1154,7 +1154,7 @@
                         "open_issues": 3,
                         "owner": "sunnweiwei",
                         "repo": "FrontierCO",
-                        "stars": 17,
+                        "stars": 18,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3079,6 +3079,34 @@
             },
             {
               "node_type": "item",
+              "title": "RouteFinder: Towards Foundation Models for Vehicle Routing Problems TMLR, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[TMLR 2025 → ICML 2026] RouteFinder: Towards Foundation Models for Vehicle Routing Problems",
+                "homepage": "https://arxiv.org/abs/2406.15007",
+                "id": 818346721,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-12-03T17:25:52Z",
+                "open_issues": 4,
+                "owner": "ai4co",
+                "repo": "routefinder",
+                "stars": 127,
+                "topics": [
+                  "ai4co",
+                  "foundation-models",
+                  "neural-combinatorial-optimization",
+                  "rl4co",
+                  "transformers",
+                  "vehicle-routing-problem"
+                ]
+              },
+              "first_seen": "2026-11-04T17:57:00.867Z"
+            },
+            {
+              "node_type": "item",
               "title": "GLOP: Learning Global Partition and Local Construction for Solving Large-Scale Routing Problems in Real-Time AAAI, 2024. paper",
               "description": ", code",
               "children": [],
@@ -3499,32 +3527,11 @@
                 "id": 892656976,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T17:46:45Z",
+                "last_commit": "2026-11-03T23:35:11Z",
                 "open_issues": 1,
                 "owner": "MAL4VRP",
                 "repo": "maenvs4vrp",
                 "stars": 37,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 549436271,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-02-20T08:26:41Z",
-                "open_issues": 2,
-                "owner": "alstn12088",
-                "repo": "Sym-NCO",
-                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3545,6 +3552,27 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sym-NCO: Leveraging Symmetricity for Neural Combinatorial Optimization NeurIPS, 2022. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 549436271,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-02-20T08:26:41Z",
+                "open_issues": 2,
+                "owner": "alstn12088",
+                "repo": "Sym-NCO",
                 "stars": 34,
                 "topics": []
               },
@@ -3997,6 +4025,27 @@
             },
             {
               "node_type": "item",
+              "title": "Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official PyTorch implementation for the MoSES algorithm used to solve multi-task VRP.",
+                "homepage": null,
+                "id": 1082076591,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-01-15T07:46:35Z",
+                "open_issues": 0,
+                "owner": "panyxy",
+                "repo": "moses_vrp",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T17:57:00.867Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver NeurIPS, 2025. paper",
               "description": ", code",
               "children": [],
@@ -4215,6 +4264,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PoMtVRS: Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating ICML, 2026. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Preference-Optimized Multi-Task Vehicle Routing Solver with Preference Gating.",
+                "homepage": null,
+                "id": 1242084854,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-16T08:52:02Z",
+                "open_issues": 0,
+                "owner": "Regina921",
+                "repo": "PoMtVRS",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-04T17:57:00.867Z"
             }
           ],
           "description": null,
@@ -4584,7 +4654,7 @@
                 "open_issues": 3,
                 "owner": "sunnweiwei",
                 "repo": "FrontierCO",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4781,32 +4851,6 @@
             },
             {
               "node_type": "item",
-              "title": "Maximum Independent Set: Self-Training through Dynamic Programming NeurlPS, 2023. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of the NeurIPS'23 paper 'Maximum Independent Set: Self-Training through Dynamic Programming'. ",
-                "homepage": null,
-                "id": 710137679,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:55:21Z",
-                "open_issues": 0,
-                "owner": "LIONS-EPFL",
-                "repo": "dynamic-MIS",
-                "stars": 8,
-                "topics": [
-                  "deep-learning",
-                  "graph-neural-network",
-                  "maximum-independent-set",
-                  "np-hard"
-                ]
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
               "title": "Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems ICLR, 2023. paper",
               "description": ", code",
               "children": [],
@@ -4821,7 +4865,7 @@
                 "open_issues": 0,
                 "owner": "XzrTGMu",
                 "repo": "twin-nphard",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "approximation-algorithms",
                   "combinatorial-optimization",
@@ -4843,6 +4887,32 @@
                   "steiner-tree-problem",
                   "twin-based-critic",
                   "twin-networks"
+                ]
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Maximum Independent Set: Self-Training through Dynamic Programming NeurlPS, 2023. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of the NeurIPS'23 paper 'Maximum Independent Set: Self-Training through Dynamic Programming'. ",
+                "homepage": null,
+                "id": 710137679,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T13:55:21Z",
+                "open_issues": 0,
+                "owner": "LIONS-EPFL",
+                "repo": "dynamic-MIS",
+                "stars": 8,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-network",
+                  "maximum-independent-set",
+                  "np-hard"
                 ]
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5904,7 +5974,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6650,7 +6720,7 @@
                 "open_issues": 2,
                 "owner": "thuiar",
                 "repo": "GNN-GBDT-Guided-Fast-Optimizing-Framework",
-                "stars": 278,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8133,7 +8203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:45:16.430Z",
+    "last_updated": "2026-11-04T17:57:00.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8141,7 +8211,7 @@
       "id": 349947919,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-26T09:38:07Z",
+      "last_commit": "2026-11-03T23:25:08Z",
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
@@ -8153,7 +8223,7 @@
         "paper-list"
       ]
     },
-    "original_repository_sha": "ff789aa0f58bac0620928817235acd97746b58ff",
+    "original_repository_sha": "21887c0e797875aace561c1bdaa140ebebe7aded",
     "enhanced_repository": "enhansome/enhansome-ml4co",
     "enhanced_repository_description": null,
     "title": "Awesome Machine Learning for Combinatorial Optimization Resources with stars"
