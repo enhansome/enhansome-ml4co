@@ -5841,7 +5841,7 @@
                 "open_issues": 2,
                 "owner": "alexfrom0815",
                 "repo": "Online-3D-BPP-DRL",
-                "stars": 708,
+                "stars": 707,
                 "topics": [
                   "3d-packing",
                   "bin-packing",
@@ -8203,7 +8203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:57:00.867Z",
+    "last_updated": "2026-11-05T17:57:54.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8212,7 +8212,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-11-03T23:25:08Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
       "stars": 2176,
