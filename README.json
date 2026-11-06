@@ -74,7 +74,7 @@
                         "open_issues": 0,
                         "owner": "ai4co",
                         "repo": "reevo",
-                        "stars": 307,
+                        "stars": 309,
                         "topics": [
                           "ant-colony-optimization",
                           "automatic-algorithm-generation",
@@ -385,7 +385,7 @@
                         "open_issues": 2,
                         "owner": "ai4co",
                         "repo": "parco",
-                        "stars": 61,
+                        "stars": 62,
                         "topics": [
                           "ai4co",
                           "combinatorial-optimization",
@@ -573,7 +573,7 @@
                         "open_issues": 3,
                         "owner": "Thinklab-SJTU",
                         "repo": "ML4CO-Bench-101",
-                        "stars": 54,
+                        "stars": 55,
                         "topics": [
                           "adaptive-expansion",
                           "atsp",
@@ -1598,7 +1598,7 @@
                 "open_issues": 6,
                 "owner": "zcaicaros",
                 "repo": "L2D",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1801,7 +1801,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "parco",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "ai4co",
                   "combinatorial-optimization",
@@ -2609,7 +2609,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -2997,7 +2997,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 307,
+                "stars": 309,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -3267,7 +3267,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "parco",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "ai4co",
                   "combinatorial-optimization",
@@ -3372,6 +3372,41 @@
             },
             {
               "node_type": "item",
+              "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs.",
+                "homepage": null,
+                "id": 976799107,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-05T02:16:09Z",
+                "open_issues": 3,
+                "owner": "Thinklab-SJTU",
+                "repo": "ML4CO-Bench-101",
+                "stars": 55,
+                "topics": [
+                  "adaptive-expansion",
+                  "atsp",
+                  "benchmark",
+                  "combinatorial-optimization",
+                  "consistency-models",
+                  "cvrp",
+                  "dataset",
+                  "diffusion-models",
+                  "generative-model",
+                  "maximum-clique",
+                  "maximum-cut",
+                  "maximum-independent-set",
+                  "tsp-problem"
+                ]
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multi-Decoder Attention Model with Embedding Glimpse for Solving Vehicle Routing Problems. AAAI, 2021. paper",
               "description": ", code",
               "children": [],
@@ -3388,41 +3423,6 @@
                 "repo": "MDAM",
                 "stars": 54,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
-            },
-            {
-              "node_type": "item",
-              "title": "⭐ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs.",
-                "homepage": null,
-                "id": 976799107,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-05T02:16:09Z",
-                "open_issues": 3,
-                "owner": "Thinklab-SJTU",
-                "repo": "ML4CO-Bench-101",
-                "stars": 54,
-                "topics": [
-                  "adaptive-expansion",
-                  "atsp",
-                  "benchmark",
-                  "combinatorial-optimization",
-                  "consistency-models",
-                  "cvrp",
-                  "dataset",
-                  "diffusion-models",
-                  "generative-model",
-                  "maximum-clique",
-                  "maximum-cut",
-                  "maximum-independent-set",
-                  "tsp-problem"
-                ]
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
             },
@@ -4462,7 +4462,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -5024,7 +5024,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 307,
+                "stars": 309,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -5889,7 +5889,7 @@
                 "open_issues": 0,
                 "owner": "ai4co",
                 "repo": "reevo",
-                "stars": 307,
+                "stars": 309,
                 "topics": [
                   "ant-colony-optimization",
                   "automatic-algorithm-generation",
@@ -6460,7 +6460,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -6720,7 +6720,7 @@
                 "open_issues": 2,
                 "owner": "thuiar",
                 "repo": "GNN-GBDT-Guided-Fast-Optimizing-Framework",
-                "stars": 277,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6958,7 +6958,7 @@
                 "open_issues": 2,
                 "owner": "thuiar",
                 "repo": "LLM-LNS",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8072,7 +8072,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "ML4CO-Bench-101",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "adaptive-expansion",
                   "atsp",
@@ -8203,7 +8203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:57:54.223Z",
+    "last_updated": "2026-11-06T17:25:38.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
