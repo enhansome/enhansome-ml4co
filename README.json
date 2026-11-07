@@ -2760,6 +2760,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape",
+                "homepage": null,
+                "id": 1066894158,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-09-30T05:40:54Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "FLD4CO",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T16:21:04.264Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
               "description": ", code",
               "children": [],
@@ -4724,6 +4745,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape",
+                "homepage": null,
+                "id": 1066894158,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-09-30T05:40:54Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "FLD4CO",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T16:21:04.264Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
               "description": ", code",
               "children": [],
@@ -6528,6 +6570,27 @@
             },
             {
               "node_type": "item",
+              "title": "⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape",
+                "homepage": null,
+                "id": 1066894158,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-09-30T05:40:54Z",
+                "open_issues": 0,
+                "owner": "Thinklab-SJTU",
+                "repo": "FLD4CO",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T16:21:04.264Z"
+            },
+            {
+              "node_type": "item",
               "title": "⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning NeurIPS (Oral), 2026. paper",
               "description": ", code",
               "children": [],
@@ -7526,7 +7589,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T22:06:44Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2149,
@@ -7898,7 +7961,7 @@
                 "open_issues": 3,
                 "owner": "ycq091044",
                 "repo": "SafeDrug",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "drug-molecules",
                   "drug-recommendation",
@@ -8203,7 +8266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:25:38.502Z",
+    "last_updated": "2026-11-07T16:21:04.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8211,11 +8274,11 @@
       "id": 349947919,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-03T23:25:08Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-07T12:06:32Z",
+      "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2176,
+      "stars": 2177,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
@@ -8223,7 +8286,7 @@
         "paper-list"
       ]
     },
-    "original_repository_sha": "21887c0e797875aace561c1bdaa140ebebe7aded",
+    "original_repository_sha": "1285552a16eb0ef80332d8d4848c93cf590a72d0",
     "enhanced_repository": "enhansome/enhansome-ml4co",
     "enhanced_repository_description": null,
     "title": "Awesome Machine Learning for Combinatorial Optimization Resources with stars"

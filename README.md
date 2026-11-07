@@ -607,9 +607,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 106. **⭐NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization** NeurIPS (Spotlight), 2026. [paper](https://openreview.net/forum?id=mshiN8rReo), [code](https://github.com/Thinklab-SJTU/NLD4CO)
 
-```
-*Jiale Ma, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan*
-```
+     *Jiale Ma, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan*
 
 ### [Job Shop Scheduling Problem](#content)
 
@@ -949,67 +947,71 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Sepp Hochreiter, Sebastian Lehner*
 
-11. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+11. **⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape** NeurIPS, 2025. [paper](https://openreview.net/forum?id=BZ0igCEeoU), [code](https://github.com/Thinklab-SJTU/FLD4CO) ⭐ 10 | 🐛 0 | 📅 2025-09-30
+
+    *Shiyue Wang, Ziao Guo, Changhong Lu, Junchi Yan*
+
+12. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-12. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+13. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
 
     *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
 
-13. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+14. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
 
     *Shengyu Feng, Yiming Yang*
 
-14. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+15. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
     *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
-15. **Efficient Combinatorial Optimization via Heat Diffusion** NeurIPS, 2024. [paper](https://openreview.net/forum?id=psDrko9v1D), [code](https://github.com/AwakerMhy/HeO) ⭐ 8 | 🐛 1 | 🌐 Roff | 📅 2025-03-20
+16. **Efficient Combinatorial Optimization via Heat Diffusion** NeurIPS, 2024. [paper](https://openreview.net/forum?id=psDrko9v1D), [code](https://github.com/AwakerMhy/HeO) ⭐ 8 | 🐛 1 | 🌐 Roff | 📅 2025-03-20
 
     *Hengyuan Ma, Wenlian Lu, Jianfeng Feng*
 
-16. **Neural Improvement Heuristics for Graph Combinatorial Optimization Problems** TNNLS, 2023. [journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271315\&casa_token=Hqn_wH2HAjEAAAAA:rTd6KVaoKVjrFWASa-Ma0vC6CBvsmMUHnoWik2DyD56NbnfNOqBG5qZTBLR5hqf9vpCotivB_BU\&tag=1), [code](https://github.com/TheLeprechaun25/neural-improvement-heuristics) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-10
+17. **Neural Improvement Heuristics for Graph Combinatorial Optimization Problems** TNNLS, 2023. [journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271315\&casa_token=Hqn_wH2HAjEAAAAA:rTd6KVaoKVjrFWASa-Ma0vC6CBvsmMUHnoWik2DyD56NbnfNOqBG5qZTBLR5hqf9vpCotivB_BU\&tag=1), [code](https://github.com/TheLeprechaun25/neural-improvement-heuristics) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-10
 
     *Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu*
 
-17. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+18. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
-18. **Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization** ICLR, 2025. [paper](https://openreview.net/forum?id=vaJ4FObpXN), [code](https://github.com/utkuumur/X2GNN) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-28
+19. **Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization** ICLR, 2025. [paper](https://openreview.net/forum?id=vaJ4FObpXN), [code](https://github.com/utkuumur/X2GNN) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-28
 
     *Utku Umur Acikalin, Aaron M. Ferber, Carla P. Gomes*
 
-19. **Learning Combinatorial Optimization Algorithms over Graphs.** NeurIPS, 2017. [paper](https://arxiv.org/abs/1704.01665)
+20. **Learning Combinatorial Optimization Algorithms over Graphs.** NeurIPS, 2017. [paper](https://arxiv.org/abs/1704.01665)
 
     *Hanjun Dai, Elias B Khalil, Yuyu Zhang, Bistra Dilkina, Le Song*
 
-20. **Exploratory Combinatorial Optimization with Reinforcement Learning.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5723)
+21. **Exploratory Combinatorial Optimization with Reinforcement Learning.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5723)
 
     *Thomas LBarrett, William Clements, Jakob Foerster, Alex Lvovsky*
 
-21. **Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs.** NeurIPS, 2020. [paper](https://static.aminer.cn/upload/pdf/575/1127/1864/5eede0b791e0116a23aafe7b_1.pdf)
+22. **Erdos Goes Neural: an Unsupervised Learning Framework for Combinatorial Optimization on Graphs.** NeurIPS, 2020. [paper](https://static.aminer.cn/upload/pdf/575/1127/1864/5eede0b791e0116a23aafe7b_1.pdf)
 
     *Nikolaos Karalias, Andreas Loukas*
 
-22. **Reversible Action Design for Combinatorial Optimization with Reinforcement Learning** Arxiv, 2021. [paper](https://arxiv.org/abs/2102.07210)
+23. **Reversible Action Design for Combinatorial Optimization with Reinforcement Learning** Arxiv, 2021. [paper](https://arxiv.org/abs/2102.07210)
 
     *Fan Yao, Renqin Cai, Hongning Wang*
 
-23. **Revisiting Sampling for Combinatorial Optimization** ICML, 2023. [paper](https://icml.cc/virtual/2023/poster/23661)
+24. **Revisiting Sampling for Combinatorial Optimization** ICML, 2023. [paper](https://icml.cc/virtual/2023/poster/23661)
 
     *Haoran, Goshvadi Katayoon, Nova Azade, Schuurmans Dale Sun, Dai Hanjun.*
 
-24. **Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Methods** NeurIPS, 2023. [paper](https://openreview.net/forum?id=mmTy1iyU5G), [code](https://openreview.net/attachment?id=mmTy1iyU5G\&name=supplementary_material)
+25. **Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Methods** NeurIPS, 2023. [paper](https://openreview.net/forum?id=mmTy1iyU5G), [code](https://openreview.net/attachment?id=mmTy1iyU5G\&name=supplementary_material)
 
     *Constantine Caramanis, Dimitris Fotakis, Alkis Kalavasis, Vasilis Kontonis, Christos Tzamos*
 
-25. **Controlling Continuous Relaxation for Combinatorial Optimization** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=ykACV1IhjD)
+26. **Controlling Continuous Relaxation for Combinatorial Optimization** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=ykACV1IhjD)
 
     *Yuma Ichikawa*
 
-26. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
+27. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Haoyu Peter Wang, Martin Ennemoser, Sepp Hochreiter, Sebastian Lehner*
 
@@ -1429,95 +1431,99 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Lvda Chen, Yang Li, Junchi Yan*
 
-19. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+19. **⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape** NeurIPS, 2025. [paper](https://openreview.net/forum?id=BZ0igCEeoU), [code](https://github.com/Thinklab-SJTU/FLD4CO) ⭐ 10 | 🐛 0 | 📅 2025-09-30
+
+    *Shiyue Wang, Ziao Guo, Changhong Lu, Junchi Yan*
+
+20. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
     *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-20. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
+21. **Unsupervised Learning for Combinatorial Optimization Needs Meta Learning** ICLR, 2023. [paper](https://openreview.net/forum?id=-ENYHCE8zBp), [code](https://github.com/Graph-COM/Meta_CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-02-23
 
     *Haoyu Wang, Pan Li*
 
-21. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
+22. **MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization** IJCAI, 2024. [paper](https://www.ijcai.org/proceedings/2024/0766.pdf), [code](https://github.com/TheLeprechaun25/MARCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-10-08
 
     *Andoni I. Garmendia, Quentin Cappart, Josu Ceberio, Alexander Mendiburu*
 
-22. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+23. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
 
     *Shengyu Feng, Yiming Yang*
 
-23. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+24. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
     *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
-24. **Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems** ICLR, 2023. [paper](https://openreview.net/forum?id=yHIIM9BgOo), [code](https://github.com/XzrTGMu/twin-nphard) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-08
+25. **Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems** ICLR, 2023. [paper](https://openreview.net/forum?id=yHIIM9BgOo), [code](https://github.com/XzrTGMu/twin-nphard) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-08
 
     *Zhongyuan Zhao, Ananthram Swami, Santiago Segarra*
 
-25. **Maximum Independent Set: Self-Training through Dynamic Programming** NeurlPS, 2023. [paper](https://openreview.net/forum?id=igE3Zbxvws), [code](https://github.com/LIONS-EPFL/dynamic-MIS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-28
+26. **Maximum Independent Set: Self-Training through Dynamic Programming** NeurlPS, 2023. [paper](https://openreview.net/forum?id=igE3Zbxvws), [code](https://github.com/LIONS-EPFL/dynamic-MIS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-28
 
     *Lorenzo Brusca, Lars CPM Quaedvlieg, Stratis Skoulakis, Grigorios G Chrysos, Volkan Cevher*
 
-26. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-20
+27. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-20
 
     *Yu Wang, Yang Li, Junchi Yan, Yi Chang*
 
-27. **Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization** ICLR, 2025. [paper](https://openreview.net/forum?id=vaJ4FObpXN), [code](https://github.com/utkuumur/X2GNN) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-28
+28. **Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization** ICLR, 2025. [paper](https://openreview.net/forum?id=vaJ4FObpXN), [code](https://github.com/utkuumur/X2GNN) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-02-28
 
     *Utku Umur Acikalin, Aaron M. Ferber, Carla P. Gomes*
 
-28. **⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types** ICLR, 2026. [paper](https://openreview.net/forum?id=OXRnvOOiAf), [code](https://github.com/Thinklab-SJTU/ConRep4CO) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-09
+29. **⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types** ICLR, 2026. [paper](https://openreview.net/forum?id=OXRnvOOiAf), [code](https://github.com/Thinklab-SJTU/ConRep4CO) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-09
 
     *Ziao Guo, Yang Li, Shiyue Wang, Junchi Yan*
 
-29. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.** NeurIPS, 2018. [paper](https://arxiv.org/abs/1810.10659)
+30. **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search.** NeurIPS, 2018. [paper](https://arxiv.org/abs/1810.10659)
 
     *Zhuwen Li, Qifeng Chen, Vladlen Koltun*
 
-30. **Learning What to Defer for Maximum Independent Sets** ICML, 2020. [paper](http://proceedings.mlr.press/v119/ahn20a.html)
+31. **Learning What to Defer for Maximum Independent Sets** ICML, 2020. [paper](http://proceedings.mlr.press/v119/ahn20a.html)
 
     *Sungsoo Ahn, Younggyo Seo, Jinwoo Shin*
 
-31. **Distributed Scheduling Using Graph Neural Networks** ICASSP, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9414098?casa_token=Q4coRBbINPMAAAAA:0T8L49Kyn9p4CoM20-FqINKCyk_Sm3ye5TemPT8GlG3C3wXXLvn1RGKeHgriiyZIcg_GFB4z1A)
+32. **Distributed Scheduling Using Graph Neural Networks** ICASSP, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9414098?casa_token=Q4coRBbINPMAAAAA:0T8L49Kyn9p4CoM20-FqINKCyk_Sm3ye5TemPT8GlG3C3wXXLvn1RGKeHgriiyZIcg_GFB4z1A)
 
     *Zhongyuan Zhao, Gunjan Verma, Chirag Rao, Ananthram Swami, Santiago Segarra*
 
-32. **Solving Graph-based Public Good Games with Tree Search and Imitation Learning** NeurlPS, 2021. [paper](https://arxiv.org/abs/2106.06762)
+33. **Solving Graph-based Public Good Games with Tree Search and Imitation Learning** NeurlPS, 2021. [paper](https://arxiv.org/abs/2106.06762)
 
     *Victor-Alexandru Darvariu, Stephen Hailes, Mirco Musolesi*
 
-33. **NN-Baker: A Neural-network Infused Algorithmic Framework for Optimization Problems on Geometric Intersection Graphs** NeurlPS, 2021. [paper](https://papers.nips.cc/paper/2021/file/c236337b043acf93c7df397fdb9082b3-Paper.pdf)
+34. **NN-Baker: A Neural-network Infused Algorithmic Framework for Optimization Problems on Geometric Intersection Graphs** NeurlPS, 2021. [paper](https://papers.nips.cc/paper/2021/file/c236337b043acf93c7df397fdb9082b3-Paper.pdf)
 
     *Evan McCarty, Qi Zhao, Anastasios Sidiropoulos, Yusu Wang*
 
-34. **Optimistic tree search strategies for black-box combinatorial optimization** NeurlPS, 2022. [paper](https://openreview.net/forum?id=JGLW4DvX11F)
+35. **Optimistic tree search strategies for black-box combinatorial optimization** NeurlPS, 2022. [paper](https://openreview.net/forum?id=JGLW4DvX11F)
 
     *Cedric Malherbe, Antoine Grosnit, Rasul Tutunov, Haitham Bou Ammar, Jun Wang*
 
-35. **Revisiting Sampling for Combinatorial Optimization** ICML, 2023. [paper](https://icml.cc/virtual/2023/poster/23661)
+36. **Revisiting Sampling for Combinatorial Optimization** ICML, 2023. [paper](https://icml.cc/virtual/2023/poster/23661)
 
     *Haoran, Goshvadi Katayoon, Nova Azade, Schuurmans Dale Sun, Dai Hanjun.*
 
-36. **Controlling Continuous Relaxation for Combinatorial Optimization** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=ykACV1IhjD)
+37. **Controlling Continuous Relaxation for Combinatorial Optimization** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=ykACV1IhjD)
 
     *Yuma Ichikawa*
 
-37. **Efficient Combinatorial Optimization via Heat Diffusion** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=psDrko9v1D)
+38. **Efficient Combinatorial Optimization via Heat Diffusion** NeurlPS, 2024. [paper](https://openreview.net/pdf?id=psDrko9v1D)
 
     *Hengyuan Ma, Wenlian Lu, Jianfeng Feng*
 
-38. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
+39. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Haoyu Peter Wang, Martin Ennemoser, Sepp Hochreiter, Sebastian Lehner*
 
-39. **Geometric Algorithms for Neural Combinatorial Optimization with Constraints** NeurIPS, 2025. [paper](https://openreview.net/forum?id=EPDLFWyNnF)
+40. **Geometric Algorithms for Neural Combinatorial Optimization with Constraints** NeurIPS, 2025. [paper](https://openreview.net/forum?id=EPDLFWyNnF)
 
     *Nikolaos Karalias, Akbar Rafiey, Yifei Xu, Zhishang Luo, Behrooz Tahmasebi, Connie Jiang, Stefanie Jegelka*
 
-40. **⭐Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=084SvT55yk)
+41. **⭐Native Adaptive Solution Expansion for Diffusion-based Combinatorial Optimization** ICLR, 2026. [paper](https://openreview.net/forum?id=084SvT55yk)
 
     *Yu Wang, Yang Li, Jiale Ma, Junchi Yan, Yi Chang*
 
-41. **⭐NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization** NeurIPS (Spotlight), 2026. [paper](https://openreview.net/forum?id=mshiN8rReo), [code](https://github.com/Thinklab-SJTU/NLD4CO)
+42. **⭐NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization** NeurIPS (Spotlight), 2026. [paper](https://openreview.net/forum?id=mshiN8rReo), [code](https://github.com/Thinklab-SJTU/NLD4CO)
 
     *Jiale Ma, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan*
 
@@ -2049,35 +2055,39 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Sebastian Sanokowski, Wilhelm Franz Berghammer, Sepp Hochreiter, Sebastian Lehner*
 
-6. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
+6. **⭐Fractional Langevin Dynamics for Combinatorial Optimization via Polynomial-Time Escape** NeurIPS, 2025. [paper](https://openreview.net/forum?id=BZ0igCEeoU), [code](https://github.com/Thinklab-SJTU/FLD4CO) ⭐ 10 | 🐛 0 | 📅 2025-09-30
+
+   *Shiyue Wang, Ziao Guo, Changhong Lu, Junchi Yan*
+
+7. **⭐UECO: A Unified Encoder for Neural Combinatorial Optimization with Iterative Edge-Node Reasoning** NeurIPS (Oral), 2026. [paper](https://openreview.net/forum?id=M2lqt23VO7), [code](https://github.com/Thinklab-SJTU/UECO) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-26
 
    *Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, Jiale Ma, Junchi Yan*
 
-7. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
+8. **Regularized Langevin Dynamics for Combinatorial Optimization** ICML, 2025. [paper](https://openreview.net/forum?id=bbJ0QCujU4), [code](https://github.com/Shengyu-Feng/RLD4CO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-06-15
 
    *Shengyu Feng, Yiming Yang*
 
-8. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
+9. **⭐Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation** ICML, 2026. [paper](https://openreview.net/forum?id=OfxgzjqzeA), [code](https://github.com/Thinklab-SJTU/M2GenCO) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 
    *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
-9. **Can Hybrid Geometric Scattering Networks Help Solve the Maximum Clique Problem** NeurIPS, 2022. [paper](https://openreview.net/forum?id=uxc8hDSs_xh), [code](https://github.com/yimengmin/geometricscatteringmaximalclique) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-08-23
+10. **Can Hybrid Geometric Scattering Networks Help Solve the Maximum Clique Problem** NeurIPS, 2022. [paper](https://openreview.net/forum?id=uxc8hDSs_xh), [code](https://github.com/yimengmin/geometricscatteringmaximalclique) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-08-23
 
-   *Yimeng Min, Frederik Wenkel, Michael Perlmutter, Guy Wolf*
+    *Yimeng Min, Frederik Wenkel, Michael Perlmutter, Guy Wolf*
 
-10. **⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types** ICLR, 2026. [paper](https://openreview.net/forum?id=OXRnvOOiAf), [code](https://github.com/Thinklab-SJTU/ConRep4CO) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-09
+11. **⭐ConRep4CO: Contrastive Representation Learning of Combinatorial Optimization Instances across Types** ICLR, 2026. [paper](https://openreview.net/forum?id=OXRnvOOiAf), [code](https://github.com/Thinklab-SJTU/ConRep4CO) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-03-09
 
     *Ziao Guo, Yang Li, Shiyue Wang, Junchi Yan*
 
-11. **Learning fine-grained search space pruning and heuristics for combinatorial optimization.** Journal of Heuristics, 2023. [journal](https://dx.doi.org/10.1007/s10732-023-09512-z)
+12. **Learning fine-grained search space pruning and heuristics for combinatorial optimization.** Journal of Heuristics, 2023. [journal](https://dx.doi.org/10.1007/s10732-023-09512-z)
 
     *Juho Lauri, Sourav Dutta, Marco Grassia, Deepak Ajwani*
 
-12. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
+13. **Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics** ICLR, 2025. [paper](https://openreview.net/pdf?id=peNgxpbdxB)
 
     *Sebastian Sanokowski, Wilhelm Franz Berghammer, Haoyu Peter Wang, Martin Ennemoser, Sepp Hochreiter, Sebastian Lehner*
 
-13. **Approximation algorithms for combinatorial optimization with predictions** ICLR, 2025. [paper](https://openreview.net/forum?id=AEFVa6VMu1)
+14. **Approximation algorithms for combinatorial optimization with predictions** ICLR, 2025. [paper](https://openreview.net/forum?id=AEFVa6VMu1)
 
     *Antonios Antoniadis, Marek Elias, Adam Polak, Moritz Venzin*
 
@@ -2551,7 +2561,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,149 | 🐛 33 | 🌐 Python | 📅 2026-10-24
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,149 | 🐛 34 | 🌐 Python | 📅 2026-10-24
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2653,7 +2663,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Junyuan Shang, Cao Xiao, Tengfei Ma, Hongyan Li, Jimeng Sun*
 
-2. **SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations** IJCAI, 2021. [paper](https://www.ijcai.org/proceedings/2021/0514.pdf), [code](https://github.com/ycq091044/SafeDrug) ⭐ 98 | 🐛 3 | 🌐 Python | 📅 2023-08-01
+2. **SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations** IJCAI, 2021. [paper](https://www.ijcai.org/proceedings/2021/0514.pdf), [code](https://github.com/ycq091044/SafeDrug) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2023-08-01
 
    *Chaoqi Yang, Cao Xiao, Fenglong Ma, Lucas Glass, Jimeng Sun*
 
@@ -2739,4 +2749,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
