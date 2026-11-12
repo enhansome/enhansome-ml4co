@@ -22,10 +22,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-08-06T16:59:14Z",
-                        "open_issues": 6,
+                        "open_issues": 7,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 377,
+                        "stars": 378,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -927,7 +927,7 @@
                         "open_issues": 0,
                         "owner": "Thinklab-SJTU",
                         "repo": "Fast-T2T",
-                        "stars": 26,
+                        "stars": 27,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -2994,10 +2994,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4539,7 +4539,7 @@
                 "open_issues": 0,
                 "owner": "Thinklab-SJTU",
                 "repo": "Fast-T2T",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5042,10 +5042,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5787,7 +5787,7 @@
                 "open_issues": 29,
                 "owner": "hongzimao",
                 "repo": "decima-sim",
-                "stars": 328,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5907,10 +5907,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-06T16:59:14Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6846,7 +6846,7 @@
                 "open_issues": 5,
                 "owner": "ds4dm",
                 "repo": "branch-search-trees",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "aaai2021"
                 ]
@@ -7038,7 +7038,7 @@
                 "id": 417979325,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T22:30:53Z",
+                "last_commit": "2026-11-12T04:05:25Z",
                 "open_issues": 1,
                 "owner": "pandat8",
                 "repo": "ML4LB",
@@ -7180,7 +7180,7 @@
                 "open_issues": 2,
                 "owner": "jarrycyx",
                 "repo": "UNN",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8266,7 +8266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:50:58.764Z",
+    "last_updated": "2026-11-12T18:11:31.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
