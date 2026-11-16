@@ -111,7 +111,7 @@
                         "open_issues": 1,
                         "owner": "yd-kwon",
                         "repo": "POMO",
-                        "stars": 269,
+                        "stars": 268,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1376,7 +1376,7 @@
                         "open_issues": 0,
                         "owner": "CIAM-Group",
                         "repo": "L2C_Insert",
-                        "stars": 7,
+                        "stars": 8,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1435,7 +1435,7 @@
                         "id": 1236571181,
                         "language": "Python",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-10-26T15:38:10Z",
+                        "last_commit": "2026-11-16T09:26:44Z",
                         "open_issues": 0,
                         "owner": "terranovafr",
                         "repo": "LaGCO-RL",
@@ -2939,7 +2939,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:38:10Z",
+                "last_commit": "2026-11-16T09:26:44Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -3760,7 +3760,7 @@
                 "open_issues": 0,
                 "owner": "ZHANG-NI",
                 "repo": "AFL",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -4046,6 +4046,27 @@
             },
             {
               "node_type": "item",
+              "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver NeurIPS, 2025. paper",
+              "description": ", code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1082285138,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-10-24T02:48:48Z",
+                "open_issues": 0,
+                "owner": "CIAM-Group",
+                "repo": "L2C_Insert",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:10:02.809Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multi-Task Vehicle Routing Solver via Mixture of Specialized Experts under State-Decomposable MDP NeurIPS, 2025. paper",
               "description": ", code",
               "children": [],
@@ -4064,27 +4085,6 @@
                 "topics": []
               },
               "first_seen": "2026-11-04T17:57:00.867Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver NeurIPS, 2025. paper",
-              "description": ", code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1082285138,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-10-24T02:48:48Z",
-                "open_issues": 0,
-                "owner": "CIAM-Group",
-                "repo": "L2C_Insert",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:10:02.809Z"
             },
             {
               "node_type": "item",
@@ -5178,7 +5178,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:38:10Z",
+                "last_commit": "2026-11-16T09:26:44Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5846,7 +5846,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:38:10Z",
+                "last_commit": "2026-11-16T09:26:44Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -7447,8 +7447,8 @@
                 "id": 420580428,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2025-11-23T14:40:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-16T15:48:27Z",
+                "open_issues": 17,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
                 "stars": 328,
@@ -7476,8 +7476,8 @@
                 "id": 420580428,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2025-11-23T14:40:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-16T15:48:27Z",
+                "open_issues": 17,
                 "owner": "Thinklab-SJTU",
                 "repo": "EDA-AI",
                 "stars": 328,
@@ -7609,8 +7609,8 @@
                 "id": 217926330,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T18:59:27Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-16T18:41:49Z",
+                "open_issues": 31,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2153,
@@ -8242,7 +8242,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:38:10Z",
+                "last_commit": "2026-11-16T09:26:44Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -8287,7 +8287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:59:54.353Z",
+    "last_updated": "2026-11-16T20:21:08.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
