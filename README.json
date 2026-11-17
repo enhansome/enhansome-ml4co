@@ -25,7 +25,7 @@
                         "open_issues": 7,
                         "owner": "FeiLiu36",
                         "repo": "EoH",
-                        "stars": 379,
+                        "stars": 381,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -46,7 +46,7 @@
                         "open_issues": 1,
                         "owner": "chaitjo",
                         "repo": "graph-convnet-tsp",
-                        "stars": 333,
+                        "stars": 334,
                         "topics": [
                           "combinatorial-optimization",
                           "deep-learning",
@@ -385,7 +385,7 @@
                         "open_issues": 2,
                         "owner": "ai4co",
                         "repo": "parco",
-                        "stars": 62,
+                        "stars": 63,
                         "topics": [
                           "ai4co",
                           "combinatorial-optimization",
@@ -726,7 +726,7 @@
                         "open_issues": 0,
                         "owner": "FeiLiu36",
                         "repo": "EoH-S",
-                        "stars": 35,
+                        "stars": 36,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:02.809Z"
@@ -1435,7 +1435,7 @@
                         "id": 1236571181,
                         "language": "Python",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-11-16T09:26:44Z",
+                        "last_commit": "2026-11-17T15:49:35Z",
                         "open_issues": 0,
                         "owner": "terranovafr",
                         "repo": "LaGCO-RL",
@@ -1801,7 +1801,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "parco",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "ai4co",
                   "combinatorial-optimization",
@@ -2939,7 +2939,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T09:26:44Z",
+                "last_commit": "2026-11-17T15:49:35Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -2997,7 +2997,7 @@
                 "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 379,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -3288,7 +3288,7 @@
                 "open_issues": 2,
                 "owner": "ai4co",
                 "repo": "parco",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "ai4co",
                   "combinatorial-optimization",
@@ -3573,7 +3573,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5045,7 +5045,7 @@
                 "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 379,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -5178,7 +5178,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T09:26:44Z",
+                "last_commit": "2026-11-17T15:49:35Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5846,7 +5846,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T09:26:44Z",
+                "last_commit": "2026-11-17T15:49:35Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5876,7 +5876,7 @@
                 "open_issues": 0,
                 "owner": "jzh001",
                 "repo": "GraphAllocBench",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-11-14T16:33:20.891Z"
@@ -5931,7 +5931,7 @@
                 "open_issues": 7,
                 "owner": "FeiLiu36",
                 "repo": "EoH",
-                "stars": 379,
+                "stars": 381,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6037,7 +6037,7 @@
                 "open_issues": 0,
                 "owner": "FeiLiu36",
                 "repo": "EoH-S",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -6867,7 +6867,7 @@
                 "open_issues": 5,
                 "owner": "ds4dm",
                 "repo": "branch-search-trees",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "aaai2021"
                 ]
@@ -8242,7 +8242,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T09:26:44Z",
+                "last_commit": "2026-11-17T15:49:35Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -8287,7 +8287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:21:08.379Z",
+    "last_updated": "2026-11-17T19:06:54.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8299,7 +8299,7 @@
       "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
-      "stars": 2177,
+      "stars": 2178,
       "topics": [
         "combinatorial-optimization",
         "machine-learning",
