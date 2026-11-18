@@ -405,7 +405,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yuanyao Chen, Rongsheng Chen, Fu Luo, Zhenkun Wang*
 
-56. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-17
+56. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
     *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
@@ -975,7 +975,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu*
 
-18. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-17
+18. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
     *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
@@ -1549,7 +1549,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Han Lu, Zenan Li, Runzhong Wang, Qibing Ren, Xijun Li, Mingxuan Yuan, Jia Zeng, Xiaokang Yang, Junchi Yan*
 
-6. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-17
+6. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
    *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
@@ -1797,7 +1797,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Runzhong Wang, Zhigang Hua, Gan Liu, Jiayi Zhang, Junchi Yan, Feng Qi, Shuang Yang, Jun Zhou, Xiaokang Yang*
 
-4. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-17
+4. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
    *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
@@ -2565,11 +2565,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,153 | 🐛 31 | 🌐 Python | 📅 2026-11-16
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,155 | 🐛 31 | 🌐 Python | 📅 2026-11-16
 
    *Akshay Agrawal, Stephen Boyd*
 
-2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 595 | 🐛 3 | 🌐 Python | 📅 2020-03-26
+2. **OptNet: differentiable optimization as a layer in neural networks** ICML, 2017. [paper](https://dl.acm.org/doi/abs/10.5555/3305381.3305396), [code](https://github.com/locuslab/optnet) ⭐ 596 | 🐛 3 | 🌐 Python | 📅 2020-03-26
 
    *Brandon Amos, J. Zico Kolter*
 
@@ -2735,7 +2735,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Wenzheng Pan, Jiale Ma, Nuoyan Chen, Yang Li, Junchi Yan*
 
-5. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-17
+5. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
    *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
@@ -2753,4 +2753,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._

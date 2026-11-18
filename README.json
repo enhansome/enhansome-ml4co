@@ -1435,7 +1435,7 @@
                         "id": 1236571181,
                         "language": "Python",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-11-17T15:49:35Z",
+                        "last_commit": "2026-11-18T13:03:04Z",
                         "open_issues": 0,
                         "owner": "terranovafr",
                         "repo": "LaGCO-RL",
@@ -2939,7 +2939,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T15:49:35Z",
+                "last_commit": "2026-11-18T13:03:04Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5178,7 +5178,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T15:49:35Z",
+                "last_commit": "2026-11-18T13:03:04Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -5846,7 +5846,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T15:49:35Z",
+                "last_commit": "2026-11-18T13:03:04Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -7613,7 +7613,7 @@
                 "open_issues": 31,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2153,
+                "stars": 2155,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7634,7 +7634,7 @@
                 "open_issues": 3,
                 "owner": "locuslab",
                 "repo": "optnet",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -8242,7 +8242,7 @@
                 "id": 1236571181,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T15:49:35Z",
+                "last_commit": "2026-11-18T13:03:04Z",
                 "open_issues": 0,
                 "owner": "terranovafr",
                 "repo": "LaGCO-RL",
@@ -8287,7 +8287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:06:54.926Z",
+    "last_updated": "2026-11-18T18:48:22.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
