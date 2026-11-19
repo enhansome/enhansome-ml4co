@@ -6783,7 +6783,7 @@
                 "open_issues": 4,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -7201,7 +7201,7 @@
                 "open_issues": 2,
                 "owner": "jarrycyx",
                 "repo": "UNN",
-                "stars": 169,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8287,7 +8287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:48:22.144Z",
+    "last_updated": "2026-11-19T18:57:31.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
