@@ -365,13 +365,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Jieyi Bi, Zhiguang Cao, Jianan Zhou, Wen Song, Yaoxin Wu, Jie Zhang, Yining Ma, Cathy Wu*
 
-46. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-08-23
-
-    *Yiding Shi, Jianan Zhou, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang*
-
-47. **⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9JM03CQwzC), [code](https://github.com/Thinklab-SJTU/GenSCO) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+46. **⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9JM03CQwzC), [code](https://github.com/Thinklab-SJTU/GenSCO) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 
     *Yang Li, Lvda Chen, Haonan Wang, Runzhong Wang, Junchi Yan*
+
+47. **Generalizable Heuristic Generation Through LLMs with Meta-Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2505.20881), [code](https://github.com/yiding-s/MoH) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+
+    *Yiding Shi, Jianan Zhou, Wen Song, Jieyi Bi, Yaoxin Wu, Zhiguang Cao, Jie Zhang*
 
 48. **Beyond the Heatmap: A Rigorous Evaluation of Component Impact in MCTS-Based TSP Solvers** ICLR, 2026. [paper](https://openreview.net/forum?id=H6PLJnnK6e), [code](https://github.com/LOGO-CUHKSZ/beyond-heatmap-mcts-tsp) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-03-01
 
@@ -715,7 +715,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Mathieu Blondel Olivier Teboul Quentin Berthet Josip Djolonga*
 
-2. **Optimizing Rank-Based Metrics With Blackbox Differentiation** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rolinek_Optimizing_Rank-Based_Metrics_With_Blackbox_Differentiation_CVPR_2020_paper.pdf), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2021-12-21
+2. **Optimizing Rank-Based Metrics With Blackbox Differentiation** CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rolinek_Optimizing_Rank-Based_Metrics_With_Blackbox_Differentiation_CVPR_2020_paper.pdf), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 358 | 🐛 3 | 🌐 Python | 📅 2021-12-21
 
    *Marin Vlastelica, Anselm Paulus, Vít Musil, Georg Martius, Michal Rolínek*
 
@@ -1419,7 +1419,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Shengyu Feng, Weiwei Sun, Shanda Li, Ameet Talwalkar, Yiming Yang*
 
-16. **⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9JM03CQwzC), [code](https://github.com/Thinklab-SJTU/GenSCO) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-11
+16. **⭐Generation as search operator for test-time scaling of diffusion-based combinatorial optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=9JM03CQwzC), [code](https://github.com/Thinklab-SJTU/GenSCO) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-07-11
 
     *Yang Li, Lvda Chen, Haonan Wang, Runzhong Wang, Junchi Yan*
 
@@ -2439,11 +2439,11 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Differentiable Optimization](#content)
 
-1. **Differentiation of Blackbox Combinatorial Solvers** ICLR, 2020. [paper](https://arxiv.org/pdf/1912.02175v2.pdf), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2021-12-21
+1. **Differentiation of Blackbox Combinatorial Solvers** ICLR, 2020. [paper](https://arxiv.org/pdf/1912.02175v2.pdf), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 358 | 🐛 3 | 🌐 Python | 📅 2021-12-21
 
    *Marin Vlastelica, Anselm Paulus, Vít Musil, Georg Martius, Michal Rolínek*
 
-2. **Differentiation of blackbox combinatorial solvers** ICLR, 2020. [paper](https://openreview.net/forum?id=BkevoJSYPB), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 357 | 🐛 3 | 🌐 Python | 📅 2021-12-21
+2. **Differentiation of blackbox combinatorial solvers** ICLR, 2020. [paper](https://openreview.net/forum?id=BkevoJSYPB), [code](https://github.com/martius-lab/blackbox-backprop) ⭐ 358 | 🐛 3 | 🌐 Python | 📅 2021-12-21
 
    *Marin Vlastelica Pogani, Anselm Paulus, Vit Musil, Georg Martius, Michal Rolinek*
 
@@ -2565,7 +2565,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,155 | 🐛 31 | 🌐 Python | 📅 2026-11-16
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,155 | 🐛 30 | 🌐 Python | 📅 2026-11-16
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2753,4 +2753,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
