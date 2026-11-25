@@ -6783,7 +6783,7 @@
                 "open_issues": 4,
                 "owner": "teshnizi",
                 "repo": "OptiMUS",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:02.809Z"
@@ -8287,7 +8287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:36:53.805Z",
+    "last_updated": "2026-11-25T19:52:52.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome machine learning for combinatorial optimization papers.",
@@ -8295,8 +8295,8 @@
       "id": 349947919,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-14T03:56:11Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-25T06:14:21Z",
+      "open_issues": 0,
       "owner": "Thinklab-SJTU",
       "repo": "awesome-ml4co",
       "stars": 2178,
@@ -8307,7 +8307,7 @@
         "paper-list"
       ]
     },
-    "original_repository_sha": "b6570f40398f37355b94932fe2f81efbeb4a0fe5",
+    "original_repository_sha": "8b7469341365929702a73d195192d0e3f58f1ff0",
     "enhanced_repository": "enhansome/enhansome-ml4co",
     "enhanced_repository_description": null,
     "title": "Awesome Machine Learning for Combinatorial Optimization Resources with stars"
