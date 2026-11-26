@@ -397,17 +397,17 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Fu Luo, Xi Lin, Mengyuan Zhong, Fei Liu, Zhenkun Wang, Jianyong Sun, Qingfu Zhang*
 
-54. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-11-18
+54. **Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning** NeurIPS, 2025. [paper](https://openreview.net/forum?id=QPJjiNCRq1), [code](https://github.com/CIAM-Group/TTPL) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-22
+
+    *Yuanyao Chen, Rongsheng Chen, Fu Luo, Zhenkun Wang*
+
+55. **Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization** Arxiv, 2026. [paper](https://arxiv.org/abs/2605.19721), [code](https://github.com/terranovafr/LaGCO-RL) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-11-18
 
     *Franco Terranova, Guillermo Bernardez, Albert Cabellos-Aparicio, Nina Miolane, Abdelkader Lahmadi*
 
-55. **Neural Improvement Heuristics for Graph Combinatorial Optimization Problems** TNNLS, 2023. [journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271315\&casa_token=Hqn_wH2HAjEAAAAA:rTd6KVaoKVjrFWASa-Ma0vC6CBvsmMUHnoWik2DyD56NbnfNOqBG5qZTBLR5hqf9vpCotivB_BU\&tag=1), [code](https://github.com/TheLeprechaun25/neural-improvement-heuristics) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-10
+56. **Neural Improvement Heuristics for Graph Combinatorial Optimization Problems** TNNLS, 2023. [journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271315\&casa_token=Hqn_wH2HAjEAAAAA:rTd6KVaoKVjrFWASa-Ma0vC6CBvsmMUHnoWik2DyD56NbnfNOqBG5qZTBLR5hqf9vpCotivB_BU\&tag=1), [code](https://github.com/TheLeprechaun25/neural-improvement-heuristics) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-10
 
     *Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu*
-
-56. **Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning** NeurIPS, 2025. [paper](https://openreview.net/forum?id=QPJjiNCRq1), [code](https://github.com/CIAM-Group/TTPL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-10-22
-
-    *Yuanyao Chen, Rongsheng Chen, Fu Luo, Zhenkun Wang*
 
 57. **⭐StruDiCO: Structured Denoising Diffusion with Gradient-free Inference-stage Boosting for Memory and Time Efficient Combinatorial Optimization** NeurIPS, 2025. [paper](https://openreview.net/forum?id=P69X3V4WwH), [code](https://github.com/yuuuuwang/StruDiCO) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-11-20
 
@@ -1033,7 +1033,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Xinyun Chen, Yuandong Tian*
 
-5. **RouteFinder: Towards Foundation Models for Vehicle Routing Problems** TMLR, 2025. [paper](https://openreview.net/forum?id=QzGLoaOPiY), [code](https://github.com/ai4co/routefinder) ⭐ 127 | 🐛 4 | 🌐 Python | 📅 2025-12-03
+5. **RouteFinder: Towards Foundation Models for Vehicle Routing Problems** TMLR, 2025. [paper](https://openreview.net/forum?id=QzGLoaOPiY), [code](https://github.com/ai4co/routefinder) ⭐ 128 | 🐛 4 | 🌐 Python | 📅 2025-12-03
 
    *Federico Berto, Chuanbo Hua, Nayeli Gast Zepeda, André Hottung, Niels Wouda, Leon Lan, Junyoung Park, Kevin Tierney, Jinkyoo Park*
 
@@ -1193,13 +1193,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
     *Yuxin Pan, Zhiguang Cao, Chengyang GU, Liu Liu, Peilin Zhao, Yize Chen, Fangzhen Lin*
 
-45. **Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs** ICLR, 2026. [paper](https://openreview.net/forum?id=AhE6aSlz5g), [code](https://github.com/gshuangchun/CCL-MTLVRP) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-26
-
-    *Shuangchun Gui, Suyu Liu, Xuehe Wang, Zhiguang Cao*
-
-46. **Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning** NeurIPS, 2025. [paper](https://openreview.net/forum?id=QPJjiNCRq1), [code](https://github.com/CIAM-Group/TTPL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-10-22
+45. **Improving Generalization of Neural Combinatorial Optimization for Vehicle Routing Problems via Test-Time Projection Learning** NeurIPS, 2025. [paper](https://openreview.net/forum?id=QPJjiNCRq1), [code](https://github.com/CIAM-Group/TTPL) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-22
 
     *Yuanyao Chen, Rongsheng Chen, Fu Luo, Zhenkun Wang*
+
+46. **Chain-of-Context Learning: Dynamic Constraint Understanding for Multi-Task VRPs** ICLR, 2026. [paper](https://openreview.net/forum?id=AhE6aSlz5g), [code](https://github.com/gshuangchun/CCL-MTLVRP) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-26
+
+    *Shuangchun Gui, Suyu Liu, Xuehe Wang, Zhiguang Cao*
 
 47. **Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM** ICLR, 2026. [paper](https://arxiv.org/abs/2510.11121), [code](https://github.com/zaodushi/RFTHGS) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-14
 
@@ -2565,7 +2565,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ### [Predict+Optimize](#content)
 
-1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxpy/cvxpylayers) ⭐ 2,155 | 🐛 30 | 🌐 Python | 📅 2026-11-16
+1. **Differentiable Convex Optimization Layers** NeurIPS, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3454287.3455145), [code](https://github.com/cvxpy/cvxpylayers) ⭐ 2,155 | 🐛 25 | 🌐 Python | 📅 2026-11-26
 
    *Akshay Agrawal, Stephen Boyd*
 
@@ -2701,7 +2701,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Guangmo Tong*
 
-3. **From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2602.05179), [code](https://github.com/Jingyi-poly/2-stage-MIP-GPU/tree/CVRPSD-split-GPU) ⭐ 4 | 🐛 0 | 📅 2026-11-24
+3. **From Sequential to Parallel: Reformulating Dynamic Programming as GPU Kernels for Large-Scale Stochastic Combinatorial Optimization** ICLR, 2026. [paper](https://arxiv.org/abs/2602.05179), [code](https://github.com/Jingyi-poly/2-stage-MIP-GPU/tree/CVRPSD-split-GPU) ⭐ 4 | 🐛 0 | 📅 2026-11-26
 
    *Jingyi Zhao, Linxin Yang, Haohua Zhang, Qile He, Tian Ding*
 
@@ -2753,4 +2753,4 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
